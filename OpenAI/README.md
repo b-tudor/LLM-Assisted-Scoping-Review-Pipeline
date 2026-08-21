@@ -21,7 +21,7 @@ Generally, the instructions for running a batch job are as follows:
 
 
   
-##Step 2: Make a batch file. This is a .jsonl file with your requests. Example (indentation not present on actual file):
+## Step 2: Make a batch file. This is a .jsonl file with your requests. Example (indentation not present on actual file):
 
 	{"custom_id": "request-1", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Hello world!"}],"max_completion_tokens": 1000}}
 	{"custom_id": "request-2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are an unhelpful assistant."},{"role": "user", "content": "Hello world!"}],"max_completion_tokens": 1000}}
@@ -55,7 +55,7 @@ Generally, the instructions for running a batch job are as follows:
 		If you want the model to keep continuity over multiple turns, you include past assistant messages too.
 
 
-##Step 3: Upload the file to OpenAI. Use the script upload-batch.py
+## Step 3: Upload the file to OpenAI. Use the script upload-batch.py
 
 	./upload-batch-job-file.py <filename-of-your-.jsonl-file>
 
@@ -67,7 +67,7 @@ Generally, the instructions for running a batch job are as follows:
 
 
 
-##Step 4: Run the batch file
+## Step 4: Run the batch file
 
 	./do-batch.py <file-ID>
 
