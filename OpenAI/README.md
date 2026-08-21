@@ -6,18 +6,20 @@ Generally, the instructions for running a batch job are as follows:
 
 
 
-Step 1: Load the API key into the OPENAI_API_KEY environment variable:
+##Step 1: Load the API key into the OPENAI_API_KEY environment variable:
 
 	source export-key.sh
 
-NOTE:    You do need to enter your OpenAI API key into the script first. 
-WARNING: Do not use this script if you are not on a trusted computer, 
+
+**NOTE**:    You do need to enter your OpenAI API key into the script first. 
+**NOTE**:    This is intended for a Linux Bash shell, please adjust accordingly.
+**WARNING**: Do not use this script if you are not on a trusted computer, 
          where you can't, say, leave your secret API key sitting unencrypted
          in a random text file.
 
 
   
-Step 2: Make a batch file. This is a .jsonl file with your requests. Example (indentation not present on actual file):
+##Step 2: Make a batch file. This is a .jsonl file with your requests. Example (indentation not present on actual file):
 
 	{"custom_id": "request-1", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Hello world!"}],"max_completion_tokens": 1000}}
 	{"custom_id": "request-2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are an unhelpful assistant."},{"role": "user", "content": "Hello world!"}],"max_completion_tokens": 1000}}
@@ -51,7 +53,7 @@ Step 2: Make a batch file. This is a .jsonl file with your requests. Example (in
 		If you want the model to keep continuity over multiple turns, you include past assistant messages too.
 
 
-Step 3: Upload the file to OpenAI. Use the script upload-batch.py
+##Step 3: Upload the file to OpenAI. Use the script upload-batch.py
 
 	./upload-batch-job-file.py <filename-of-your-.jsonl-file>
 
@@ -63,7 +65,7 @@ Step 3: Upload the file to OpenAI. Use the script upload-batch.py
 
 
 
-Step 4: Run the batch file
+##Step 4: Run the batch file
 
 	./do-batch.py <file-ID>
 
