@@ -6,9 +6,10 @@ Before using any of these tools, you must export your OpenAI API
 key to the environment variable:
 
 OPENAI_API_KEY
-(See: export-key.sh, run using the command "source export-key.sh")
+
+(See: `export-key.sh`, run using the command `source export-key.sh`)
 You do need to enter your OpenAI API key into the script first.
-WARNING: Do not use this script if you are not on a trusted computer,
+**WARNING**: Do not use this script if you are not on a trusted computer,
 where you can't, say, leave your secret API key sitting unencrypted
 in a random text file.
 
