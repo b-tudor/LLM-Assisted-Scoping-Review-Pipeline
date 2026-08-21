@@ -12,7 +12,9 @@ Generally, the instructions for running a batch job are as follows:
 
 
 **NOTE**:    You do need to enter your OpenAI API key into the script first. 
+
 **NOTE**:    This is intended for a Linux Bash shell, please adjust accordingly.
+
 **WARNING**: Do not use this script if you are not on a trusted computer, 
          where you can't, say, leave your secret API key sitting unencrypted
          in a random text file.
