@@ -6,7 +6,7 @@ import json
 if len(sys.argv) != 2:
     print(f'Usage:\n\t{sys.argv[0]} <input_file>')
     print(f'CSV data is output to terminal. Redirect output to a CSV file.\nE.g.:')
-    print(f'\t{sys.argv[0]} > output_file.csv')
+    print(f'\t{sys.argv[0]} input_file.jsonl > output_file.csv')
     exit(1)
 
 INPUT_FILE = sys.argv[1]
