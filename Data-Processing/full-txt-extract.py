@@ -12,8 +12,8 @@ from pathlib import Path
 GROBID_URL = "http://localhost:8070/api/processFulltextDocument"
  
 # Your Mac paths
-PDF_FOLDER    = Path("./HDT-review-review/PDFs")
-OUTPUT_FOLDER = Path("./HDT-review-review/new-texts")
+PDF_FOLDER    = Path("./PDFs")
+OUTPUT_FOLDER = Path("./TXTs")
  
 # Make sure output folder exists
 OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
