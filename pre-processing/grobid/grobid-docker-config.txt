@@ -1,7 +1,7 @@
 # TO RUN DOCKER/GROBID:
 
 
-# CHECK WHATS IMAGES YOU HAVE AVAILABLE, THIS IS WHAT WE GOT:
+# CHECK WHAT IMAGES YOU HAVE AVAILABLE, THIS IS WHAT WE GOT:
 
 % docker ps
 CONTAINER ID   IMAGE                 COMMAND                  CREATED         STATUS          PORTS     NAMES
@@ -16,12 +16,44 @@ grobid/grobid   0.8.2     0057fdcff928   15 months ago   27GB
 % docker run --rm --init -p 8070:8070 grobid/grobid:0.8.2
 
 
-
-
+############################################################################################################
 # Config dumps follow. 
 # The command appears after the prompt '%', followed by the command output
+############################################################################################################
 
-# THE "IMPORTANT BITS"
+
+% docker version
+
+Client:
+ Version:           28.3.2
+ API version:       1.51
+ Go version:        go1.24.5
+ Git commit:        578ccf6
+ Built:             Wed Jul  9 16:12:57 2025
+ OS/Arch:           darwin/arm64
+ Context:           desktop-linux
+
+Server: Docker Desktop 4.44.1 (201842)
+ Engine:
+  Version:          28.3.2
+  API version:      1.51 (minimum version 1.24)
+  Go version:       go1.24.5
+  Git commit:       e77ff99
+  Built:            Wed Jul  9 16:13:56 2025
+  OS/Arch:          linux/arm64
+  Experimental:     false
+ containerd:
+  Version:          1.7.27
+  GitCommit:        05044ec0a9a75232cad458027ca83437aae3f4da
+ runc:
+  Version:          1.2.5
+  GitCommit:        v1.2.5-0-g59923ef
+ docker-init:
+  Version:          0.19.0
+  GitCommit:        de40ad0
+
+############################################################################################################
+
 
 
 % docker inspect grobid \     
@@ -43,6 +75,10 @@ Environment=["PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/us
 Mounts=[]
 Ports={}
 
+############################################################################################################
+
+
+
 
 % docker image inspect grobid/grobid:0.8.2 \
   --format 'ID={{.Id}}
@@ -60,17 +96,16 @@ Created=2025-05-12T07:16:04.554219585Z
 Architecture=amd64
 OS=linux
 
+############################################################################################################
 
 
-
-
-
-# THE ORIGINAL QUERIES:
 
 
 % curl http://localhost:8070/api/version
 
 {"version":"0.8.2","revision":"a91ee48"}
+
+############################################################################################################
 
 
 
@@ -189,6 +224,8 @@ OS=linux
         }
     }
 ]
+
+############################################################################################################
 
 
 
@@ -431,50 +468,7 @@ OS=linux
     }
 ]
 
-
-
-
-
-
-
-
-
-
-
-
-% docker version
-
-Client:
- Version:           28.3.2
- API version:       1.51
- Go version:        go1.24.5
- Git commit:        578ccf6
- Built:             Wed Jul  9 16:12:57 2025
- OS/Arch:           darwin/arm64
- Context:           desktop-linux
-
-Server: Docker Desktop 4.44.1 (201842)
- Engine:
-  Version:          28.3.2
-  API version:      1.51 (minimum version 1.24)
-  Go version:       go1.24.5
-  Git commit:       e77ff99
-  Built:            Wed Jul  9 16:13:56 2025
-  OS/Arch:          linux/arm64
-  Experimental:     false
- containerd:
-  Version:          1.7.27
-  GitCommit:        05044ec0a9a75232cad458027ca83437aae3f4da
- runc:
-  Version:          1.2.5
-  GitCommit:        v1.2.5-0-g59923ef
- docker-init:
-  Version:          0.19.0
-  GitCommit:        de40ad0
-  
-
-
-
+############################################################################################################
 
 
 
