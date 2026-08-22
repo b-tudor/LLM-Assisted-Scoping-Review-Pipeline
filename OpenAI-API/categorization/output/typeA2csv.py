@@ -6,7 +6,7 @@ argc = len(sys.argv)
 if (argc != 2):
     print(f"Usage:\n\t{sys.argv[0]} <jsonl-file>")
     print(f'CSV data is output to terminal. Redirect output to a CSV file.\nE.g.:')
-    print(f'\t{sys.argv[0]} > output_file.csv')
+    print(f'\t{sys.argv[0]} input_file.jsonl > output_file.csv')
     exit(1)
 
 file_path = sys.argv[1]
