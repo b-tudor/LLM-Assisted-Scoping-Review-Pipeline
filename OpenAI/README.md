@@ -1,12 +1,15 @@
+# General Instructions
+
 These are the files used to run the pipeline using OpenAI's API.
 The model we used in our paper was GPT-5. 
 
+You will need to apply these steps in order to create batch jobs that will be processed for the Categorization 
 Generally, the instructions for running a batch job are as follows:
 
 
 
 
-##Step 1: Load the API key into the OPENAI_API_KEY environment variable:
+## Step 1: Load the API key into the OPENAI_API_KEY environment variable:
 
 	source export-key.sh
 
