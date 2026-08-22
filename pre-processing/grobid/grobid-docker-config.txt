@@ -1,6 +1,30 @@
+# TO RUN DOCKER/GROBID:
+
+
+# CHECK WHATS IMAGES YOU HAVE AVAILABLE, THIS IS WHAT WE GOT:
+
+% docker ps
+CONTAINER ID   IMAGE                 COMMAND                  CREATED         STATUS          PORTS     NAMES
+e254e0befed0   grobid/grobid:0.8.2   "/tini -s -- ./grobi…"   12 months ago   Up 12 minutes             grobid
+
+% docker images
+REPOSITORY      TAG       IMAGE ID       CREATED         SIZE
+grobid/grobid   0.8.2     0057fdcff928   15 months ago   27GB
+
+
+# TO RUN IT (ASSUMING YOU HAVE IT):
+% docker run --rm --init -p 8070:8070 grobid/grobid:0.8.2
+
+
+
+
+# Config dumps follow. 
+# The command appears after the prompt '%', followed by the command output
+
 # THE "IMPORTANT BITS"
 
-(base) btudor4@wozniak TXTs % docker inspect grobid \     
+
+% docker inspect grobid \     
   --format 'Image={{.Config.Image}}
 ImageID={{.Image}}
 Platform={{.Platform}}
@@ -9,6 +33,7 @@ Entrypoint={{json .Config.Entrypoint}}
 Environment={{json .Config.Env}}
 Mounts={{json .Mounts}}
 Ports={{json .HostConfig.PortBindings}}'
+
 Image=grobid/grobid:0.8.2
 ImageID=sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190
 Platform=linux
@@ -19,8 +44,7 @@ Mounts=[]
 Ports={}
 
 
-
-(base) btudor4@wozniak TXTs % docker image inspect grobid/grobid:0.8.2 \
+% docker image inspect grobid/grobid:0.8.2 \
   --format 'ID={{.Id}}
 RepoTags={{json .RepoTags}}
 RepoDigests={{json .RepoDigests}}
@@ -28,13 +52,14 @@ Created={{.Created}}
 Architecture={{.Architecture}}
 OS={{.Os}}
 Labels={{json .Config.Labels}}'
+
 ID=sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190
 RepoTags=["grobid/grobid:0.8.2"]
 RepoDigests=["grobid/grobid@sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190"]
 Created=2025-05-12T07:16:04.554219585Z
 Architecture=amd64
 OS=linux
-Labels={"authors":"The contributors","maintainer":"NVIDIA CORPORATION <cudatools@nvidia.com>","org.label-schema.description":"Image with GROBID service","org.label-schema.name":"GROBID","org.label-schema.url":"https://github.com/kermitt2/grobid","org.label-schema.version":""}
+
 
 
 
@@ -43,14 +68,14 @@ Labels={"authors":"The contributors","maintainer":"NVIDIA CORPORATION <cudatools
 # THE ORIGINAL QUERIES:
 
 
-(base) btudor4@wozniak TXTs % curl http://localhost:8070/api/version
-{"version":"0.8.2","revision":"a91ee48"}%                                                                                                            (base) btudor4@wozniak TXTs % docker ps
-CONTAINER ID   IMAGE                 COMMAND                  CREATED          STATUS          PORTS                                         NAMES
-cacb84339350   grobid/grobid:0.8.2   "/tini -s -- ./grobi…"   16 minutes ago   Up 16 minutes   0.0.0.0:8070->8070/tcp, [::]:8070->8070/tcp   pensive_payne
-(base) btudor4@wozniak TXTs % docker images --digests --no-trunc
-REPOSITORY      TAG       DIGEST                                                                    IMAGE ID                                                                  CREATED         SIZE
-grobid/grobid   0.8.2     sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190   sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190   15 months ago   27GB
-(base) btudor4@wozniak TXTs % docker image inspect grobid/grobid:0.8.2
+% curl http://localhost:8070/api/version
+
+{"version":"0.8.2","revision":"a91ee48"}
+
+
+
+% docker image inspect grobid/grobid:0.8.2
+
 [
     {
         "Id": "sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190",
@@ -169,7 +194,8 @@ grobid/grobid   0.8.2     sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001
 
 
 
-(base) btudor4@wozniak TXTs % docker inspect grobid       
+% docker inspect grobid
+
 [
     {
         "Id": "e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee",
@@ -416,7 +442,8 @@ grobid/grobid   0.8.2     sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001
 
 
 
-(base) btudor4@wozniak TXTs % docker version
+% docker version
+
 Client:
  Version:           28.3.2
  API version:       1.51
@@ -452,8 +479,10 @@ Server: Docker Desktop 4.44.1 (201842)
 
 
 
-(base) btudor4@wozniak TXTs % docker exec cacb84339350 \ 
+% docker exec cacb84339350 \ 
     cat /opt/grobid/grobid-home/config/grobid.yaml
+    
+
 # this is the configuration file for the GROBID instance that uses the Deep Learning Models.
 
 grobid:
@@ -824,4 +853,4 @@ logging:
       timeZone: UTC
       # uncomment to have the logs in json format
       #layout:
-      #  type: json%                                                                                                                                 (base) btudor4@wozniak TXTs % 
+      #  type: json%                                                                                            
