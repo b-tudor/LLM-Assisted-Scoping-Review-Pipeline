@@ -8,5 +8,5 @@ Our initial results were obtained on the model `gpt-08-07-2025` via the `/respon
 **Code & Instructions for using locally hosted LLM models are located in** `local-llm/` 
 The model we used was OpenAI's `gpt-oss-20b`
 
-## Data-Processing/
+## pre-processing/
 This directory has utilities for preprocessing the input files: converting the body-text of the PDF files into text (.TXT) documents.
