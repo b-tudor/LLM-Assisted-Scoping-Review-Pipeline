@@ -4,7 +4,7 @@
 The `OpenAI-API/` directory contains the files used to manage the scoping review workflow using OpenAI's API.
   
 The general workflow is to:  
-1. generate jsonl files where each line is an individual request to the API.
+1. Generate jsonl files where each line is an individual request to the API.
 2. Upload these files to OpenAI. Run them as batch jobs.
 3. Check for completion/errors.
 4. Download output or error logs.
