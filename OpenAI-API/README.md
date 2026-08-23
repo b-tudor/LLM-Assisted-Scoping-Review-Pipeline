@@ -26,8 +26,8 @@ tools/display-error-file.py
 tools/check-batch-status.py
 ```  
   
-You may find that a job is too large to submit via the batch system. In that case, put these lines in a file of their own and submit those via the script tools/real-time-job-runner.py  
-The output from these files will be slightly different and so they need to be parsed differently. In this archive the batch output is generally referred to as type A while the synchronous jobs are referred to as type B. So parsers like typeA2csv.py will convert batch output to a csv file, and so on. You get  the picture.  
+You may find that a job is too large to submit via the batch system. In that case, put these jsonl request lines in a file of their own and submit them to the synchronous API using the script `tools/real-time-job-runner.py`  
+The output from these files will be ever-so-slightly different, but nevertheless they will need to be parsed differently. In this archive the batch output is generally referred to as type A while the synchronous jobs are referred to as type B. So parsers like typeA2csv.py will convert batch output to a CSV file, and so on. You get  the picture.  
 
 
 
