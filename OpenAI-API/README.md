@@ -4,14 +4,15 @@
 The `OpenAI-API/` directory contains the files used to manage the scoping review workflow using OpenAI's API.
   
 The general workflow is to:  
-1. Generate jsonl files where each line is an individual request to the API.
-2. Upload these files to OpenAI. Run them as batch jobs.
-3. Check for completion/errors.
-4. Download output or error logs.
-
-There is an limit to how many tokens you can have enqueued for jobs in the batch system, which varies by date, model and user access-tier. If you have large jobs, you will need to create batch files with fewer jobs. If you have a jobs that by themselves exceed the enqueued token limit (the batch error log will inform you of this), collect these jobs into a separate file and submit them to the synchronous pathway (see below). Alternately, you can submit all jobs to the synchronous API, but I *think* at the time it was slower and cost more--ymmv.  
-
-There are several utilities here for turning raw data or the output from a previous pipeline stage into a batch job for a downstream pipeline stage.
+1. Generate a jsonl file, where each line is an individual request to the API.  
+2. Upload the file to OpenAI as batch job.  
+3. Run the batch.  
+4. Check for completion/errors.  
+5. Download output or error logs.  
+  
+There is an limit to how many tokens you can have enqueued for jobs in the batch system which varies by user access-tier (among other factors). If you have large jobs, you will need to create batch files with fewer jobs. If you have jobs that by themselves exceed the enqueued token limit, collect these jobs into a separate file and submit them to the synchronous pathway (see below). Alternately, you can submit all jobs to the synchronous API, but I *think* at the time it was slower and cost more--ymmv.  The batch file error logs will let you know if a batch failed due to the batch having exceeded the enqueued token limit.  
+  
+There are several utilities here for turning raw data or the output from a previous pipeline stage into a batch job for a downstream pipeline stage.  
 ```
 title-abstract-screening ---------> -----+-----> full-text-screening ----+--> categorization
                                          |                               | 
@@ -20,7 +21,7 @@ title-abstract-screening ---------> -----+-----> full-text-screening ----+--> ca
 Once you've generated a batch input jsonl file, it is uploaded to the API. You can use the tool `tool/upload-batch-job-file.py` for this.  
   
 Then, submit the file as a batch job and enqueue it for execution. This can be done with the tool `tool/do-batch.py`  
-
+  
 Finally, output or errors can be retrieved using:  
 ```
 tools/get-output.py
