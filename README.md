@@ -2,7 +2,7 @@
 
 ## OpenAI-API/
 **Code & Instructions for using the OpenAI public API service can be found in** `OpenAI-API/` 
-Our initial results were obtained on the model `gpt-08-07-2025` via the `/responses/` endpoint with reasoning effort set to high.
+Our initial results were obtained on the model `gpt-08-07-2025` via the `/v1/responses/` endpoint with reasoning effort set to high.
 
 ## local-llm/
 **Code & Instructions for using locally hosted LLM models are located in** `local-llm/` 
