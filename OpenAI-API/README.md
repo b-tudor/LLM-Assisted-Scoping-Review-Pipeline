@@ -54,33 +54,33 @@ The output from these files will be ever-so-slightly different, but nevertheless
 	{"custom_id": "request-2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are an unhelpful assistant."},{"role": "user", "content": "Hello world!"}]}}
 ```
 
-	Here, each line is a separate request.  
+Here, each line is a separate request.  
 
-	In the OpenAI chat completions format, body.messages is essentially the conversation history you send to the model, and each object has:
-		role → who is "speaking" in that turn
-		content → what that "speaker" says
-		
-		The possible role values are:
+In the OpenAI chat completions format, body.messages is essentially the conversation history you send to the model, and each object has:
+	role → who is "speaking" in that turn
+	content → what that "speaker" says
+	
+	The possible role values are:
 
-		Role        Meaning
-		"system"    Special instructions to set behavior, tone, or constraints for the model. Think of this as meta-guidance about how the assistant should respond, not part of the user’s conversation.
-		"user"      Input from the human user (the actual prompt or question).
-		"assistant" A prior response from the model (used when sending conversation history for continuity).
-		"tool"      (optional / advanced) Used when the model is interacting with a tool call in the newer API designs (Assistants API, function calling).
+	Role        Meaning
+	"system"    Special instructions to set behavior, tone, or constraints for the model. Think of this as meta-guidance about how the assistant should respond, not part of the user’s conversation.
+	"user"      Input from the human user (the actual prompt or question).
+	"assistant" A prior response from the model (used when sending conversation history for continuity).
+	"tool"      (optional / advanced) Used when the model is interacting with a tool call in the newer API designs (Assistants API, function calling).
 
-		How They’re Used in Practice  
-			System message:  
-			`{"role": "system", "content": "You are a helpful assistant that answers in pirate slang."}`  
-			This sets the context and persona for all subsequent completions.  
-  
-			User message:  
-			`{"role": "user", "content": "How do I bake a cake?"}`  
-			This is like typing into ChatGPT’s input box.  
-  
-			assistant message:  
-			`{"role": "assistant", "content": "Here’s a simple recipe for baking a cake..."}`  
-  
-		If you want the model to keep continuity over multiple turns, you include past assistant messages too.  
+	How They’re Used in Practice  
+		System message:  
+		`{"role": "system", "content": "You are a helpful assistant that answers in pirate slang."}`  
+		This sets the context and persona for all subsequent completions.  
+
+		User message:  
+		`{"role": "user", "content": "How do I bake a cake?"}`  
+		This is like typing into ChatGPT’s input box.  
+
+		assistant message:  
+		`{"role": "assistant", "content": "Here’s a simple recipe for baking a cake..."}`  
+
+	If you want the model to keep continuity over multiple turns, you include past assistant messages too.  
   
   
 ## iii. Upload the file to OpenAI. Use the script upload-batch.py
