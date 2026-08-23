@@ -44,9 +44,8 @@ tools/check-batch-status.py
 
 **NOTE**:    This is intended for a Linux/MacOS Bash shell, please adjust accordingly.
 
-**WARNING**: Do not use this script if you are not on a trusted computer, 
-         where you can't, say, leave your secret API key sitting unencrypted
-         in a random text file.
+**WARNING**: Do not use the `export-key.sh` script if you are not on a secure, trusted computer, 
+         where you can't, say, leave your secret API key sitting unencrypted in a random text file.  
 
 
   
