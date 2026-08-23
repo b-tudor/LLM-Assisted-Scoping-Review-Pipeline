@@ -11,7 +11,7 @@ A csv file made from the LLM output of the previous step (gpt5, in our case). Th
 
 `full-texts/ID.txt`
 
-There must be a text file in this folder for each study marked as a 'Y' in the title/abstract screening results. Here ID (as in ID.txt) is the unique study id for this paper. eg. The text of study 42 should be named "42.txt".
+There must be a text file in this folder for each study marked as a 'Y' in the title/abstract screening results. Here ID (as in ID.txt) is the unique study id for this paper. eg. The text of study 42 should be named `42.txt`.
 
 Redirect this output to the batch file for upload to the OpenAI API.
 Eg:
