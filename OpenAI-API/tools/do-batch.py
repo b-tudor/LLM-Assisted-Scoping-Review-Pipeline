@@ -5,7 +5,7 @@
 import sys
 from openai import OpenAI
 
-job_desc = "Screen X.X.n: Full text screening of articles selected in screen."
+job_desc = "ENTER JOB DESCRIPTION HERE (OPTIONAL)."
 
 argc = len(sys.argv)
 if (argc != 2):
