@@ -1,7 +1,7 @@
 # General API Workflow Instructions 
 ## (And general noob guidance for interacting with the OpenAI API)
 
-The `OpenAI-API` directory contains the files used to manage the scoping review workflow using OpenAI's API.
+The `OpenAI-API/` directory contains the files used to manage the scoping review workflow using OpenAI's API.
   
 The general workflow is to:  
 1. generate jsonl files where each line is an individual request to the API.
