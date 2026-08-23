@@ -15,9 +15,11 @@ Once you've generated a batch input jsonl file, it is uploaded to the API. You c
 Then, submit the file as a batch job and enqueue it for execution. This can be done with the tool `tool/do-batch.py`  
 
 Finally, output or errors can be retrieved using:  
-```tools/get-output.py
+```
+tools/get-output.py
 tools/display-error-file.py
-tools/check-batch-status.py```  
+tools/check-batch-status.py
+```  
   
 You may find that a job is too large to submit via the batch system. In that case, put these lines in a file of their own and submit those via the script tools/real-time-job-runner.py  
 The output from these files will be slightly different and so they need to be parsed differently. In this archive the batch output is generally referred to as type A while the synchronous jobs are referred to as type B. So parsers like typeA2csv.py will convert batch output to a csv file, and so on. You get  the picture.  
