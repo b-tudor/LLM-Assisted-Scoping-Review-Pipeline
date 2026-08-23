@@ -14,9 +14,9 @@ There is an limit to how many tokens you can have enqueued for jobs in the batch
   
 There are several utilities here for turning raw data or output from previous pipeline stages into batch jobs for downstream pipeline stages.  
 ```
-title-abstract-screening ---------> -----+-----> full-text-screening ----+--> categorization
-                                         |                               | 
-               full text files >---------+                               +--> synthesis
+title-abstract-screening ---> [output] ----+---> full-text-screening ---> [output] ---+---> categorization
+                                           |                                          | 
+                 full text files >---------+                                          +---> synthesis
 ```
 Once you've generated a batch input jsonl file, it is uploaded to the API. You can use the tool `tool/upload-batch-job-file.py` for this.  
   
