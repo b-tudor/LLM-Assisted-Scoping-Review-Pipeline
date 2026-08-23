@@ -3,7 +3,7 @@
 These are the files used to run the pipeline using OpenAI's API.
 The model we used in our paper was GPT-5. 
 
-The general work flow is to  
+The general workflow is to:  
 1. generate jsonl files where each line is an individual request to the API.
 2. Upload these files to OpenAI. Run them as batch jobs.
 3. Check for completion/errors.
