@@ -1,8 +1,23 @@
-# General Instructions
+# General Guidance
 
 These are the files used to run the pipeline using OpenAI's API.
 The model we used in our paper was GPT-5. 
 
+The general work flow is to generate jsonl files where each line is an individual request to the API. 
+
+This file is uploaded to the API, you can use the tool tool/upload-batch-job-file.py
+
+Make a note of the ID number for the batch (reported during upload). If you lose the number, you can get a list of current files using the utility tool/list-file-IDs.py
+
+Then, the file is flagged as a batch job and enqueued for execution. This can be done with the tool tool/do-batch.py
+
+Make a note of the batch job id. If you lose this, you can check your recent batches using the script tool/recent-batches.py
+
+
+
+The status can be checke
+
+Create a CSV file with 
 You will need to apply these steps in order to create batch jobs that will be processed for the Categorization 
 Generally, the instructions for running a batch job are as follows:
 
@@ -16,7 +31,7 @@ Generally, the instructions for running a batch job are as follows:
 
 **NOTE**:    You do need to enter your OpenAI API key into the script first. 
 
-**NOTE**:    This is intended for a Linux Bash shell, please adjust accordingly.
+**NOTE**:    This is intended for a Linux/MacOS Bash shell, please adjust accordingly.
 
 **WARNING**: Do not use this script if you are not on a trusted computer, 
          where you can't, say, leave your secret API key sitting unencrypted
