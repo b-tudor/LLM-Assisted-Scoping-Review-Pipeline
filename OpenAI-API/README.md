@@ -4,22 +4,24 @@ These are the files used to run the pipeline using OpenAI's API.
 The model we used in our paper was GPT-5. 
 
 The general work flow is to generate jsonl files where each line is an individual request to the API. 
+There are several utilities here for turning the output from a previous pipeline stage into a batch job for the next pipeline stage.
 
-This file is uploaded to the API, you can use the tool tool/upload-batch-job-file.py
+title-abstract-screening ---------> -----+-----> full-text-screening ----+--> categorization
+                                         |                               | 
+               full text files >---------+                               +--> synthesis
 
-Make a note of the ID number for the batch (reported during upload). If you lose the number, you can get a list of current files using the utility tool/list-file-IDs.py
+Once you've generated a batch input jsonl file, it is uploaded to the API. You can use the tool `tool/upload-batch-job-file.py` for this.
 
-Then, the file is flagged as a batch job and enqueued for execution. This can be done with the tool tool/do-batch.py
+Then, submit the file as a batch job and enqueue it for execution. This can be done with the tool `tool/do-batch.py`
 
-Make a note of the batch job id. If you lose this, you can check your recent batches using the script tool/recent-batches.py
+Finally, output or errors can be retrieved using:
+`tools/get-output.py
+tools/display-error-file.py
+tools/check-batch-status.py`
 
+You may find that a job is too large to submit via the batch system. In that case, put these lines in a file of their own and submit those via the script tools/real-time-job-runner.py
+The output from these files will be slightly different and so they need to be parsed differently. In this archive the batch output is generally referred to as type A while the synchronous jobs are referred to as type B. So parsers like typeA2csv.py will convert batch output to a csv file, and so on. You get  the picture. 
 
-
-The status can be checke
-
-Create a CSV file with 
-You will need to apply these steps in order to create batch jobs that will be processed for the Categorization 
-Generally, the instructions for running a batch job are as follows:
 
 
 
