@@ -1,14 +1,15 @@
-# General API Pipeline Instructions 
+# General API Workflow Instructions 
 ## (And general noob guidance for interacting with the OpenAI API)
 
-These are the files used to run the pipeline using OpenAI's API.
-The model we used in our paper was GPT-5. 
-
+The `OpenAI-API` directory contains the files used to manage the scoping review workflow using OpenAI's API.
+  
 The general workflow is to:  
 1. generate jsonl files where each line is an individual request to the API.
 2. Upload these files to OpenAI. Run them as batch jobs.
 3. Check for completion/errors.
 4. Download output or error logs.
+
+There is an limit to how many tokens you can have enqueued for jobs in the batch system, which varies by date, model and user access-tier. If you have large jobs, you will need to create batch files with fewer jobs. If you have a jobs that by themselves exceed the enqueued token limit (the batch error log will inform you of this), collect these jobs into a separate file and submit them to the synchronous pathway (see below). Alternately, you can submit all jobs to the synchronous API, but I *think* at the time it was slower and cost more--ymmv.  
 
 There are several utilities here for turning raw data or the output from a previous pipeline stage into a batch job for a downstream pipeline stage.
 ```
@@ -48,10 +49,11 @@ tools/check-batch-status.py
 
 
   
-## ii. Make a batch file. This is a .jsonl file with your requests. Example:
+## ii. Make a batch file
+This is a .jsonl file where each line is an independent request/job to the API. Example:  
 ```
-{"custom_id": "request-1", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Hello world!"}]}}
-{"custom_id": "request-2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are an unhelpful assistant."},{"role": "user", "content": "Hello world!"}]}}
+{"custom_id": "request-1", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are a helpful assistant."},{"role": "user", "content": "Help me write Hello world! in Python"}]}}
+{"custom_id": "request-2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "gpt-5", "messages": [{"role": "system", "content": "You are an unhelpful assistant."},{"role": "user", "content": "Help me write Hello world! in C++"}]}}
 ```
 
 Here, each line is a separate request.  
@@ -83,7 +85,7 @@ assistant message:
 If you want the model to keep continuity over multiple turns, you include past assistant messages too.   
   
   
-## iii. Upload the file to OpenAI. Use the script upload-batch.py
+## iii. Upload the file to OpenAI
   
 `./upload-batch-job-file.py <filename-of-your-jsonl-file>`  
 
@@ -95,21 +97,19 @@ This loads the file onto the OpenAI server so that it can be referenced by the o
   
 ## iv. Run the batch file
   
-	`./do-batch.py <file-ID>`
-  
-	If you copied the fileID from the previous step onto the clipboard, you can just paste it onto the end of this command. THIS command will return a batch id. You will need this ID to check on the status of the batch job and to retrieve results, etc.
-	If you did not write down or copy/paste the batch ID somewhere, you can find a list of the batches that have been submitted recently (last 24 hours, I think) by running:
-		`./recent-batches.py`  
-  
-	If you like, you can edit the job_desc variable at the top of the do_batch.py file to attached a description string to the job (maybe useful if you are sending a bunch of unrelated batch jobs to OpenAI)  
-  
-  
-  
-BATCH1:  
-`batch_689d6509dbb8819085a05fd71aea0a14`  
-  
-BATCH 2:  
-`batch_689d6548f1108190aaf997a958605074`  
+`./do-batch.py <file-ID>`
 
+If you copied the fileID from the previous step onto the clipboard, you can just paste it onto the end of this command. THIS command will return a batch id. You will need this ID to check on the status of the batch job and to retrieve results, etc.  
+  
+If you did not write down or copy/paste the batch ID somewhere, you can find a list of the batches that have been submitted recently (last 24 hours, I think) by running:  
+`./recent-batches.py`  
+  
+If you like, you can edit the job_desc variable at the top of the do_batch.py file to attached a description string to the job (maybe useful if you are sending a bunch of unrelated batch jobs).  
+  
+Batch IDs should look something like:    
+```
+batch_689d6509dbb8819085a05fd71aea0a14  
+batch_689d6548f1108190aaf997a958605074
+```
 
 
