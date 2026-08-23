@@ -1,0 +1,34 @@
+TITLE: Feasibility study of intelligent healthcare based on digital twin and data mining
+AUTHOR 1: ShifengXie
+AUTHOR 2: SamaZhu
+AUTHOR 3: JiaqiDai
+================================================================================
+2021 International Conference on Computer Information Science and Artificial Intelligence (CISAI)
+Feasibility study of intelligent healthcare based on
+digital twin and data mining
+Shifeng Xie1*, Sama Zhu2, Jiaqi Dai3
+1Xidian University Xi'an, Shaanxi Province, China
+2Hefei University of Technology Hefei,Anhui Province ,China
+3Northeastem University Qinhuangdao, Hebei Province, China
+( *duoerxs@l63.com)
+
+Abstract: Its use of historical and real-time data and
+algorithmic models to digitally create virtual models of physical
+entities to simulate, validate, predict, and control the full lifecycle
+processes of physical entities is widely acknowledged as a digital
+twin. A digital twin is essentially a digital replica of a physical
+entity or process. With the advancement of data mining and
+digital twin technology, digital twin combined with medical
+information data mining is gaining popularity, and this paper
+conducts corresponding research based on data mining and
+digital twin technology. First, the sensors on the patient are read.
+Second, the sensor data is extracted from EEG data features.
+Finally the patient's medical history data is data mined from the
+SEER database, primarily for specific cancer patients, and an
+overall assessment of the patient's medical health status and
+feedback to the patient is provided through the integration of the
+above data.
+Keywords-component; Digital Twins; Smalt Healthcare; Data
+Mining; SEER
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

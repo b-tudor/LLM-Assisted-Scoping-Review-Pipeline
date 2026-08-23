@@ -1,0 +1,37 @@
+TITLE: Generation and application of avatars in pharmacometric modelling
+AUTHOR 1: EstelleChasseloup
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+AUTHOR 2: AndrewCHooker
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+AUTHOR 3: MatsOKarlsson [CORRESPONDING] <mats.karlsson@farmaci.uu.se>
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+================================================================================
+
+Journal of Pharmacokinetics and Pharmacodynamics (2023) 50:411–423
+https://doi.org/10.1007/s10928-023-09873-9 (0123456789().,-volV)(0123456789().
+,- volV)
+ORIGINAL PAPER
+Generation and application of avatars in pharmacometric modelling
+Estelle Chasseloup1
+• Andrew C. Hooker1
+• Mats O. Karlsson1
+Received: 20 May 2023 / Accepted: 26 June 2023 / Published online: 24 July 2023
+(cid:2) The Author(s) 2023
+Abstract
+Simulations from population models have critical applications in drug discovery and development. Avatars or digital twins,
+deﬁned as individual simulations matching clinical criteria of interest compared to observations from a real subject within a
+predeﬁned margin of accuracy, may be a better option for simulations performed to inform future drug development stages
+in cases where an adequate model is not achievable. The aim of this work was to (1) investigate methods for generating
+avatars with pharmacometric models, and (2) explore the properties of the generated avatars to assess the impact of the
+different selection settings on the number of avatars per subject, their closeness to the individual observations, and the
+properties of the selected samples subset from the theoretical model parameters probability density function. Avatars were
+generated using different combinations of nature and number of clinical criteria, accuracy of agreement, and/or number of
+simulations for two examples models previously published (hemato-toxicity and integrated glucose-insulin model). The
+avatar distribution could be used to assess the appropriateness of the models assumed parameter distribution. Similarly it
+could be used to assess the models ability to properly describe the trajectories of the observations. Avatars can give
+nuanced information regarding the ability of a model to simulate data similar to the observations both at the population and
+at the individual level. Further potential applications for avatars may be as a diagnostic tool, an alternative to simulations
+with insurance to replicate key clinical features, and as an individual measure of model ﬁt.
+Keywords Pharmacometrics (cid:2) Avatars (cid:2) Digital twins (cid:2) Virtual twins (cid:2) Clinical endpoint
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

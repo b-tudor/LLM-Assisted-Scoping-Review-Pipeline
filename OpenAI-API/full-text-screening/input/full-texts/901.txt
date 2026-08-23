@@ -1,0 +1,52 @@
+TITLE: Inference of Number and Location of Purkinje Root Nodes and Ventricular Conduction Properties from Clinical 12-Lead ECGs for Cardiac Digital Twinning
+AUTHOR 1: "juliaCamps
+AUTHOR 2: ZhinuoJenny Wang
+AUTHOR 3: RafaelSebastian
+  Affiliations: University of Valencia, Valencia Spain
+AUTHOR 4: XinZhou
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 5: BrodieLawson
+  Affiliations: Queensland University of Technology, Brisbane Australia
+AUTHOR 6: LucasArantes Berg
+AUTHOR 7: KevinBurrage
+  Affiliations: University of Oxford, Oxford United Kingdom | Queensland University of Technology, Brisbane Australia | Federal University of Juiz de Fora; Juiz de Fora, MG Brazil
+AUTHOR 8: VicenteGrau
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 9: RodrigoWeber
+  Affiliations: Federal University of Juiz de Fora; Juiz de Fora, MG Brazil
+AUTHOR 10: BlancaRodriguez"
+================================================================================
+
+Abstract 
+The  Purkinje  network  plays  a  determinant  role  in  the 
+electrical  activation  sequence  of  the  human  heart. 
+However,  Purkinje  properties  cannot  be  clinically 
+measured directly.  
+Recent studies have successfully demonstrated cardiac 
+digital  twins  without  Purkinje  networks,  using  inference 
+methods  integrating  cardiac  magnetic  resonance  (CMR) 
+(ECG)  data.  A 
+imaging  and 
+sophisticated  strategy  to  recover  a  patient’s  plausible 
+Purkinje structure would enable these cardiac digital twins 
+to  augment  clinical  data  and  inform  Purkinje-based  risk 
+stratification. 
+electrocardiogram 
+This  study  presents  and  evaluates  new  computational 
+techniques 
+terminal 
+locations, timings, and cardiac conduction properties from 
+clinical  CMR  and  ECG  using  Eikonal  simulations.  Our 
+extended  sequential  Monte  Carlo  approximate  Bayesian 
+computation-based  inference  method shows  an improved 
+match 
+to  Q-wave 
+simulated  QRS  complexes 
+morphologies  in  clinical  12-lead  ECGs  with  Pearson’s 
+correlation coefficients of 0.89.  
+to 
+infer  physiological  Purkinje 
+in 
+1. 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]
