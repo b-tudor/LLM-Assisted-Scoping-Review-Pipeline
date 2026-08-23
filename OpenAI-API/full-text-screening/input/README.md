@@ -17,3 +17,12 @@ Run the python script `create-fulltext-screen-batch.py` and redirect its output 
 Eg:
 
 `./create-fulltext-screen-batch.py > batchJob-sample_full-text-screen.jsonl`
+
+Then upload the batch job to the OpenAI API using the `upload-batch-job-file.py` utility located in the `tools/` directory. If this script is in your local directory, run:
+
+`./upload-batch-job-file.py batchJob-sample_full-text-screen.jsonl`
+
+Make a note of the file ID for the batch file. Start the batch using the `do-batch.py` tool:
+
+`./do-batch.py <fileID>`
+
