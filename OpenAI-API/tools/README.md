@@ -4,7 +4,7 @@ All instructions assume your are using a Linux or MacOS shell. Please adjust acc
 
 These files are utilities for interacting with the OpenAI API. They are used to upload files, download files, start batch jobs, query the status of files and jobs, delete files, etc. 
   
-Before using any of these tools, you must export your OpenAI API key to the environment variable:  
+Before using any of the API tools, you must install the Python openai library and export your OpenAI API key to the environment variable:  
   
 OPENAI_API_KEY  
   
