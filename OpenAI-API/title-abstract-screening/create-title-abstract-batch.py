@@ -67,7 +67,7 @@ df = pd.read_csv("title-abstract-list.csv")
 # Clear out any weirdo-caneero characters
 df = clean_text_columns(df)
 # Keep a copy (wo weirdos for future reference)
-df.to_csv("title-abstract-list-CLEAN.csv")
+df.to_csv("title-abstract-list-CLEAN.csv", index=False)
 # Change any quotes to escaped quotes so that they can be included in json objects
 df = escape_quotes_in_columns(df, columns=["title", "abstract"])
 
