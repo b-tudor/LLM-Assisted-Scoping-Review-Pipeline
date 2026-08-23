@@ -2,9 +2,14 @@ The first step in the work flow would be to get a CSV file named `title-abstract
 
 `id,title,abstract`  
 
-Once that has been assembled, create the batch input file by running 
+Once that has been assembled, create the batch input file by running: 
 
 `./create-title-abstract-batch.py > my_new_batch_file.jsonl`  
+  
+... or, for example:    
+  
+`./create-title-abstract-batch.py > batchJob-sample-title-abstract-screen.jsonl`  
+
 
 The script assumes the input file is in the same directory and named `title-abstract-list.csv`. Redirect the output to a batch file that you will upload and execute. This script will also attempt to fix or replace up problematics characters and will produce a cleaned up file named `./title-abstract-list-CLEAN.csv`. Where the title + abstract csv list is needed in downstream scripts, it will usually be better to use the 'CLEAN' version of this file instead.  
   
