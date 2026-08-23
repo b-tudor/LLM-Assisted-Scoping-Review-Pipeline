@@ -1,4 +1,4 @@
-The first step in the work flow would be to get a CSV file named `title-abstract-list.csv`, containing a list of candidate papers and their abstracts, to be included in the review. Additionally, each paper should be assigned a unique study identifier. The header row of the CSV file (where columns are named) should be:  
+The first step in the work flow would be to get a CSV file named `title-abstract-list.csv`, containing a list of all the candidate papers and their abstracts. One line/row for each paper that is in consideration for inclusion in the review. Additionally, each paper should be assigned a unique study identifier. The header row of the CSV file (where columns are named) should be:  
 
 `id,title,abstract`  
 
