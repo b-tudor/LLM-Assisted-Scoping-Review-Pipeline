@@ -12,7 +12,7 @@ The general workflow is to:
   
 There is an limit to how many tokens you can have enqueued for jobs in the batch system which varies by user access-tier (among other factors). If you have large jobs, you will need to create batch files with fewer jobs. If you have jobs that by themselves exceed the enqueued token limit, collect these jobs into a separate file and submit them via the synchronous pathway (see below). Alternately, you can submit all jobs to the synchronous API, but I *think* (at least at the time) it was slower and cost more--ymmv.  The batch file error logs will let you know if a batch failed due to the batch having exceeded the enqueued token limit.  
   
-There are several utilities here for turning raw data or the output from a previous pipeline stage into a batch job for a downstream pipeline stage.  
+There are several utilities here for turning raw data or output from previous pipeline stages into batch jobs for downstream pipeline stages.  
 ```
 title-abstract-screening ---------> -----+-----> full-text-screening ----+--> categorization
                                          |                               | 
