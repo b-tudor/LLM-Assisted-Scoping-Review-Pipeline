@@ -5,11 +5,11 @@ The model we used in our paper was GPT-5.
 
 The general work flow is to generate jsonl files where each line is an individual request to the API. 
 There are several utilities here for turning the output from a previous pipeline stage into a batch job for the next pipeline stage.
-
+```
 title-abstract-screening ---------> -----+-----> full-text-screening ----+--> categorization
                                          |                               | 
                full text files >---------+                               +--> synthesis
-
+```
 Once you've generated a batch input jsonl file, it is uploaded to the API. You can use the tool `tool/upload-batch-job-file.py` for this.
 
 Then, submit the file as a batch job and enqueue it for execution. This can be done with the tool `tool/do-batch.py`
