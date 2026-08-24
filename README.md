@@ -14,7 +14,7 @@ This directory has utilities for preprocessing the input files: converting the b
 
 
 ## Development and Exploratory Evaluation of a Large Language Model-Supported Scoping Review Workflow
-Authors: Frederick H. Kuo MD*,<sup>1,2</sup>, Jamie L. Fierstein PhD2,3, Madeline de la Concha4, Yasmin Saeed BS5, Ryan Shargo56, Dina Ashour MBBS MPH3, Ernest Amankwah PhD.3, Ellis Crabtree PhD2,76, Mohamed A. Rehman MD1,2, Peter Najjar MD87, Khyzer Aziz MD98, Brant H. Tudor PhD.2,67 & Luis M. Ahumada PhD.2,67 
+Authors: Frederick H. Kuo MD<sup>*,1,2</sup>, Jamie L. Fierstein PhD<sup>2,3</sup>, Madeline de la Concha<sup>4</sup>, Yasmin Saeed BS<sup>5</sup>, Ryan Shargo<sup>6</sup>, Dina Ashour MBBS MPH<sup>3</sup>, Ernest Amankwah PhD.<sup>3</sup>, Ellis Crabtree PhD<sup>2,7</sup>, Mohamed A. Rehman MD<sup>1,2</sup>, Peter Najjar MD<sup>8</sup>, Khyzer Aziz MD<sup>9</sup>, Brant H. Tudor PhD.<sup>2,7</sup> & Luis M. Ahumada PhD.<sup>2,7</sup> 
 
  
 
