@@ -1,13 +1,13 @@
 # LLM-Assisted-Scoping-Review-Pipeline
 
 ## OpenAI-API/
-**Code & Instructions for using the OpenAI public API service**
-Reported results were obtained on the model `gpt-08-07-2025` via the `/v1/responses/` endpoint with reasoning effort set to high.
-
+**Code & Instructions for using the OpenAI public API service**  
+Reported results were obtained on the model `gpt-08-07-2025` via the `/v1/responses/` endpoint with reasoning effort set to high.  
+  
 ## local-llm/
-**Code & Instructions for using locally hosted LLM models**
-Reported results were generated with OpenAI's `gpt-oss-20b` model.
-
+**Code & Instructions for using locally hosted LLM models**  
+Reported results were generated with OpenAI's `gpt-oss-20b` model.  
+  
 ## pre-processing/
 This directory has utilities for preprocessing the input files: converting the body-text of the PDF files into text (.TXT) documents and estimating token counts.
 <br/>
