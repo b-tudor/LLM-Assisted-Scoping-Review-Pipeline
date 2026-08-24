@@ -10,13 +10,10 @@ The model we used was OpenAI's `gpt-oss-20b`
 
 ## pre-processing/
 This directory has utilities for preprocessing the input files: converting the body-text of the PDF files into text (.TXT) documents.
-
-
-
-
-
-    
-
+<br/>
+<br/>
+<br/>
+<br/>
 This repository contains the code, prompts, and supporting materials associated with the manuscript:
 
 ## Development and Exploratory Evaluation of a Large Language Model-Supported Scoping Review Workflow
