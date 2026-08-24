@@ -1,5 +1,5 @@
 # LLM-Assisted-Scoping-Review-Pipeline
-
+[![DOI](https://zenodo.org/badge/1342300646.svg)](https://doi.org/10.5281/zenodo.22087569)
 ## OpenAI-API/
 **Code & Instructions for using the OpenAI public API service**  
 Reported results were obtained on the model `gpt-08-07-2025` via the `/v1/responses/` endpoint with reasoning effort set to high.  
