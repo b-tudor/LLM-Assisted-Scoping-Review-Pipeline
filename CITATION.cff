@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility archive, please cite the associated paper using the preferred citation below."
+title: "LLM-Assisted-Scoping-Review-Pipeline"
+type: software
+version: "1.0"
+
+authors:
+  - family-names: "Kuo"
+    given-names: "Frederick H."
+  - family-names: "Crabtree"
+    given-names: "Ellis"
+  - family-names: "Tudor"
+    given-names: "Brant H."
+  - family-names: "Ahumada"
+    given-names: "Luis M."
+
+preferred-citation:
+  type: article
+  status: submitted
+  title: "Development and Exploratory Evaluation of a Large Language Model-Supported Scoping Review Workflow"
+  authors:
+    - family-names: "Kuo"
+      given-names: "Frederick H."
+    - family-names: "Fierstein"
+      given-names: "Jamie L."
+    - family-names: "de la Concha"
+      given-names: "Madeline"
+    - family-names: "Saeed"
+      given-names: "Yasmin"
+    - family-names: "Shargo"
+      given-names: "Ryan"
+    - family-names: "Ashour"
+      given-names: "Dina"
+    - family-names: "Amankwah"
+      given-names: "Ernest"
+    - family-names: "Crabtree"
+      given-names: "Ellis"
+    - family-names: "Rehman"
+      given-names: "Mohamed A."
+    - family-names: "Najjar"
+      given-names: "Peter"
+    - family-names: "Aziz"
+      given-names: "Khyzer"
+    - family-names: "Tudor"
+      given-names: "Brant H."
+    - family-names: "Ahumada"
+      given-names: "Luis M."
