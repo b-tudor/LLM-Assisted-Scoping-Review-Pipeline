@@ -12,7 +12,7 @@ and abstracts (and study IDs) should work. The CLEAN version just removed or esc
   
   
 `gpt5-title-abstract-screen-results.csv`  
-(Or whatever you named the CSV output from the title/abstract screening stage). This is csv file made from the LLM output of the previous step. This CSV has the columns 'id', 'include', 'confidence', and 'reasoning'. 'id' is the unique study id for this study. 'include' is either a 'Y' or an 'N' and is the LLM's determination whether the study was to be included or not, based on the title and abstract alone.  
+(Or whatever you named the CSV output from the title/abstract screening stage--this filename is hard-coded so to change it you will need to update the python script). This is csv file made from the LLM output of the previous step. This CSV has the columns 'id', 'include', 'confidence', and 'reasoning'. 'id' is the unique study id for this study. 'include' is either a 'Y' or an 'N' and is the LLM's determination whether the study was to be included or not, based on the title and abstract alone.  
   
 `full-texts/ID.txt`   
 There must be a text file in this folder for each study marked as a 'Y' in the title/abstract screening results. Here ID (as in ID.txt) is the unique study id for this paper. eg. The text of study 42 should be named `42.txt`.  
