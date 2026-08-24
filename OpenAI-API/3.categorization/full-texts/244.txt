@@ -1,0 +1,98 @@
+TITLE: Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography
+AUTHOR 1: RossStraughan (ORCID: 0009-0000-4908-6405)
+  Affiliations: Cardiac Surgery Division, Cardiac Surgery Division; Brigham and Women's Hospital; Department of Mechanical and Process Engineering; Harvard Medical School, 02115 Boston MA USA | ETH Zurich, Leonhardstrasse 21 8092 Zurich Switzerland
+AUTHOR 2: KarimKadry (ORCID: 0000-0001-9520-0504)
+  Affiliations: Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Massachusetts Institute of Technology, 77 Massachusetts Ave 02139 Cambridge MA USA
+AUTHOR 3: SahilA.Parikh
+AUTHOR 4: ElazerREdelman (ORCID: 0000-0002-7832-7156)
+  Affiliations: Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Cardiovascular Division; Brigham and Women's Hospital; Massachusetts Institute of Technology, 77 Massachusetts Ave 02139 Cambridge MA USA | Harvard Medical School, 02115 Boston MA USA
+AUTHOR 5: FarhadRNezami (ORCID: 0000-0002-4210-3177)
+  Affiliations: Cardiac Surgery Division, Cardiac Surgery Division; Brigham and Women's Hospital; Harvard Medical School, 02115 Boston MA USA
+================================================================================
+
+A
+u
+t
+h
+o
+r
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+A
+u
+t
+h
+o
+r
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Comput Biol Med. Author manuscript; available in PMC 2024 October 01.
+Published in final edited form as:
+Comput Biol Med. 2023 October ; 165: 107341. doi:10.1016/j.compbiomed.2023.107341.
+Fully Automated Construction of Three-dimensional Finite 
+Element Simulations from Optical Coherence Tomography
+Ross Straughan1, Karim Kadry2, Sahil A Parikh3, Elazer R Edelman4, Farhad R Nezami5
+1Cardiac Surgery Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, 
+02115, MA, USA; Department of Mechanical and Process Engineering, ETH Zurich, 
+Leonhardstrasse 21, 8092 Zurich, Switzerland.
+2Institute for Medical Engineering and Science, Massachusetts Institute of Technology, 77 
+Massachusetts Ave, Cambridge, 02139, MA, USA.
+3Division of Cardiology, Columbia University Irving Medical Center, New York, 10032, NY, USA.
+4Institute for Medical Engineering and Science, Massachusetts Institute of Technology, 77 
+Massachusetts Ave, Cambridge, 02139, MA, USA; Cardiovascular Division, Brigham and 
+Women’s Hospital, Harvard Medical School, Boston, 02115, MA, USA.
+5Cardiac Surgery Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, 
+02115, MA, USA.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

@@ -1,0 +1,45 @@
+TITLE: Electromyography-driven musculoskeletal models with time-varying fatigue dynamics improve lumbosacral joint moments during lifting
+AUTHOR 1: MohamedIrfanMohamed Refai
+AUTHOR 2: AlejandroMoya-Esteban
+  Affiliations: Department of Biomechanical Engineering, Department of Biomechanical Engineering; University of Twente, Enschede the Netherlands
+AUTHOR 3: MassimoSartori
+  Affiliations: Department of Biomechanical Engineering, Department of Biomechanical Engineering; University of Twente, Enschede the Netherlands
+================================================================================
+
+Contents lists available at ScienceDirect 
+Journal of Biomechanics 
+journal homepage: www.elsevier.com/locate/jbiomech 
+Electromyography-driven musculoskeletal models with time-varying 
+fatigue dynamics improve lumbosacral joint moments during lifting 
+Mohamed Irfan Mohamed Refai *, Alejandro Moya-Esteban , Massimo Sartori 
+Department of Biomechanical Engineering, University of Twente, Enschede, the Netherlands   
+A R T I C L E  I N F O    
+A B S T R A C T    
+Keywords: 
+Muscle fatigue 
+Musculoskeletal model 
+Electromyography-driven modelling 
+digital twin 
+1. Introduction 
+Musculoskeletal  disorders  (MSDs)  are  prevalent  worldwide  and 
+affect  1.7  billion  people  (Safiri  et  al.,  2021;  WHO,  2022).  MSDs  are 
+caused by trauma, genetics, or repeated loading of the musculoskeletal 
+system leading to muscle fatigue, and eventually overuse muscle injuries 
+in the long term (Dugan and Frontera, 2000; Kumar, 2001; Pope, 1989; 
+Rashedi  and  Nussbaum,  2015).  For  people  rehabilitating  from  MSDs, 
+muscle fatigue influences their daily life activities including movement 
+and balance (Jubany et al., 2017; Lin et al., 2009). 
+Modeling  incidence  and  progression  of  fatigue  is  useful  in  under-
+standing  muscle  mechanics  during  daily  life  to  avoid  risk  of  injury 
+(Gallagher et al., 2017; Wan et al., 2017). Biologically realistic muscu-
+loskeletal models are needed to understand muscle injury progression 
+considering  the  dynamic  nature  of  the  muscle  and  the  underlying 
+changes due to fatigue (Forde et al., 2002). 
+Muscle fatigue has a central and peripheral component (Dugan and 
+Frontera, 2000; Hainaut and Duchateau, 1989). Centrally, the ability to 
+* Corresponding author. 
+E-mail address: m.i.mohamedrefai@utwente.nl (M.I. Mohamed Refai).  
+https://doi.org/10.1016/j.jbiomech.2024.111987 
+Accepted 4 February 2024   
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

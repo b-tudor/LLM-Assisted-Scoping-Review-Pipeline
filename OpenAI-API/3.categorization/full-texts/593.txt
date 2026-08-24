@@ -1,0 +1,40 @@
+TITLE: Personalized ablation vs. conventional ablation strategies to terminate atrial fibrillation and prevent recurrence
+AUTHOR 1: LucaAzzolin [CORRESPONDING] (ORCID: 0000-0002-2919-4617) <luca.azzolin@kit.edu>
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 2: MartinEichenlaub (ORCID: 0000-0003-3674-790X)
+  Affiliations: Division of Cardiology and Angiology II, Division of Cardiology and Angiology II; University Heart Center Freiburg-Bad Krozingen, Suedring 15 79189 Bad Krozingen Germany
+AUTHOR 3: ClaudiaNagel
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 4: DeborahNairn
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 5: JorgeSanchez
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 6: LauraUnger
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 7: OlafDössel (ORCID: 0000-0003-4551-7970)
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+AUTHOR 8: AmirJadidi
+  Affiliations: Division of Cardiology and Angiology II, Division of Cardiology and Angiology II; University Heart Center Freiburg-Bad Krozingen, Suedring 15 79189 Bad Krozingen Germany
+AUTHOR 9: AxelLoewe
+  Affiliations: Institute of Biomedical Engineering, Institute of Biomedical Engineering; Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1 76131 Karlsruhe Germany
+================================================================================
+
+Aims
+Introduction
+
+BASIC SCIENCE
+Europace (2023) 25, 211–222 
+https://doi.org/10.1093/europace/euac116
+Personalized ablation vs. conventional 
+ablation strategies to terminate atrial 
+fibrillation and prevent recurrence
+1*†, Martin Eichenlaub 
+2†, Claudia Nagel1, Deborah Nairn1, 
+Luca Azzolin 
+Jorge Sanchez1, Laura Unger1, Olaf Dössel 
+1, Amir Jadidi2†, and Axel Loewe1†
+1Institute of Biomedical Engineering at Karlsruhe Institute of Technology, Building 30.33, Fritz-Haber-Weg 1, 76131 Karlsruhe, Germany; and 2Division of Cardiology and Angiology II, 
+University Heart Center Freiburg-Bad Krozingen, Suedring 15, 79189 Bad Krozingen, Germany
+Received 6 January 2022; accepted after revision 17 June 2022; online publish-ahead-of-print 9 August 2022
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

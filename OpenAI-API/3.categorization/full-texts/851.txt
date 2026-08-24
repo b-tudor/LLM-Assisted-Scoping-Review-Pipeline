@@ -1,0 +1,47 @@
+TITLE: Digital twins, artificial intelligence, and machine learning technology to identify a real personalized motion axis of the tibiotalar joint for robotics in total ankle arthroplasty
+AUTHOR 1: PhilippeHernigou [CORRESPONDING] (ORCID: 0000-0002-8475-279X) <philippe.hernigou@wanadoo.fr>
+  Affiliations: Orthopedic Department Henri Mondor Hospital, Orthopedic Department Henri Mondor Hospital; University Paris East, Paris France
+AUTHOR 2: RomainOlejnik
+  Affiliations: Orthopedic Department Henri Mondor Hospital, Orthopedic Department Henri Mondor Hospital; University Paris East, Paris France
+AUTHOR 3: AdonisSafar
+  Affiliations: Orthopedic Department, Orthopedic Department; EpiCURA Baudour Hornu Hospital, Mons Belgium
+AUTHOR 4: SagiMartinov
+  Affiliations: Orthopedic Department, Orthopedic Department; EpiCURA Baudour Hornu Hospital, Mons Belgium
+AUTHOR 5: JacquesHernigou
+  Affiliations: Orthopedic Department, Orthopedic Department; EpiCURA Baudour Hornu Hospital, Mons Belgium
+AUTHOR 6: BrunoFerre
+  Affiliations: Institut Monégasque de Médecine & Chirurgie Sportive, Institut Monégasque de Médecine & Chirurgie Sportive, 98000 Monaco Monaco
+AUTHOR 7: Unknown
+  Affiliations: Institut Monégasque de Médecine & Chirurgie Spor-tive, Institut Monégasque de Médecine & Chirurgie Spor-tive, 98 000 Monaco
+================================================================================
+
+International Orthopaedics (2021) 45:2209–2217
+https://doi.org/10.1007/s00264-021-05175-2
+ORIGINAL PAPER
+Philippe Hernigou1 
+Received: 24 July 2021 / Accepted: 28 July 2021 
+© SICOT aisbl 2021
+New concepts in research and in technology nowadays are 
+integrating simulation models. Different abstraction levels 
+allow increasing precision in surgery. In this context, the 
+“Digital Twin” (DT) approach has introduced new concepts 
+for simulation and optimization in orthopaedic surgery. A 
+human digital model or digital twin (DT) is defined as a near 
+real-time digital image of a physical human (the Real Twin 
+ *  Philippe Hernigou 
+philippe.hernigou@wanadoo.fr
+1  Orthopedic Department Henri Mondor Hospital, University 
+Paris East, Paris, France
+2  Orthopedic Department, EpiCURA Baudour Hornu Hospital, 
+Mons, Belgium
+3 
+Institut Monégasque de Médecine & Chirurgie Sportive, 
+98000 Monaco, Monaco
+
+Digital twins, artificial intelligence, and machine learning technology 
+to identify a real personalized motion axis of the tibiotalar joint 
+for robotics in total ankle arthroplasty
+ · Romain Olejnik1 · Adonis Safar2 · Sagi Martinov2 · Jacques Hernigou2 · Bruno Ferre3
+/ Published online: 5 August 2021
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

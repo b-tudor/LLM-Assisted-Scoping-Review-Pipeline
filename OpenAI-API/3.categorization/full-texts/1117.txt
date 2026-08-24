@@ -1,0 +1,44 @@
+TITLE: Systems‐based digital twins to help characterize clinical <scp>dose–response</scp> and propose predictive biomarkers in a Phase I study of bispecific antibody, mosunetuzumab, in <scp>NHL</scp>
+AUTHOR 1: MonicaESusilo
+AUTHOR 2: Chi‐chungLi (ORCID: 0000-0002-9590-3450)
+AUTHOR 3: KapilGadkar
+AUTHOR 4: GeneviveHernandez
+AUTHOR 5: Ling‐yuhHuw
+AUTHOR 6: JinYJin
+AUTHOR 7: ShenYin
+AUTHOR 8: MichaelCWei
+AUTHOR 9: SarojaRamanujan
+AUTHOR 10: IrajHosseini [CORRESPONDING] <hosseini@gene.com>
+AUTHOR 11: Unknown
+  Affiliations: Genentech Inc, South San Francisco California USA
+AUTHOR 12: Unknown
+  Affiliations: Correspondence Iraj Hosseini; Genentech Inc, 1 DNA Way 94080 San Francisco CA USA
+================================================================================
+
+|  Revised: 24 January 2023 
+|  Accepted: 6 February 2023
+Received: 22 November 2022 
+DOI: 10.1111/cts.13501  
+A R T I C L E
+Systems- based digital twins to help characterize clinical 
+dose– response and propose predictive biomarkers in a 
+Phase I study of bispecific antibody, mosunetuzumab, 
+in NHL
+Monica E. Susilo  |   Chi- Chung Li
+Ling- Yuh Huw  |   Jin Y. Jin  |   Shen Yin  |   Michael C. Wei  |   Saroja Ramanujan  |   
+Iraj Hosseini
+Genentech Inc., South San Francisco, 
+California, USA
+Abstract
+Correspondence
+Iraj Hosseini, Genentech Inc., 1 DNA 
+Way, San Francisco, CA 94080, USA.
+Email: hosseini@gene.com
+Saroja Ramanujan and Iraj Hosseini are co- senior authors.  
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any 
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2023 Genentech, Inc. Clinical and Translational Science published by Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and Therapeutics.
+1134  | 
+www.cts-journal.com
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

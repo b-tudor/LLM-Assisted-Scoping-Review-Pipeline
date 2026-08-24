@@ -1,0 +1,66 @@
+TITLE: An Integrated Workflow for Building Digital Twins of Cardiac Electromechanics—A Multi-Fidelity Approach for Personalising Active Mechanics
+AUTHOR 1: AlexanderJung [CORRESPONDING] (ORCID: 0000-0002-0723-4403) <alexander.jung@medunigraz.at>
+  Affiliations: Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics, Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics; Medical University Graz, 8010 Graz Austria
+AUTHOR 2: MatthiasA FGsell [CORRESPONDING] (ORCID: 0000-0001-7742-8193) <matthias.gsell@medunigraz.at>
+  Affiliations: Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics, Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics; Medical University Graz, 8010 Graz Austria | Institute of Mathematics and Scientific Computing, NAWI Graz, Institute of Mathematics and Scientific Computing; NAWI Graz; University of Graz, 8010 Graz Austria
+AUTHOR 3: ChristophMAugustin [CORRESPONDING] (ORCID: 0000-0001-6341-4014) <christoph.augustin@medunigraz.at>
+  Affiliations: Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics, Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics; Medical University Graz, 8010 Graz Austria | BioTechMed-Graz, BioTechMed-Graz, 8010 Graz Austria
+AUTHOR 4: GernotPlank [CORRESPONDING] (ORCID: 0000-0002-7380-6908) <gernot.plank@medunigraz.at>
+  Affiliations: Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics, Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging-Division of Biophysics; Medical University Graz, 8010 Graz Austria | BioTechMed-Graz, BioTechMed-Graz, 8010 Graz Austria
+================================================================================
+
+Article
+An Integrated Workﬂow for Building Digital Twins of Cardiac
+Electromechanics—A Multi-Fidelity Approach for
+Personalising Active Mechanics
+Alexander Jung 1
+, Matthias A. F. Gsell 1,2
+, Christoph M. Augustin 1,3,*
+and Gernot Plank 1,3
+1 Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging—Division of Biophysics,
+Medical University Graz, 8010 Graz, Austria; alexander.jung@medunigraz.at (A.J.);
+matthias.gsell@medunigraz.at (M.A.F.G.); gernot.plank@medunigraz.at (G.P.)
+2 NAWI Graz, Institute of Mathematics and Scientiﬁc Computing, University of Graz, 8010 Graz, Austria
+3
+BioTechMed-Graz, 8010 Graz, Austria
+* Correspondence: christoph.augustin@medunigraz.at
+Abstract: Personalised computer models of cardiac function, referred to as cardiac digital twins, are
+envisioned to play an important role in clinical precision therapies of cardiovascular diseases. A
+major obstacle hampering clinical translation involves the signiﬁcant computational costs involved
+in the personalisation of biophysically detailed mechanistic models that require the identiﬁcation
+of high-dimensional parameter vectors. An important aspect to identify in electromechanics (EM)
+models are active mechanics parameters that govern cardiac contraction and relaxation. In this study,
+we present a novel, fully automated, and efﬁcient approach for personalising biophysically detailed
+active mechanics models using a two-step multi-ﬁdelity solution. In the ﬁrst step, active mechanical
+behaviour in a given 3D EM model is represented by a purely phenomenological, low-ﬁdelity model,
+which is personalised at the organ scale by calibration to clinical cavity pressure data. Then, in
+the second step, median traces of nodal cellular active stress, intracellular calcium concentration,
+Citation: Jung, A.; Gsell, M.A.F.;
+and ﬁbre stretch are generated and utilised to personalise the desired high-ﬁdelity model at the
+Augustin, C.M.; Plank, G. An
+cellular scale using a 0D model of cardiac EM. Our novel approach was tested on a cohort of seven
+Integrated Workﬂow for Building
+human left ventricular (LV) EM models, created from patients treated for aortic coarctation (CoA).
+Digital Twins of Cardiac
+Goodness of ﬁt, computational cost, and robustness of the algorithm against uncertainty in the
+Electromechanics—A Multi-Fidelity
+clinical data and variations of initial guesses were evaluated. We demonstrate that our multi-ﬁdelity
+Approach for Personalising Active
+approach facilitates the personalisation of a biophysically detailed active stress model within only a
+Mechanics. Mathematics 2022, 10, 823.
+https://doi.org/10.3390/math10050823
+few (2 to 4) expensive 3D organ-scale simulations—a computational effort compatible with clinical
+model applications.
+Academic Editor: Fernando Simoes
+Received: 31 January 2022
+Keywords: patient-speciﬁc modelling; human left ventricular function; cardiac mechanics; precision
+Accepted: 28 February 2022
+medicine; parameter estimation; global sensitivity analysis
+Published: 4 March 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+1. Introduction
+published maps and institutional afﬁl-
+iations.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

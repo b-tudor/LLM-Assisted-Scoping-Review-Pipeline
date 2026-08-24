@@ -1,0 +1,24 @@
+TITLE: A dynamic single cell-based framework for digital twins to prioritize disease genes and drug targets
+AUTHOR 1: XinxiuLi
+AUTHOR 2: EunJungLee
+AUTHOR 3: SandraLilja
+AUTHOR 4: JosephLoscalzo
+AUTHOR 5: SamuelSchäfer
+AUTHOR 6: MartinSmelik
+AUTHOR 7: MariaReginaStrobl
+AUTHOR 8: OlegSysoev
+AUTHOR 9: HuiWang
+AUTHOR 10: HuanZhang
+AUTHOR 11: YelinZhao
+AUTHOR 12: DanutaRGawel
+AUTHOR 13: BarbaraBohle
+AUTHOR 14: MikaelBenson [CORRESPONDING] (ORCID: 0000-0002-7753-9181) <mikael.benson@liu.se>
+AUTHOR 15: Unknown
+  Affiliations: 9 Division of ENT Diseases, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet,, Stockholm, Sweden
+================================================================================
+
+Li et al. Genome Medicine           (2022) 14:48  
+https://doi.org/10.1186/s13073-022-01048-4
+RESEARCH
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

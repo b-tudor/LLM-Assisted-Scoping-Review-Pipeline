@@ -1,0 +1,34 @@
+TITLE: Vom Crashtest in den OP: Optimierung des Stentgraft-Designs mittels Numerischer Simulation
+AUTHOR 1: MiriamElisabethKliewer
+  Affiliations: Abteilung für Gefäß, Abteilung für Gefäß; Vaskuläre und Endovaskuläre Chirurgie; Klinik Ottakring, Wien Österreich
+AUTHOR 2: FadiTaher
+  Affiliations: Abteilung für Gefäß, Abteilung für Gefäß; Vaskuläre und Endovaskuläre Chirurgie; Klinik Ottakring, Wien Österreich
+AUTHOR 3: JürgenFalkensammer
+  Affiliations: Abteilung für Gefäßchirurgie, Abteilung für Gefäßchirurgie; Konventspital Linz, Barmherzige Brüder, Linz Österreich
+AUTHOR 4: AntoineMillon
+  Affiliations: Abteilung für Gefäßchirurgie und Endovaskuläre Chirurgie, Abteilung für Gefäßchirurgie und Endovaskuläre Chirurgie; Hospital Louis Pradel; CHU Lyon, Lyon, Frankreich
+AUTHOR 5: Jean-NoelAlbertini
+  Affiliations: Abteilung für Gefäßchirurgie, Abteilung für Gefäßchirurgie; CHU Saint-Etienne, Saint-Etienne, Frankreich
+AUTHOR 6: AfshinAssadian
+  Affiliations: Abteilung für Gefäß, Abteilung für Gefäß; Vaskuläre und Endovaskuläre Chirurgie; Klinik Ottakring, Wien Österreich
+================================================================================
+
+Leitthema
+Gefässchirurgie 2022 · 27:342–348
+https://doi.org/10.1007/s00772-022-00921-1
+Angenommen: 3. August 2022
+Online publiziert: 17. August 2022
+© The Author(s), under exclusive licence to
+Springer Medizin Verlag GmbH, ein Teil von
+Springer Nature 2022
+In diesem Beitrag
+– Hinführung
+– Planung fenestrierter Prothesen
+– Was bedeutet Numerische Simulation?
+– „From bench to bed“ – Forschung und Stu-
+dienlage
+QR-Code scannen & Beitrag online lesen
+342
+Gefässchirurgie 5 · 2022
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

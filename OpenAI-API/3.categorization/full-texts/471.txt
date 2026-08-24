@@ -1,0 +1,74 @@
+TITLE: Revolutionizing Combat Casualty Care: The Power of Digital Twins in Optimizing Casualty Care Through Passive Data Collection
+AUTHOR 1: MD, FCCM, FACPJeremyCPamplin (ORCID: 0000-0003-3857-8417)
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA | Department of Medicine, Department of Medicine; Department of Emergency and Operational Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 2: BS ‡; CDRMasonHRemondelli
+  Affiliations: School of Medicine, School of Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 3: MD §; SFCDarshanThota
+  Affiliations: The Joint Trauma System; Joint Base San Antonio, 78234 TX USA | || United States Air Force En route Care Research Center; 59th MDW/ST | JBSA-Fort Sam Houston, 78234 TX USA
+AUTHOR 4: AAS, RCIS, RCSJeremyTrapier
+AUTHOR 5: MD ‡,||WilliamTDavis
+  Affiliations: School of Medicine, School of Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 6: MSNathanFisher
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA
+AUTHOR 7: DO, MS, MPH, FAAP ¶;PaulKwon
+AUTHOR 8: MatthewTQuinn
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA | Program Executive Office for Simulation, Training and Instrumentation, Program Executive Office for Simulation, Training and Instrumentation, 32826 Orlando FL USA
+AUTHOR 9: Unknown
+  Affiliations: FCCM; FACP, USA
+================================================================================
+
+MILITARY MEDICINE, 190, 1/2:27, 2025
+*The Telemedicine and Advanced Technology Research Center, Freder-
+ick, MD, 21702 USA
+†Department  of  Medicine,  Department  of  Emergency  and  Operational 
+Medicine,  The  Uniformed  Services  University  of  the  Health  Sciences, 
+Bethesda, MD 20814, USA
+‡School of Medicine, The Uniformed Services University of the Health 
+Sciences, Bethesda, MD 20814, USA
+§The Joint Trauma System, Joint Base San Antonio, TX 78234, USA
+||United States Air Force En route Care Research Center/59th MDW/ST, 
+JBSA-Fort Sam Houston, TX 78234, USA
+¶Program Executive Office for Simulation, Training and Instrumentation, 
+Orlando, FL 32826, USA
+A  previous  nonpeer  reviewed  version  of  this  manuscript  is  available 
+online as part of the “TATRC Times,” a semiannual, institutional newsletter 
+available at https://www.tatrc.org/www/news-and-media/newsletter/archive/
+TATRC-Times-FY2023-Q4.pdf
+The views, opinions, and/or findings contained in this research/presenta-
+tion/ publication are those of the author(s)/company and do not necessarily 
+reflect  the  views  of  the  DoD  and  should  not  be  construed  as  an  offi-
+cial DoD/Army position,  policy,  or decision unless so designated by other 
+documentation. No official endorsement should be made.
+Corresponding author: Jeremy C. Pamplin MD, FCCM, FACP, USA
+(Jeremy.C.Pamplin.mil@health.mil).
+doi:https://doi.org/10.1093/milmed/usae249
+MILITARY MEDICINE, Vol. 190, January/February  2025
+
+COMMENTARY
+Revolutionizing Combat Casualty Care: The Power of Digital Twins 
+in Optimizing Casualty Care Through Passive Data Collection
+COL Jeremy C. Pamplin, MD, FCCM, FACP *,†; 2LT Mason H. Remondelli, BS‡; 
+CDR Darshan Thota, MD§; SFC Jeremy Trapier, AAS, RCIS, RCS*; Maj William T. Davis, MD‡,||; 
+Nathan Fisher, MS*; COL Paul Kwon, DO, MS, MPH, FAAP¶; Matthew T. Quinn*
+ABSTRACT   The potential impact of large-scale combat operations and multidomain operations against peer adver-
+saries poses significant challenges to the Military Health System including large volumes of critically ill and injured 
+casualties, prolonged care times in austere care contexts, limited movement, contested logistics, and denied communi-
+cations. These challenges contribute to the probability of higher casualty mortality and risk that casualty care hinders 
+commanders’ forward momentum or opportunities for overmatch on the battlefield. Novel technical solutions and asso-
+ciated concepts of operation that fundamentally change the delivery of casualty care are necessary to achieve desired 
+medical  outcomes  that  include  maximizing  Warfighter  battle-readiness,  minimizing  return-to-duty  time,  optimizing 
+medical evacuation that clears casualties from the battlefield while minimizing casualty morbidity and mortality, and min-
+imizing resource consumption across the care continuum. These novel solutions promise to “automate” certain aspects 
+of casualty care at the level of the individual caregiver and the system level, to unburden our limited number of providers 
+to do more and make better (data-driven) decisions. In this commentary, we describe concepts of casualty digital twins—
+virtual representations of a casualty’s physical journey through the roles of care—and how they, combined with passive 
+data collection about casualty status, caregiver actions, and real-time resource use, can lead to human–machine team-
+ing and increasing automation of casualty care across the care continuum while maintaining or improving outcomes. 
+Our path to combat casualty care automation starts with mapping and modeling the context of casualty care in realistic 
+environments through passive data collection of large amounts of unstructured data to inform machine learning models. 
+These context-aware models will be matched with patient physiology models to create casualty digital twins that better 
+predict casualty needs and resources required and ultimately inform and accelerate decision-making across the contin-
+uum of care. We will draw from the experience of the automotive industry as an exemplar for achieving automation in 
+health care and inculcate automation as a mechanism for optimizing the casualty care survival chain.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

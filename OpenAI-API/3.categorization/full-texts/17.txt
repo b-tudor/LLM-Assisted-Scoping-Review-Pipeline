@@ -1,0 +1,57 @@
+TITLE: Personalized computed tomography – Automated estimation of height and weight of a simulated digital twin using a 3D camera and artificial intelligence
+AUTHOR 1: FrederikGeissler [CORRESPONDING] <frederik.geissler@uk-erlangen.de>
+  Affiliations: Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen Germany | Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany
+AUTHOR 2: RafaelHeiß
+  Affiliations: Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany
+AUTHOR 3: MarkusKopp
+  Affiliations: Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany
+AUTHOR 4: MarcoWiesmüller
+  Affiliations: Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany
+AUTHOR 5: MarcSaake
+  Affiliations: Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen Germany | Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany
+AUTHOR 6: WolfgangWuest
+  Affiliations: Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen Germany | Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany | Imaging Science Institute, Erlangen Germany
+AUTHOR 7: AndreasWimmer
+  Affiliations: Siemens Healthcare GmbH, Forchheim Germany
+AUTHOR 8: VeronikaPrell
+  Affiliations: Siemens Healthcare GmbH, Forchheim Germany
+AUTHOR 9: MichaelUder
+  Affiliations: Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen Germany | Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany | Imaging Science Institute, Erlangen Germany
+AUTHOR 10: MatthiasStefanMay
+  Affiliations: Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen Germany | Department of Radiology, Department of Radiology; University Hospital Erlangen, Erlangen Germany | Imaging Science Institute, Erlangen Germany
+AUTHOR 11: Unknown
+  Affiliations: Rüdigerstraße 14, Rüdigerstraße 14, 70469 Stuttgart Germany
+AUTHOR 12: Unknown
+  Affiliations: Department of Radiology, Department of Radiology; University Hospital Erlangen, Maximiliansplatz 3 91054 Erlangen Germany
+================================================================================
+
+Article published online: 2020-11-03
+Quality/Quality Assurance
+Personalized computed tomography – Automated estimation
+of height and weight of a simulated digital twin using a 3D camera
+and artificial intelligence
+Personalisierte Computertomografie – automatisierte Abschätzung
+von Größe und Gewicht durch Simulation eines digitalen Zwillings
+mit einer 3D-Kamera und künstlicher Intelligenz
+Authors
+Frederik Geissler1, 2, Rafael Heiß2, Markus Kopp2, Marco Wiesmüller2, Marc Saake1, 2, Wolfgang Wuest1, 2, 3,
+Andreas Wimmer4, Veronika Prell4, Michael Uder1, 2, 3, Matthias Stefan May1, 2, 3
+Affiliations
+algorithm that fits a patient avatar into the recorded patient
+1 Friedrich-Alexander-University Erlangen-Nürnberg (FAU),
+surface data. The resulting algorithm was prospectively used
+Erlangen, Germany
+on 101 patients in clinical practice and the results were com-
+2 Department of Radiology, University Hospital Erlangen,
+pared to the reference values and to estimates by the patient
+Erlangen, Germany
+himself, the radiographer and the radiologist. The body mass
+3 Imaging Science Institute, Erlangen, Germany
+index was calculated from the collected values for each
+4 Siemens Healthcare GmbH, Forchheim, Germany
+patient using the WHO formula. A tolerance level of 5 kg was
+defined in order to evaluate the impact on weight-dependent
+Key words
+contrast agent dosage in abdominal CT.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

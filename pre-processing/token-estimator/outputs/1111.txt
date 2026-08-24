@@ -1,0 +1,25 @@
+TITLE: RESEARCH SNAPSHOT: SEPSIS FUTURE OF CRITICAL CARE
+AUTHOR 1: AmosLal
+AUTHOR 2: GuangxiLi
+AUTHOR 3: EdinCubro
+AUTHOR 4: SarahChalmers
+AUTHOR 5: HeyiLi
+AUTHOR 6: VitalyHerasevich
+AUTHOR 7: YueDong
+AUTHOR 8: BrianPickering
+AUTHOR 9: KilickayaOguz
+AUTHOR 10: OgnjenGajic
+================================================================================
+
+1214
+DEVELOPMENT AND VERIFICATION OF A 
+DIGITAL TWIN PATIENT MODEL TO PREDICT 
+TREATMENT RESPONSE IN SEPSIS
+Amos Lal1, Guangxi Li1, Edin Cubro1, Sarah Chalmers1, Heyi 
+Li1, Vitaly Herasevich2, Yue Dong2, Brian Pickering3, Kilickaya 
+Oguz4, Ognjen Gajic5
+1Mayo Clinic, Rochester, MN, 2N/A, Rochester, MN, 3Mayo Clinic-College 
+of Medicine, Rochester, MN, 4Altinbas University, Istanbul, Turkey, 5Mayo 
+Clinic Rochester, Rochester, MN
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

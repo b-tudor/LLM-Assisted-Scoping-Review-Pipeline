@@ -1,0 +1,65 @@
+TITLE: Digital twinning of the human ventricular activation sequence to Clinical 12-lead ECGs and magnetic resonance imaging using realistic Purkinje networks for in silico clinical trials
+AUTHOR 1: JuliaCamps [CORRESPONDING] (ORCID: 0000-0002-6491-2565) <julcamps@gmail.com>
+  Affiliations: University of Oxford, Oxford United Kingdom | Julia Camps and Lucas Arantes Berg
+AUTHOR 2: LucasArantesBerg (ORCID: 0000-0002-8777-0125)
+AUTHOR 3: ZhinuoJennyWang (ORCID: 0000-0001-5325-909X)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 4: RafaelSebastian (ORCID: 0000-0001-6746-5740)
+  Affiliations: University of Valencia, Valencia Spain
+AUTHOR 5: LetoLuanaRiebel (ORCID: 0000-0002-5774-2406)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 6: RubenDoste (ORCID: 0000-0003-4187-4970)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 7: XinZhou (ORCID: 0000-0003-2814-3399)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 8: RafaelSachetto (ORCID: 0000-0003-0800-5984)
+  Affiliations: Universidade Federal de São João del Rei; São João del Rei, MG Brazil
+AUTHOR 9: JamesColeman (ORCID: 0000-0002-7695-2046)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 10: BrodieLawson (ORCID: 0000-0003-1317-5988)
+  Affiliations: Queensland University of Technology, Brisbane Australia
+AUTHOR 11: VicenteGrau (ORCID: 0000-0001-8139-3480)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 12: KevinBurrage (ORCID: 0000-0002-8111-1137)
+  Affiliations: University of Oxford, Oxford United Kingdom | Queensland University of Technology, Brisbane Australia
+AUTHOR 13: AlfonsoBueno-Orovio (ORCID: 0000-0002-1634-3601)
+  Affiliations: University of Oxford, Oxford United Kingdom
+AUTHOR 14: RodrigoWeber Dos Santos (ORCID: 0000-0002-0633-1391)
+AUTHOR 15: BlancaRodriguez
+  Affiliations: University of Oxford, Oxford United Kingdom
+================================================================================
+
+Contents lists available at ScienceDirect 
+Medical Image Analysis 
+journal homepage: www.elsevier.com/locate/media 
+Digital twinning of the human ventricular activation sequence to Clinical 
+12-lead ECGs and magnetic resonance imaging using realistic Purkinje 
+networks for in silico clinical trials 
+Julia Camps a,*, 1, Lucas Arantes Berg a, 1, Zhinuo Jenny Wang a, Rafael Sebastian c, 
+Leto Luana Riebel a, Ruben Doste a, Xin Zhou a, Rafael Sachetto d, James Coleman a, 
+Brodie Lawson e, Vicente Grau a, Kevin Burrage a,e, Alfonso Bueno-Orovio a, Rodrigo Weber dos 
+Santos b, Blanca Rodriguez a 
+a University of Oxford, Oxford, United Kingdom 
+b Federal University of Juiz de Fora, Juiz de Fora, MG, Brazil 
+c University of Valencia, Valencia, Spain 
+d Universidade Federal de S˜ao Jo˜ao del Rei, S˜ao Jo˜ao del Rei, MG, Brazil 
+e Queensland University of Technology, Brisbane, Australia   
+A R T I C L E  I N F O    
+A B S T R A C T    
+Keywords: 
+Cardiac digital twin 
+Purkinje network 
+Bayesian inference 
+Cardiac magnetic resonance 
+1. Introduction 
+In silico clinical trials in cardiology is a novel approach to evaluating 
+the  safety  and  efficacy  of  therapies  for  cardiovascular  diseases  (Lim 
+et  al.,  2020;  Musuamba  et  al.,  2021;  Dasi  et  al.,  2022;  Roney  et  al., 
+2022). Human-based electrophysiological modelling and simulation can 
+* Corresponding author. 
+E-mail address: julcamps@gmail.com (J. Camps).   
+1  Julia Camps and Lucas Arantes Berg made equal contributions to this work. 
+https://doi.org/10.1016/j.media.2024.103108 
+Received 23 June 2023; Received in revised form 6 February 2024; Accepted 13 February 2024   
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

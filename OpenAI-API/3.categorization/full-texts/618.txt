@@ -1,0 +1,36 @@
+TITLE: Towards Discovering Digital Twins of Dementia Patients: Matching the Phases of Cognitive Decline
+AUTHOR 1: NilminiWickramasinghe [CORRESPONDING] <nwickramasinghe@swin.edu.au>
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia | Epworth HealthCare, Richmond VIC Australia
+AUTHOR 2: NalikaUlapane
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia
+AUTHOR 3: TuanAnhNguyen
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia | National Ageing Research Institution, Melbourne VIC Australia
+AUTHOR 4: AmirAndargoli
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia
+AUTHOR 5: ChineduOssai
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia
+AUTHOR 6: NadeemShuakat
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia
+AUTHOR 7: JohnZelcer
+  Affiliations: Swinburne University of Technology, Hawthorn VIC Australia
+AUTHOR 8: Unknown
+  Affiliations: University of Technology, Hawthorn VIC Australia
+================================================================================
+
+DOI: 10.1002/alz.066336
+T E C H N O L O G Y A N D D E M E N T I A P R E C O N F E R E N C E
+POSTER PRESENTATION
+CLINICAL APPLICATIONS
+Towards Discovering Digital Twins of Dementia Patients:
+Matching the Phases of Cognitive Decline
+Nilmini Wickramasinghe1,2
+Amir Andargoli1
+Nalika Ulapane1
+Tuan Anh Nguyen1,3
+Chinedu Ossai1
+Nadeem Shuakat1
+John Zelcer1
+1Swinburne University of Technology,
+Hawthorn, VIC, Australia
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

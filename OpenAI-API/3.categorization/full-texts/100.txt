@@ -1,0 +1,54 @@
+TITLE: A digital twin model incorporating generalized metabolic fluxes to identify and predict chronic kidney disease in type 2 diabetes mellitus
+AUTHOR 1: NaveenahUdayaSurian
+  Affiliations: Mesh Bio Pte. Ltd, 10 Anson Rd 22-02, 079903 Singapore Singapore
+AUTHOR 2: ArsenBatagov (ORCID: 0000-0002-9620-079X)
+  Affiliations: Mesh Bio Pte. Ltd, 10 Anson Rd 22-02, 079903 Singapore Singapore
+AUTHOR 3: AndrewWu
+  Affiliations: Mesh Bio Pte. Ltd, 10 Anson Rd 22-02, 079903 Singapore Singapore
+AUTHOR 4: WenBinLai
+  Affiliations: Mesh Bio Pte. Ltd, 10 Anson Rd 22-02, 079903 Singapore Singapore
+AUTHOR 5: YanSun
+  Affiliations: Health Services and Outcomes Research; National Healthcare Group
+AUTHOR 6: YongMongBee (ORCID: 0000-0002-5482-2646)
+AUTHOR 7: RinkooDalan [CORRESPONDING] (ORCID: 0000-0001-9769-2696) <rinkoo_dalan@ttsh.com.sg>
+  Affiliations: Department of Endocrinology, Department of Endocrinology; Tan Tock Seng Hospital, 11 Jalan Tan Tock Seng 308433 Singapore Singapore | Lee Kong Chian School of Medicine; Nanyang Technological University, 11 Mandalay Road 308232 Singapore Singapore
+AUTHOR 8: Unknown
+  Affiliations: Seoul National University Bundang Hospital
+================================================================================
+
+npj | digital medicine
+Published in partnership with Seoul National University Bundang Hospital
+Naveenah Udaya Surian1, Arsen Batagov
+Rinkoo Dalan 4,5
+;
+,
+:
+)
+(
+;
+,
+:
+)
+(
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

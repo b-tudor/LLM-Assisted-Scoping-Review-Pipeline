@@ -1,0 +1,52 @@
+TITLE: Pressure‐ and time‐dependent alveolar recruitment/derecruitment in a spatially resolved patient‐specific computational model for injured human lungs
+AUTHOR 1: CarolinMGeitner [CORRESPONDING] (ORCID: 0000-0002-0370-2265) <carolin.geitner@tum.de>
+  Affiliations: Institute for Computational Mechanics, Institute for Computational Mechanics | Department of Engineering Physics & Computation, Department of Engineering Physics & Computation; TUM School of Engineering and Design; Technical University of Munich, Garching
+AUTHOR 2: LeaJKöglmeier
+AUTHOR 3: InézFrerichs (ORCID: 0000-0002-7712-6539)
+AUTHOR 4: PatrickLangguth (ORCID: 0000-0001-7138-7415)
+AUTHOR 5: MatthiasLindner
+  Affiliations: Department of Anesthesiology and Intensive Care Medicine, Department of Anesthesiology and Intensive Care Medicine; University Medical Center Schleswig-Holstein, Campus Kiel Kiel Germany
+AUTHOR 6: DirkSchädler (ORCID: 0000-0002-5745-4797)
+AUTHOR 7: NorbertWeiler
+  Affiliations: Department of Anesthesiology and Intensive Care Medicine, Department of Anesthesiology and Intensive Care Medicine; University Medical Center Schleswig-Holstein, Campus Kiel Kiel Germany
+AUTHOR 8: TobiasBecher (ORCID: 0000-0003-2026-7629)
+AUTHOR 9: WolfgangAWall [CORRESPONDING] (ORCID: 0000-0001-7419-3384) <wolfgang.a.wall@tum.de>
+  Affiliations: Institute for Computational Mechanics, Institute for Computational Mechanics | Department of Engineering Physics & Computation, Department of Engineering Physics & Computation; TUM School of Engineering and Design; Technical University of Munich, Garching
+AUTHOR 10: Unknown
+  Affiliations: Muenchen Germany
+AUTHOR 11: Unknown
+  Affiliations: Institute for Computational Mechanics, Institute for Computational Mechanics
+AUTHOR 12: Unknown
+  Affiliations: Department of Engineering Physics & Computation, Department of Engineering Physics & Computation; TUM School of Engineering and Design; Technical University of Munich, Boltzmannstrasse 15 85748 Garching
+AUTHOR 13: Unknown
+  Affiliations: Muenchen Germany
+================================================================================
+
+Received: 19 May 2023
+Revised: 28 August 2023
+Accepted: 16 October 2023
+DOI: 10.1002/cnm.3787
+A P P L I E D R E S E A R C H
+Pressure- and time-dependent alveolar recruitment/
+derecruitment in a spatially resolved patient-specific
+computational model for injured human lungs
+Carolin M. Geitner 1
+Patrick Langguth 3
+Norbert Weiler 2
+| Lea J. Köglmeier 1
+| Matthias Lindner 2
+Inéz Frerichs 2
+|
+| Dirk Schädler 2
+|
+|
+| Tobias Becher 2
+| Wolfgang A. Wall 1
+1Institute for Computational Mechanics,
+Department of Engineering Physics &
+Computation, TUM School of Engineering
+and Design, Technical University of
+Munich, Garching b. Muenchen,
+Germany
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

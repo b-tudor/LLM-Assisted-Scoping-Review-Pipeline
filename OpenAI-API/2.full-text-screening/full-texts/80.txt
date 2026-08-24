@@ -1,0 +1,51 @@
+TITLE: Branched Latent Neural Maps
+AUTHOR 1: MatteoSalvador
+  Affiliations: Institute for Computational and Mathematical Engineering, Institute for Computational and Mathematical Engineering; Stanford University, California USA | Cardiovascular Institute, Cardiovascular Institute; Stanford University, California USA | Pediatric Cardiology, Pediatric Cardiology; Stanford University, California USA
+AUTHOR 2: AlisonLesleyMarsden
+  Affiliations: Department of Bioengineering, Department of Bioengineering; Stanford University, California USA | Institute for Computational and Mathematical Engineering, Institute for Computational and Mathematical Engineering; Stanford University, California USA | Cardiovascular Institute, Cardiovascular Institute; Stanford University, California USA | Pediatric Cardiology, Pediatric Cardiology; Stanford University, California USA
+================================================================================
+
+3
+2
+0
+2
+t
+c
+O
+0
+1
+]
+G
+L
+.
+s
+c
+[
+3
+v
+9
+9
+5
+2
+0
+.
+8
+0
+3
+2
+:
+v
+X
+i
+r
+a
+
+Branched Latent Neural Maps
+Matteo Salvador2,3,4,∗, Alison Lesley Marsden1,2,3,4
+1 Department of Bioengineering, Stanford University, California, USA
+2 Institute for Computational and Mathematical Engineering, Stanford University, California, USA
+3 Cardiovascular Institute, Stanford University, California, USA
+4 Pediatric Cardiology, Stanford University, California, USA
+∗ Corresponding author (msalvad@stanford.edu)
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

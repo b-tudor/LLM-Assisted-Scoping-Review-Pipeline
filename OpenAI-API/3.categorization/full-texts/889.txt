@@ -1,0 +1,21 @@
+TITLE: A personalized real-time virtual model of whole heart electrophysiology
+AUTHOR 1: DoctorGillette
+AUTHOR 2: GsellMaf
+AUTHOR 3: Unknown
+  Affiliations: Medical University of Graz, Graz Austria King'
+AUTHOR 4: Unknown
+  Affiliations: Institute of Mathematics and Scientific Computing, of Great Britain & Northern Ireland NAWI Graz, Institute of Mathematics and Scientific Computing; of Great Britain & Northern Ireland NAWI Graz; NumeriCor GmbH, College London, London, Graz, Graz United Kingdom, Austria, Austria
+AUTHOR 5: Unknown
+  Affiliations: Division of Cardiology, Division of Cardiology; Department of Internal Medicine; Medical University of Graz, Graz Austria
+AUTHOR 6: Unknown
+  Affiliations: Queen Mary University of London, London United Kingdom
+AUTHOR 7: Unknown
+  Affiliations: of Great Britain & Northern Ireland IHU Liryc, Bordeaux France
+================================================================================
+
+Europace 2023 Volume 25 Supplement 1
+38.4 - Big Data and Digital Twin
+
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

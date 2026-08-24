@@ -1,0 +1,26 @@
+TITLE: Putting the Personalized Metabolic Avatar into Production: A Comparison between Deep-Learning and Statistical Models for Weight Prediction
+AUTHOR 1: AlessioAbeltino
+AUTHOR 2: GiadaBianchetti (ORCID: 0000-0003-1257-2295)
+AUTHOR 3: CassandraSerantoni (ORCID: 0000-0001-7306-8004)
+AUTHOR 4: AlessiaRiente
+AUTHOR 5: MarcoDe Spirito (ORCID: 0000-0003-4260-5107)
+AUTHOR 6: GiuseppeMaulucci [CORRESPONDING] (ORCID: 0000-0002-2154-319X) <giuseppe.maulucci@unicatt.it>
+AUTHOR 7: Unknown
+  Affiliations: 1 Neuroscience Department Biophysics Section, Università Cattolica del Sacro Cuore,, 00168 Rome, Italy 00168 Rome, Italy
+AUTHOR 8: Unknown
+  Affiliations: 2 Fondazione Policlinico Universitario A. Gemelli IRCSS,
+================================================================================
+
+Article
+Putting the Personalized Metabolic Avatar into Production: A
+Comparison between Deep-Learning and Statistical Models for
+Weight Prediction
+Alessio Abeltino 1,2, Giada Bianchetti 1,2
+and Giuseppe Maulucci 1,2,*
+, Cassandra Serantoni 1,2
+1 Neuroscience Department Biophysics Section, Università Cattolica del Sacro Cuore, 00168 Rome, Italy
+2
+Fondazione Policlinico Universitario A. Gemelli IRCSS, 00168 Rome, Italy
+* Correspondence: giuseppe.maulucci@unicatt.it
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

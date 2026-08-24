@@ -1,0 +1,33 @@
+TITLE: Using digital twins to reduce sample sizes while maintaining power and statistical accuracy
+AUTHOR 1: DavidWalsh [CORRESPONDING] <davidwalsh@unlearn.ai>
+  Affiliations: Unlearn.AI, San Francisco CA USA | Unlearn.AI, San Francisco CA USA
+AUTHOR 2: AlejandroMSchuler
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 3: DianaHall
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 4: JonathanRWalsh
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 5: CharlesKFisher
+  Affiliations: Unlearn.AI, San Francisco CA USA
+================================================================================
+
+DOI: 10.1002/alz.054657
+D R U G D E V E L O P M E N T
+POSTER PRESENTATION
+David Walsh
+Charles K. Fisher
+Unlearn.AI, San Francisco, CA, USA
+Correspondence
+David Walsh, Unlearn.AI, San Francisco, CA,
+USA.
+Email: davidwalsh@unlearn.ai
+Alzheimer’s Dement. 2021;17(Suppl. 9):e054657.
+https://doi.org/10.1002/alz.054657
+
+Using digital twins to reduce sample sizes while maintaining
+power and statistical accuracy
+Alejandro M Schuler
+Diana Hall
+Jonathan R. Walsh
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

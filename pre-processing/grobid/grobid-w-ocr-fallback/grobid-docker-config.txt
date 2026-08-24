@@ -1,0 +1,850 @@
+# TO RUN DOCKER/GROBID:
+
+
+# CHECK WHAT IMAGES YOU HAVE AVAILABLE, THIS IS WHAT WE GOT:
+
+% docker ps
+CONTAINER ID   IMAGE                 COMMAND                  CREATED         STATUS          PORTS     NAMES
+e254e0befed0   grobid/grobid:0.8.2   "/tini -s -- ./grobi…"   12 months ago   Up 12 minutes             grobid
+
+% docker images
+REPOSITORY      TAG       IMAGE ID       CREATED         SIZE
+grobid/grobid   0.8.2     0057fdcff928   15 months ago   27GB
+
+
+# TO RUN IT (ASSUMING YOU HAVE IT):
+% docker run --rm --init -p 8070:8070 grobid/grobid:0.8.2
+
+
+############################################################################################################
+# Config dumps follow. 
+# The command appears after the prompt '%', followed by the command output
+############################################################################################################
+
+
+% docker version
+
+Client:
+ Version:           28.3.2
+ API version:       1.51
+ Go version:        go1.24.5
+ Git commit:        578ccf6
+ Built:             Wed Jul  9 16:12:57 2025
+ OS/Arch:           darwin/arm64
+ Context:           desktop-linux
+
+Server: Docker Desktop 4.44.1 (201842)
+ Engine:
+  Version:          28.3.2
+  API version:      1.51 (minimum version 1.24)
+  Go version:       go1.24.5
+  Git commit:       e77ff99
+  Built:            Wed Jul  9 16:13:56 2025
+  OS/Arch:          linux/arm64
+  Experimental:     false
+ containerd:
+  Version:          1.7.27
+  GitCommit:        05044ec0a9a75232cad458027ca83437aae3f4da
+ runc:
+  Version:          1.2.5
+  GitCommit:        v1.2.5-0-g59923ef
+ docker-init:
+  Version:          0.19.0
+  GitCommit:        de40ad0
+
+############################################################################################################
+
+
+
+% docker inspect grobid \     
+  --format 'Image={{.Config.Image}}
+ImageID={{.Image}}
+Platform={{.Platform}}
+Command={{json .Config.Cmd}}
+Entrypoint={{json .Config.Entrypoint}}
+Environment={{json .Config.Env}}
+Mounts={{json .Mounts}}
+Ports={{json .HostConfig.PortBindings}}'
+
+Image=grobid/grobid:0.8.2
+ImageID=sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190
+Platform=linux
+Command=["./grobid-service/bin/grobid-service"]
+Entrypoint=["/tini","-s","--"]
+Environment=["PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin","NVARCH=x86_64","NVIDIA_REQUIRE_CUDA=cuda>=11.2 brand=tesla,driver>=418,driver<419 brand=tesla,driver>=440,driver<441 driver>=450","NV_CUDA_CUDART_VERSION=11.2.146-1","NV_CUDA_COMPAT_PACKAGE=cuda-compat-11-2","NV_ML_REPO_ENABLED=1","NV_ML_REPO_URL=https://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu2004/x86_64","CUDA_VERSION=11.2.1","LD_LIBRARY_PATH=/usr/local/lib/python3.8/dist-packages/jep:grobid-home/lib/lin-64:grobid-home/lib/lin-64/jep:/usr/local/cuda/extras/CUPTI/lib64:/usr/local/cuda/lib64:/usr/local/nvidia/lib:/usr/local/nvidia/lib64","NVIDIA_VISIBLE_DEVICES=all","NVIDIA_DRIVER_CAPABILITIES=compute,utility","DEBIAN_FRONTEND=noninteractive","LANG=C.UTF-8","TINI_VERSION=v0.19.0","PYTHONWARNINGS=ignore","JAVA_OPTS=-Xmx4g","JDK_URL=https://download.java.net/java/GA/jdk17.0.2/dfd4a8d0985749f896bed50d7138ee7f/8/GPL/openjdk-17.0.2_linux-x64_bin.tar.gz","GROBID_SERVICE_OPTS=--add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED"]
+Mounts=[]
+Ports={}
+
+############################################################################################################
+
+
+
+
+% docker image inspect grobid/grobid:0.8.2 \
+  --format 'ID={{.Id}}
+RepoTags={{json .RepoTags}}
+RepoDigests={{json .RepoDigests}}
+Created={{.Created}}
+Architecture={{.Architecture}}
+OS={{.Os}}
+Labels={{json .Config.Labels}}'
+
+ID=sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190
+RepoTags=["grobid/grobid:0.8.2"]
+RepoDigests=["grobid/grobid@sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190"]
+Created=2025-05-12T07:16:04.554219585Z
+Architecture=amd64
+OS=linux
+
+############################################################################################################
+
+
+
+
+% curl http://localhost:8070/api/version
+
+{"version":"0.8.2","revision":"a91ee48"}
+
+############################################################################################################
+
+
+
+% docker image inspect grobid/grobid:0.8.2
+
+[
+    {
+        "Id": "sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190",
+        "RepoTags": [
+            "grobid/grobid:0.8.2"
+        ],
+        "RepoDigests": [
+            "grobid/grobid@sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190"
+        ],
+        "Parent": "",
+        "Comment": "buildkit.dockerfile.v0",
+        "Created": "2025-05-12T07:16:04.554219585Z",
+        "DockerVersion": "",
+        "Author": "",
+        "Architecture": "amd64",
+        "Os": "linux",
+        "Size": 9533810885,
+        "GraphDriver": {
+            "Data": null,
+            "Name": "overlayfs"
+        },
+        "RootFS": {
+            "Type": "layers",
+            "Layers": [
+                "sha256:4942a1abcbfa1c325b1d7ed93d3cf6020f555be706672308a4a4a6b6d631d2e7",
+                "sha256:b5616a98a7764195fc5f4d9f5400cb52c2fc20ee79df7fb787157b64ad2b2c78",
+                "sha256:a5b452fa3051a28f72bd3d34958cf179ba186df0ffab3b1d4679380847245299",
+                "sha256:9557d05771c8cc6f1694fcf1cd0f415fe0badb4a1ddaa37b9b598637cdea7d22",
+                "sha256:c69ef24a9cfd15c36550b0336008cace23a3ec48a0ebaa71ca0d4ab335773d41",
+                "sha256:8662098b1dc9e6986596755b090f08e9de8e25dcaca8e914e9de30ed4212f48b",
+                "sha256:2f22a2e267f89096bd741a363727394c470a67fe0550650b41c118aeb6e9756d",
+                "sha256:7979309529d341942e96a8cacdf4ae92e5846a054e69b2ce69c0136f9de35b04",
+                "sha256:31ff8bfc604d741998e3aa5c6029466e4cdd6e6ed0ef14ac51fad163033332df",
+                "sha256:c74eee0ce499d7ecd4af5ee73b8da9559ee63f251ecf7f5cf4326f0e26c6c3bd",
+                "sha256:c47958f555a04dd1927acf6c8203ce0188b8ec49022c76c2cb4211488b58eb4d",
+                "sha256:32cec01d1c97b169c6f61f9b74cd51de7f9660ea8f8aba672da05589b2a67b4b",
+                "sha256:20c97f888e8cd922df4dbffe414cbaabb136cc4c2251736e234ed1a5a6e0f6f3",
+                "sha256:827a97679dffbea91b71fa7107a8141439752aa9e841ade45488804d46a1d472",
+                "sha256:c0c50f54ef2519322ba7184a6941d8c9b23a261494acfd791894b63a05d3afa0",
+                "sha256:cacd4dd2d21cb502b566a132af8aa31444c39d49c58251b669a347d1f5b13728",
+                "sha256:1233efbfa2fb87b088abe815209af202a7c21e53c0c9b333c8a37b84e25b1046",
+                "sha256:d07407fb381c2ac7c59acc0e79500e53208929e334b226789ad5e6f40512feb8",
+                "sha256:476bc76381a5d4d45f47a133f587abc40d727a89211ae3149e8795836139d653",
+                "sha256:0b0575003d33f96843c6bc9158cb78b023683ed250705b0eb8090f72b4f36e85",
+                "sha256:e9c1aba4d5b964b20bcbed8dfabc2bed59c7dde1015942c103c48ddf98724a60",
+                "sha256:638399c6573f749228def9eb4ebf01167de6eacd32c727b9794f7f5ecbdbcab0",
+                "sha256:c5fd6033cdcadacb100b75cb16fb9c10186c1139aad969b527881464984e6b6a",
+                "sha256:5f70bf18a086007016e948b04aed3b82103a36bea41755b6cddfaf10ace3c6ef",
+                "sha256:dad5fc6d4a1f77f2442f6a1dea66dea8cc20c773b053c577a9992d29edb7e8e2",
+                "sha256:63ff4dead1d3cdb557af9b16d2fd537a565bb204d1beccba6b878071416c14fd",
+                "sha256:5eb21bcf017b9e6cb7b4e927a239647affddb7307705b5d7e90505cced2553e1",
+                "sha256:412089d334be048b8433771658dea64bcc41499e983e9e3a6c7073285a15b582",
+                "sha256:72aac9f54a29c245ca415e0c2166fafea01abead9c4bf566279d658fb7f63412",
+                "sha256:b28c5a10daacd6b3ddfbe6ed89efbb1e08dd4d580a8ca8f83f224fd761d62feb"
+            ]
+        },
+        "Metadata": {
+            "LastTagTime": "2025-08-17T12:04:41.569219125Z"
+        },
+        "Descriptor": {
+            "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "digest": "sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190",
+            "size": 6613
+        },
+        "Config": {
+            "ArgsEscaped": true,
+            "Cmd": [
+                "./grobid-service/bin/grobid-service"
+            ],
+            "Entrypoint": [
+                "/tini",
+                "-s",
+                "--"
+            ],
+            "Env": [
+                "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NVARCH=x86_64",
+                "NVIDIA_REQUIRE_CUDA=cuda\u003e=11.2 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441 driver\u003e=450",
+                "NV_CUDA_CUDART_VERSION=11.2.146-1",
+                "NV_CUDA_COMPAT_PACKAGE=cuda-compat-11-2",
+                "NV_ML_REPO_ENABLED=1",
+                "NV_ML_REPO_URL=https://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu2004/x86_64",
+                "CUDA_VERSION=11.2.1",
+                "LD_LIBRARY_PATH=/usr/local/lib/python3.8/dist-packages/jep:grobid-home/lib/lin-64:grobid-home/lib/lin-64/jep:/usr/local/cuda/extras/CUPTI/lib64:/usr/local/cuda/lib64:/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+                "NVIDIA_VISIBLE_DEVICES=all",
+                "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+                "DEBIAN_FRONTEND=noninteractive",
+                "LANG=C.UTF-8",
+                "TINI_VERSION=v0.19.0",
+                "PYTHONWARNINGS=ignore",
+                "JAVA_OPTS=-Xmx4g",
+                "JDK_URL=https://download.java.net/java/GA/jdk17.0.2/dfd4a8d0985749f896bed50d7138ee7f/8/GPL/openjdk-17.0.2_linux-x64_bin.tar.gz",
+                "GROBID_SERVICE_OPTS=--add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED"
+            ],
+            "Labels": {
+                "authors": "The contributors",
+                "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e",
+                "org.label-schema.description": "Image with GROBID service",
+                "org.label-schema.name": "GROBID",
+                "org.label-schema.url": "https://github.com/kermitt2/grobid",
+                "org.label-schema.version": ""
+            },
+            "OnBuild": null,
+            "Shell": [
+                "/bin/bash",
+                "-c"
+            ],
+            "User": "",
+            "Volumes": null,
+            "WorkingDir": "/opt/grobid"
+        }
+    }
+]
+
+############################################################################################################
+
+
+
+
+
+% docker inspect grobid
+
+[
+    {
+        "Id": "e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee",
+        "Created": "2025-08-18T11:10:14.645118416Z",
+        "Path": "/tini",
+        "Args": [
+            "-s",
+            "--",
+            "./grobid-service/bin/grobid-service"
+        ],
+        "State": {
+            "Status": "exited",
+            "Running": false,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 0,
+            "ExitCode": 143,
+            "Error": "",
+            "StartedAt": "2026-08-22T14:12:49.690789798Z",
+            "FinishedAt": "2026-08-22T14:27:33.661681596Z"
+        },
+        "Image": "sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190",
+        "ResolvConfPath": "/var/lib/docker/containers/e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee/hostname",
+        "HostsPath": "/var/lib/docker/containers/e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee/hosts",
+        "LogPath": "/var/lib/docker/containers/e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee/e254e0befed0fc43d2cf2b8cee87531dde6c41bf5b0b8186c6e72d9b19248bee-json.log",
+        "Name": "/grobid",
+        "RestartCount": 0,
+        "Driver": "overlayfs",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "bridge",
+            "PortBindings": {},
+            "RestartPolicy": {
+                "Name": "no",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": null,
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": [],
+            "DnsOptions": [],
+            "DnsSearch": [],
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/interrupts",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": null,
+            "Name": "overlayfs"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "e254e0befed0",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/usr/local/nvidia/bin:/usr/local/cuda/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "NVARCH=x86_64",
+                "NVIDIA_REQUIRE_CUDA=cuda\u003e=11.2 brand=tesla,driver\u003e=418,driver\u003c419 brand=tesla,driver\u003e=440,driver\u003c441 driver\u003e=450",
+                "NV_CUDA_CUDART_VERSION=11.2.146-1",
+                "NV_CUDA_COMPAT_PACKAGE=cuda-compat-11-2",
+                "NV_ML_REPO_ENABLED=1",
+                "NV_ML_REPO_URL=https://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu2004/x86_64",
+                "CUDA_VERSION=11.2.1",
+                "LD_LIBRARY_PATH=/usr/local/lib/python3.8/dist-packages/jep:grobid-home/lib/lin-64:grobid-home/lib/lin-64/jep:/usr/local/cuda/extras/CUPTI/lib64:/usr/local/cuda/lib64:/usr/local/nvidia/lib:/usr/local/nvidia/lib64",
+                "NVIDIA_VISIBLE_DEVICES=all",
+                "NVIDIA_DRIVER_CAPABILITIES=compute,utility",
+                "DEBIAN_FRONTEND=noninteractive",
+                "LANG=C.UTF-8",
+                "TINI_VERSION=v0.19.0",
+                "PYTHONWARNINGS=ignore",
+                "JAVA_OPTS=-Xmx4g",
+                "JDK_URL=https://download.java.net/java/GA/jdk17.0.2/dfd4a8d0985749f896bed50d7138ee7f/8/GPL/openjdk-17.0.2_linux-x64_bin.tar.gz",
+                "GROBID_SERVICE_OPTS=--add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.base/java.io=ALL-UNNAMED"
+            ],
+            "Cmd": [
+                "./grobid-service/bin/grobid-service"
+            ],
+            "Image": "grobid/grobid:0.8.2",
+            "Volumes": null,
+            "WorkingDir": "/opt/grobid",
+            "Entrypoint": [
+                "/tini",
+                "-s",
+                "--"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "authors": "The contributors",
+                "maintainer": "NVIDIA CORPORATION \u003ccudatools@nvidia.com\u003e",
+                "org.label-schema.description": "Image with GROBID service",
+                "org.label-schema.name": "GROBID",
+                "org.label-schema.url": "https://github.com/kermitt2/grobid",
+                "org.label-schema.version": ""
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "",
+            "SandboxKey": "",
+            "Ports": {},
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "bridge": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": null,
+                    "MacAddress": "",
+                    "DriverOpts": null,
+                    "GwPriority": 0,
+                    "NetworkID": "87bc9788d413fd81659b151418ca870866d36641f3ce435cc625ac1688f2f46a",
+                    "EndpointID": "",
+                    "Gateway": "",
+                    "IPAddress": "",
+                    "IPPrefixLen": 0,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DNSNames": null
+                }
+            }
+        },
+        "ImageManifestDescriptor": {
+            "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "digest": "sha256:0057fdcff9280c4b2596b050bb75cc799dc31f57255b001bf2e5144be0f5c190",
+            "size": 6613,
+            "platform": {
+                "architecture": "amd64",
+                "os": "linux"
+            }
+        }
+    }
+]
+
+############################################################################################################
+
+
+
+
+% docker exec cacb84339350 \ 
+    cat /opt/grobid/grobid-home/config/grobid.yaml
+    
+
+# this is the configuration file for the GROBID instance that uses the Deep Learning Models.
+
+grobid:
+  # where all the Grobid resources are stored (models, lexicon, native libraries, etc.), normally no need to change
+  grobidHome: "grobid-home"
+
+  # path relative to the grobid-home path (e.g. tmp for grobid-home/tmp) or absolute path (/tmp)
+  temp: "tmp"
+
+  # normally nothing to change here, path relative to the grobid-home path (e.g. grobid-home/lib)
+  nativelibrary: "lib"
+
+  pdf:
+    pdfalto:
+      # path relative to the grobid-home path (e.g. grobid-home/pdfalto), you don't want to change this normally
+      path: "pdfalto"
+      # security for PDF parsing
+      memoryLimitMb: 6096
+      timeoutSec: 120
+
+    # security relative to the PDF parsing result
+    blocksMax: 200000
+    tokensMax: 1000000
+
+  consolidation:
+    # define the bibliographical data consolidation service to be used, either "crossref" for CrossRef REST API or
+    # "glutton" for https://github.com/kermitt2/biblio-glutton
+    service: "crossref"
+    #service: "glutton"
+    glutton:
+      #url: "https://cloud.science-miner.com/glutton"
+      url: "http://localhost:8080"
+    crossref:
+      mailto:
+      # to use crossref web API, you need normally to use it politely and to indicate an email address here, e.g.
+      #mailto: "toto@titi.tutu"
+      token:
+      # to use Crossref metadata plus service (available by subscription)
+      #token: "yourmysteriouscrossrefmetadataplusauthorizationtokentobeputhere"
+
+  proxy:
+    # proxy to be used when doing external call to the consolidation service
+    host:
+    port:
+
+  # CORS configuration for the GROBID web API service
+  corsAllowedOrigins: "*"
+  corsAllowedMethods: "OPTIONS,GET,PUT,POST,DELETE,HEAD"
+  corsAllowedHeaders: "X-Requested-With,Content-Type,Accept,Origin"
+
+  # the actual implementation for language recognition to be used
+  languageDetectorFactory: "org.grobid.core.lang.impl.CybozuLanguageDetectorFactory"
+
+  # the actual implementation for optional sentence segmentation to be used (PragmaticSegmenter or OpenNLP)
+  #sentenceDetectorFactory: "org.grobid.core.lang.impl.PragmaticSentenceDetectorFactory"
+  sentenceDetectorFactory: "org.grobid.core.lang.impl.OpenNLPSentenceDetectorFactory"
+
+  # maximum concurrency allowed to GROBID server for processing parallel requests - change it according to your CPU/GPU capacities
+  # for a production server running only GROBID, set the value slightly above the available number of threads of the server
+  # to get best performance and security
+  concurrency: 10
+  # when the pool is full, for queries waiting for the availability of a Grobid engine, this is the maximum time wait to try
+  # to get an engine (in seconds) - normally never change it
+  poolMaxWait: 1
+
+  delft:
+    # DeLFT global parameters
+    # delft installation path if Deep Learning architectures are used to implement one of the sequence labeling model,
+    # embeddings are usually compiled as lmdb under delft/data (this parameter is ignored if only featured-engineered CRF are used)
+    install: "../delft"
+    pythonVirtualEnv:
+
+  wapiti:
+    # Wapiti global parameters
+    # number of threads for training the wapiti models (0 to use all available processors)
+    nbThreads: 0
+
+  models:
+    # we configure here how each sequence labeling model should be implemented
+    # for feature-engineered CRF, use "wapiti" and possible training parameters are window, epsilon and nbMaxIterations
+    # for Deep Learning, use "delft" and select the target DL architecture (see DeLFT library), the training
+    # parameters then depends on this selected DL architecture
+
+    - name: "segmentation"
+      # at this time, must always be CRF wapiti, the input sequence size is too large for a Deep Learning implementation
+      engine: "wapiti"
+      #engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.0000001
+        window: 50
+        nbMaxIterations: 2000
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+        useELMo: false
+        runtime:
+          # parameters used at runtime/prediction
+          max_sequence_length: 3000
+          batch_size: 1
+        training:
+          # parameters used for training
+          max_sequence_length: 3000
+          batch_size: 10
+
+    - name: "segmentation-article-light"
+      engine: "wapiti"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.0000001
+        window: 50
+        nbMaxIterations: 2000
+
+    - name: "segmentation-article-light-ref"
+      engine: "wapiti"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.0000001
+        window: 50
+        nbMaxIterations: 2000
+
+    - name: "fulltext"
+      # at this time, must always be CRF wapiti, the input sequence size is too large for a Deep Learning implementation
+      engine: "wapiti"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.0001
+        window: 20
+        nbMaxIterations: 1500
+
+    - name: "header"
+      #engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.000001
+        window: 30
+        nbMaxIterations: 1500
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_ChainCRF_FEATURES"
+        #transformer: "allenai/scibert_scivocab_cased"
+        useELMo: false
+        runtime:
+          # parameters used at runtime/prediction
+          #max_sequence_length: 510
+          max_sequence_length: 3000
+          batch_size: 1
+        training:
+          # parameters used for training
+          #max_sequence_length: 510
+          #batch_size: 6
+          max_sequence_length: 3000
+          batch_size: 9
+
+    - name: "header-article-light"
+#      engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.000001
+        window: 30
+        nbMaxIterations: 1500
+      delft:
+        architecture: "BidLSTM_ChainCRF_FEATURES"
+        useELMo: false
+
+    - name: "header-article-light-ref"
+#      engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.000001
+        window: 30
+        nbMaxIterations: 1500
+      delft:
+        architecture: "BidLSTM_ChainCRF_FEATURES"
+        useELMo: false
+
+    - name: "reference-segmenter"
+      #engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.00001
+        window: 20
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_ChainCRF_FEATURES"
+        useELMo: false
+        runtime:
+          # parameters used at runtime/prediction (for this model, use same max_sequence_length as training)
+          max_sequence_length: 3000
+          batch_size: 2
+        training:
+          # parameters used for training
+          max_sequence_length: 3000
+          batch_size: 10
+
+    - name: "name-header"
+      engine: "wapiti"
+      #engine: "delft"
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+
+    - name: "name-citation"
+      engine: "wapiti"
+      #engine: "delft"
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+
+    - name: "date"
+      engine: "wapiti"
+      #engine: "delft"
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+
+    - name: "figure"
+      engine: "wapiti"
+      #engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.00001
+        window: 20
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF"
+
+    - name: "table"
+      engine: "wapiti"
+      #engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.00001
+        window: 20
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF"
+
+    - name: "affiliation-address"
+      #engine: "wapiti"
+      engine: "delft"
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+
+    - name: "citation"
+      #engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.00001
+        window: 50
+        nbMaxIterations: 3000
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+        #architecture: "BERT_CRF"
+        #transformer: "michiyasunaga/LinkBERT-base"
+        useELMo: false
+        runtime:
+          # parameters used at runtime/prediction
+          max_sequence_length: 500
+          batch_size: 30
+        training:
+          # parameters used for training
+          max_sequence_length: 500
+          batch_size: 50
+
+    - name: "patent-citation"
+      #engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.0001
+        window: 20
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+        #architecture: "BERT_CRF"
+        runtime:
+          # parameters used at runtime/prediction
+          max_sequence_length: 800
+          batch_size: 20
+        training:
+          # parameters used for training
+          max_sequence_length: 1000
+          batch_size: 40
+
+    - name: "funding-acknowledgement"
+      #engine: "wapiti"
+      engine: "delft"
+      wapiti:
+        # wapiti training parameters, they will be used at training time only
+        epsilon: 0.00001
+        window: 50
+        nbMaxIterations: 2000
+      delft:
+        # deep learning parameters
+        architecture: "BidLSTM_CRF_FEATURES"
+        #architecture: "BERT_CRF"
+        #transformer: "michiyasunaga/LinkBERT-base"
+        useELMo: false
+        runtime:
+          # parameters used at runtime/prediction
+          max_sequence_length: 800
+          batch_size: 20
+        training:
+          # parameters used for training
+          max_sequence_length: 500
+          batch_size: 40
+
+    - name: "copyright"
+      # at this time, we only have a DeLFT implementation,
+      # use "wapiti" if the deep learning library JNI is not available and model will then be ignored
+#      engine: "delft"
+      engine: "wapiti"
+      delft:
+        # deep learning parameters
+        architecture: "gru"
+        #architecture: "bert"
+        #transformer: "allenai/scibert_scivocab_cased"
+
+    - name: "license"
+      # at this time, for being active, it must be DeLFT, no other implementation is available
+      # use "wapiti" if the deep learning library JNI is not available and model will then be ignored
+#      engine: "delft"
+      engine: "wapiti"
+      delft:
+        # deep learning parameters
+        architecture: "gru"
+        #architecture: "bert"
+        #transformer: "allenai/scibert_scivocab_cased"
+
+  # for **service only**: how to load the models,
+  # false -> models are loaded when needed, avoiding putting in memory useless models (only in case of CRF) but slow down
+  #          significantly the service at first call
+  # true -> all the models are loaded into memory at the server startup (default), slow the start of the services
+  #         and models not used will take some more memory (only in case of CRF), but server is immediatly warm and ready
+  modelPreload: true
+
+server:
+  type: custom
+  applicationConnectors:
+    - type: http
+      port: 8070
+  adminConnectors:
+    - type: http
+      port: 8071
+  registerDefaultExceptionMappers: false
+  # change the following for having all http requests logged
+  requestLog:
+    appenders: []
+
+# these logging settings apply to the Grobid service usage mode
+logging:
+  level: INFO
+  loggers:
+    org.apache.pdfbox.pdmodel.font.PDSimpleFont: "OFF"
+    org.glassfish.jersey.internal: "OFF"
+    com.squarespace.jersey2.guice.JerseyGuiceUtils: "OFF"
+  appenders:
+    - type: console
+      threshold: WARN
+      timeZone: UTC
+      # uncomment to have the logs in json format
+      #layout:
+      #  type: json%                                                                                            

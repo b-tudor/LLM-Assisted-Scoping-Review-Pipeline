@@ -1,0 +1,46 @@
+TITLE: Virtual pacing of a patient’s digital twin to predict left ventricular reverse remodelling after cardiac resynchronization therapy
+AUTHOR 1: TijmenKoopsen (ORCID: 0009-0009-2488-0966)
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Universiteitssingel 40 6200 MD The Netherlands
+AUTHOR 2: WillemGerrits
+  Affiliations: Department of Cardiology, Department of Cardiology; Division of Heart and Lungs; University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 3: NickVan Osta (ORCID: 0000-0002-8927-9110)
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Universiteitssingel 40 6200 MD The Netherlands
+AUTHOR 4: TimVan Loon (ORCID: 0009-0009-4187-8948)
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Universiteitssingel 40 6200 MD The Netherlands
+AUTHOR 5: PhilippeWouters (ORCID: 0000-0002-3406-4083)
+  Affiliations: Department of Cardiology, Department of Cardiology; Division of Heart and Lungs; University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 6: FritsWPrinzen (ORCID: 0000-0001-8917-9032)
+  Affiliations: Department of Physiology, Department of Physiology; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht The Netherlands
+AUTHOR 7: KevinVernooy (ORCID: 0000-0002-8818-5964)
+  Affiliations: Department of Cardiology, Department of Cardiology; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht The Netherlands | Department of Cardiology, Department of Cardiology; Maastricht University Medical Center (MUMC), Maastricht The Netherlands | Department of Cardiology, Department of Cardiology; Radboud University Medical Center, Nijmegen The Netherlands
+AUTHOR 8: TammoDelhaas (ORCID: 0000-0001-6897-9700)
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Universiteitssingel 40 6200 MD The Netherlands
+AUTHOR 9: ArcoJTeske (ORCID: 0000-0001-5305-1619)
+  Affiliations: Department of Cardiology, Department of Cardiology; Division of Heart and Lungs; University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 10: MathiasMeine (ORCID: 0000-0002-1102-2155)
+  Affiliations: Department of Cardiology, Department of Cardiology; Division of Heart and Lungs; University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 11: MaartenJCramer (ORCID: 0000-0002-6041-6759)
+  Affiliations: Department of Cardiology, Department of Cardiology; Division of Heart and Lungs; University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 12: JoostLumens [CORRESPONDING] (ORCID: 0000-0001-8129-7384) <joost.lumens@maastrichtuniversity.nl>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; CARIM Cardiovascular Research Institute Maastricht; Maastricht University, Universiteitssingel 40 6200 MD The Netherlands
+================================================================================
+
+Aims
+
+Europace (2024) 26, 1–8 
+https://doi.org/10.1093/europace/euae009
+Virtual pacing of a patient’s digital twin to 
+predict left ventricular reverse remodelling 
+after cardiac resynchronization therapy
+Tijmen Koopsen   1, Willem Gerrits2, Nick van Osta   1, Tim van Loon   1, 
+Philippe Wouters   2, Frits W. Prinzen   3, Kevin Vernooy   4,5,6, 
+Tammo Delhaas   1, Arco J. Teske   2, Mathias Meine   2, Maarten J. Cramer   2, 
+and Joost Lumens   1*
+1Department of Biomedical Engineering, CARIM Cardiovascular Research Institute Maastricht, Maastricht University, Universiteitssingel 40, 6200 MD, The Netherlands; 2Department of 
+Cardiology, Division of Heart and Lungs, University Medical Center Utrecht (UMCU), Utrecht, The Netherlands; 3Department of Physiology, CARIM Cardiovascular Research Institute 
+Maastricht, Maastricht University, Maastricht, The Netherlands; 4Department of Cardiology, CARIM Cardiovascular Research Institute Maastricht, Maastricht University, Maastricht, The 
+Netherlands; 5Department of Cardiology, Maastricht University Medical Center (MUMC), Maastricht, The Netherlands; and 6Department of Cardiology, Radboud University Medical 
+Center, Nijmegen, The Netherlands
+Received 26 October 2023; accepted after revision 9 January 2024; online publish-ahead-of-print 30 January 2024
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

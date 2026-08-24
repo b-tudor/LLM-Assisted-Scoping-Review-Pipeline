@@ -1,0 +1,41 @@
+TITLE: Abstract #1184116: Predictors of Type 2 Diabetes (T2D) Remission using Digital Twin Technology Based on Artificial Intelligence (AI) and Internet of Things (IoT) Technologies
+AUTHOR 1: ShashankJoshi
+  Affiliations: DM -Lilavati and Twin Health, DM -Lilavati and Twin Health; MD -Bangalore Diabetes Centre and Twin Health; MD -Twin Health Inc; Jahangir Mohammed, Paramesh Shamanna, Lisa Shah | MD -Twin Health Inc; Maluk Mohamed; PhD -Twin Health Inc, Terrence Poon | DM -MS Ramaiah (MSR) Medical College (Bangalore), DM -MS Ramaiah (MSR) Medical College (Bangalore); PhD -Twin Health Inc; Mala Dharmalingam | Bangalore Endocrinology & Diabetes Research Centre (BEDRC), Bangalore Endocrinology & Diabetes Research Centre (BEDRC); MD -Sudha Prevention Center, Arun Vadavi
+AUTHOR 2: ParameshShamanna
+AUTHOR 3: LisaShah
+AUTHOR 4: JahangirMohammed
+AUTHOR 5: MalukMohamed
+AUTHOR 6: TerrencePoon
+AUTHOR 7: MalaDharmalingam
+AUTHOR 8: ArunVadavi
+AUTHOR 9: AshokKeshavamurthy
+AUTHOR 10: SureshDamodaran
+AUTHOR 11: SuchitraBhonsley
+AUTHOR 12: MohamedThajudeen
+AUTHOR 13: JeffreyMechanick
+================================================================================
+
+Diabetes/Prediabetes/Hypoglycemia
+Abstract #1184116
+Predictors of Type 2 Diabetes (T2D) Remission using
+Digital Twin Technology Based on Artiﬁcial
+Intelligence (AI) and Internet of Things (IoT)
+Technologies
+Author Block: Shashank Joshi, DM - Lilavati and Twin Health;
+Paramesh Shamanna, MD - Bangalore Diabetes Centre and Twin
+Health; Lisa Shah, MD - Twin Health Inc; Jahangir Mohammed, MD
+- Twin Health Inc; Maluk Mohamed, PhD - Twin Health Inc;
+Terrence Poon, PhD - Twin Health Inc; Mala Dharmalingam, DM -
+MS Ramaiah (MSR) Medical College (Bangalore), and Director of
+the Bangalore Endocrinology & Diabetes Research Centre (BEDRC);
+Arun Vadavi, MD - Sudha Prevention Center;
+
+S42
+
+Endocrine Practice 28 (2022) S18eS54
+Ashok Keshavamurthy, MD - Twin Health; Suresh Damodaran, MD
+- Sri Ramakrishna Hospital, Coimbatore; Suchitra Bhonsley, MD -
+Twin Health; Mohamed Thajudeen, PhD - Twin Health;
+Jeffrey Mechanick, MD - Mount Sinai Hospital
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

@@ -1,0 +1,27 @@
+TITLE: Advanced modelling of residuum to improve bionic limbs
+AUTHOR 1: DavidGLloyd
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+AUTHOR 2: NataliyaNPerevoshchikova
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+AUTHOR 3: ChristianMLangton
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+AUTHOR 4: RodSBarrett
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+AUTHOR 5: JayishniNMaharaj
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+AUTHOR 6: LaurentAFrossard
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering, Griffith Centre of Biomedical and Rehabilitation Engineering; Griffith University, Australia
+================================================================================
+
+I013
+Advanced modelling of residuum to improve bionic limbs
+David G. Lloyda, Nataliya N. Perevoshchikovaa, Christian M. Langtona,
+Rod S. Barretta, Jayishni N. Maharaja, Laurent A. Frossarda
+aGrifﬁth Centre of Biomedical and Rehabilitation Engineering, Grifﬁth
+University, Australia
+limb loss and
+subsequently use bionic limbs afﬁxed to their residuum. The
+residuum’s different musculoskeletal
+tissues undergo continual
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

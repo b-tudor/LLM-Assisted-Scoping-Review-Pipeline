@@ -1,0 +1,49 @@
+TITLE: Sensitivity analysis of paediatric knee kinematics to the graft surgical parameters during anterior cruciate ligament reconstruction: A sequentially linked neuromusculoskeletal-finite element analysis
+AUTHOR 1: AydaKarimiDastgerdi (ORCID: 0009-0001-2150-9557)
+AUTHOR 2: AmirEsrafilian (ORCID: 0000-0002-8321-8528)
+  Affiliations: Department of Technical Physics, Department of Technical Physics; University of Eastern Finland, Kuopio Finland
+AUTHOR 3: ChristopherPCarty
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE), Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE); the Advanced Design and Prototyping Technologies Institute (ADAPT); Menzies Health Institute Queensland; Griffith University, Gold Coast QLD Australia | Department of Orthopedics, Department of Orthopedics; Children's Health Queensland Hospital and Health Service; QLD, Australia
+AUTHOR 4: AzadehNasseri (ORCID: 0000-0002-3543-1877)
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE), Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE); the Advanced Design and Prototyping Technologies Institute (ADAPT); Menzies Health Institute Queensland; Griffith University, Gold Coast QLD Australia
+AUTHOR 5: MartinaBarzan (ORCID: 0000-0002-1975-5433)
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE), Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE); the Advanced Design and Prototyping Technologies Institute (ADAPT); Menzies Health Institute Queensland; Griffith University, Gold Coast QLD Australia
+AUTHOR 6: RamiKKorhonen (ORCID: 0000-0002-3486-7855)
+  Affiliations: Department of Technical Physics, Department of Technical Physics; University of Eastern Finland, Kuopio Finland
+AUTHOR 7: IvanAstori
+  Affiliations: Department of Orthopedics, Department of Orthopedics; Children's Health Queensland Hospital and Health Service; QLD, Australia
+AUTHOR 8: WayneHall
+  Affiliations: School of Engineering and Built Environment, Mechanical Engineering and Industrial Design, School of Engineering and Built Environment, Mechanical Engineering and Industrial Design; Griffith University, Gold Coast QLD Australia
+AUTHOR 9: DavidJohnSaxby
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE), Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE); the Advanced Design and Prototyping Technologies Institute (ADAPT); Menzies Health Institute Queensland; Griffith University, Gold Coast QLD Australia
+AUTHOR 10: Unknown
+  Affiliations: 1 Parklands Drive 4222 Southport QLD Australia
+================================================================================
+
+A R T I C L E  I N F O    
+Keywords: 
+Biomechanics 
+Surgical planning 
+Surgical variability 
+Precision medicine 
+In silico 
+Digital twin 
+1. Introduction 
+
+Contents lists available at ScienceDirect 
+Computer Methods and Programs in Biomedicine 
+journal homepage: www.sciencedirect.com/journal/computer-methods- 
+and-programs-in-biomedicine 
+Sensitivity analysis of paediatric knee kinematics to the graft surgical 
+parameters during anterior cruciate ligament reconstruction: A sequentially 
+linked neuromusculoskeletal-finite element analysis 
+Ayda Karimi Dastgerdi a,*, Amir Esrafilian b, Christopher P. Carty a, c, Azadeh Nasseri a, 
+Martina Barzan a, Rami K. Korhonen b, Ivan Astori c, Wayne Hall d, David John Saxby a 
+a Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE), Menzies Health Institute Queensland and the Advanced Design and Prototyping Technologies 
+Institute (ADAPT), Griffith University, Gold Coast, QLD, Australia 
+b Department of Technical Physics, University of Eastern Finland, Kuopio, Finland 
+c Department of Orthopedics, Children’s Health Queensland Hospital and Health Service, QLD, Australia 
+d School of Engineering and Built Environment, Mechanical Engineering and Industrial Design, Griffith University, Gold Coast, QLD, Australia   
+ 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

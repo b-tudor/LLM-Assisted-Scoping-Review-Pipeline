@@ -1,0 +1,33 @@
+TITLE: Fully automated construction of three-dimensional finite element simulations from Optical Coherence Tomography
+AUTHOR 1: RossStraughan [CORRESPONDING] (ORCID: 0009-0000-4908-6405) <ross.straughan@hest.ethz.ch>
+  Affiliations: Cardiac Surgery Division, Cardiac Surgery Division; Brigham and Women's Hospital; Harvard Medical School, 02115 Boston MA USA | Department of Mechanical and Process Engineering, Department of Mechanical and Process Engineering; ETH Zurich, Leonhardstrasse 21 8092 Zurich Switzerland
+AUTHOR 2: KarimKadry [CORRESPONDING] (ORCID: 0000-0001-9520-0504) <kkadry@mit.edu>
+  Affiliations: Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Massachusetts Institute of Technology, 77 Massachusetts Ave 02139 Cambridge MA USA
+AUTHOR 3: SahilA.Parikh
+AUTHOR 4: ElazerREdelman (ORCID: 0000-0002-7832-7156)
+  Affiliations: Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Massachusetts Institute of Technology, 77 Massachusetts Ave 02139 Cambridge MA USA | Cardiovascular Division, Cardiovascular Division; Brigham and Women's Hospital; Harvard Medical School, 02115 Boston MA USA
+AUTHOR 5: FarhadRNezami (ORCID: 0000-0002-4210-3177)
+  Affiliations: Cardiac Surgery Division, Cardiac Surgery Division; Brigham and Women's Hospital; Harvard Medical School, 02115 Boston MA USA
+================================================================================
+
+Contents lists available at ScienceDirect
+Computers in Biology and Medicine
+journal homepage: www.elsevier.com/locate/compbiomed
+Fully automated construction of three-dimensional finite element
+simulations from Optical Coherence Tomography
+Ross Straughan a,b,1, Karim Kadry c,1, Sahil A .Parikh d, Elazer R. Edelman c,e, Farhad R. Nezami a,∗
+a Cardiac Surgery Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, 02115, MA, USA
+b Department of Mechanical and Process Engineering, ETH Zurich, Leonhardstrasse 21, 8092 Zurich, Switzerland
+c Institute for Medical Engineering and Science, Massachusetts Institute of Technology, 77 Massachusetts Ave, Cambridge, 02139, MA, USA
+d Division of Cardiology, Columbia University Irving Medical Center, New York, 10032, NY, USA
+e Cardiovascular Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, 02115, MA, USA
+A B S T R A C T
+A R T I C L E I N F O
+Keywords:
+Structural mechanics
+Atherosclerosis
+Optical Coherence Tomography
+Three-dimensional reconstruction
+Digital twin
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

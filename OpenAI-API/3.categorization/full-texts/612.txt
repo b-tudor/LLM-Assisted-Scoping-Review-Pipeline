@@ -1,0 +1,40 @@
+TITLE: Virtual patient framework for the testing of mechanical ventilation airway pressure and flow settings protocol
+AUTHOR 1: ChristopherYew ShuenAng (ORCID: 0000-0003-4963-1818)
+AUTHOR 2: JayWing WaiLee (ORCID: 0000-0001-7091-9619)
+AUTHOR 3: YeongShiongChiew (ORCID: 0000-0003-3222-2006)
+AUTHOR 4: XinWang (ORCID: 0000-0002-5854-5287)
+  Affiliations: School of Engineering, School of Engineering; Monash University Malaysia, Selangor Malaysia
+AUTHOR 5: CheePinTan
+  Affiliations: School of Engineering, School of Engineering; Monash University Malaysia, Selangor Malaysia
+AUTHOR 6: MatthewECove (ORCID: 0000-0003-3805-4680)
+  Affiliations: Division of Respiratory & Critical Care Medicine, Division of Respiratory & Critical Care Medicine; Department of Medicine; National University Health System, Singapore
+AUTHOR 7: MohdBasri MatNor (ORCID: 0000-0002-5433-6357)
+AUTHOR 8: CongZhou (ORCID: 0000-0002-1405-1613)
+  Affiliations: Center of Bioengineering, Center of Bioengineering; University of Canterbury, Christchurch New Zealand
+AUTHOR 9: ThomasDesaive (ORCID: 0000-0003-0011-6022)
+  Affiliations: GIGA In-Silico Medicine; University of Liege, Liege Belgium
+AUTHOR 10: JGeoffreyChase (ORCID: 0000-0001-9989-4849)
+  Affiliations: Center of Bioengineering, Center of Bioengineering; University of Canterbury, Christchurch New Zealand
+================================================================================
+
+Computer Methods and Programs in Biomedicine 226 (2022) 107146 
+Contents lists available at ScienceDirect 
+Computer  Methods  and  Programs  in  Biomedicine 
+journal homepage: www.elsevier.com/locate/cmpb 
+Virtual  patient  framework  for  the  testing  of  mechanical  ventilation 
+airway  pressure  and  ﬂow  settings  protocol 
+Christopher Yew Shuen Ang a , ∗, Jay Wing Wai Lee a , Yeong Shiong Chiew a , ∗, Xin Wang a , 
+Chee Pin Tan a , Matthew E Cove b , Mohd Basri Mat Nor c , Cong Zhou d , Thomas Desaive e , 
+J. Geoffrey Chase d 
+a 
+b 
+c 
+d 
+e 
+School of Engineering, Monash University Malaysia, Selangor, Malaysia 
+Division of Respiratory & Critical Care Medicine, Department of Medicine, National University Health System, Singapore 
+Kulliyah of Medicine, International Islamic University Malaysia, Kuantan, 25200, Malaysia 
+Center of Bioengineering, University of Canterbury, Christchurch, New Zealand 
+GIGA In-Silico Medicine, University of Liege, Liege, Belgium 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

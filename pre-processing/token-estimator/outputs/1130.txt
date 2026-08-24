@@ -1,0 +1,35 @@
+TITLE: Predicting the risk of post-hepatectomy portal hypertension using a digital twin: A clinical proof of concept
+AUTHOR 1: NicolasGolse [CORRESPONDING] (ORCID: 0000-0002-5261-1538) <nicolas.golse@aphp.fr>
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM | INRIA, INRIA; Centre de Recherche de Paris, 2 rue Simone Iff 75012 Paris France
+AUTHOR 2: FlorianJoly
+  Affiliations: INRIA, INRIA; Centre de Recherche de Paris, 2 rue Simone Iff 75012 Paris France | Laboratoire Jacques-Louis Lions (LJLL), Laboratoire Jacques-Louis Lions (LJLL); Université de la Sorbonne; CNRS; Université de Paris, F-75005 Paris France
+AUTHOR 3: PriscaCombari
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France
+AUTHOR 4: MaïtéLewin
+  Affiliations: Department of Radiology, Department of Radiology; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France
+AUTHOR 5: QuentinNicolas (ORCID: 0000-0002-4116-973X)
+  Affiliations: INRIA, INRIA; Centre de Recherche de Paris, 2 rue Simone Iff 75012 Paris France
+AUTHOR 6: ChloeAudebert
+  Affiliations: INRIA, INRIA; Centre de Recherche de Paris, 2 rue Simone Iff 75012 Paris France | Laboratoire Jacques-Louis Lions (LJLL), Laboratoire Jacques-Louis Lions (LJLL); Université de la Sorbonne; CNRS; Université de Paris, F-75005 Paris France | Institut de Biologie Paris-Seine (IBPS), Laboratoire de Biologie Computationnelle et Quantitative, Institut de Biologie Paris-Seine (IBPS); Laboratoire de Biologie Computationnelle et Quantitative; Université de la Sorbonne; CNRS | UMR 7238, UMR 7238, F-75005 Paris France
+AUTHOR 7: DidierSamuel
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM
+AUTHOR 8: Marc-AntoineAllard
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM
+AUTHOR 9: AntonioSa Cunha
+AUTHOR 10: DenisCastaing
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM
+AUTHOR 11: DanielCherqui
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM
+AUTHOR 12: RenéAdam
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | INSERM, Unit 985 94800 Villejuif France
+AUTHOR 13: EricVibert
+  Affiliations: Department of Surgery, Department of Surgery; Paul-Brousse Hospital; Assistance Publique Hôpitaux de Paris, Centre Hépato-Biliaire 94800 Villejuif France | Physiopathogénèse et Traitement des Maladies du Foie, UMR-S 1193, Physiopathogénèse et Traitement des Maladies du Foie; UMR-S 1193; Université Paris-Saclay; INSERM
+AUTHOR 14: IreneEVignon-Clementel
+  Affiliations: INRIA, INRIA; Centre de Recherche de Paris, 2 rue Simone Iff 75012 Paris France
+AUTHOR 15: Unknown
+  Affiliations: Centre Hépato-Biliaire, Centre Hépato-Biliaire; Hôpital Paul-Brousse, 12 Avenue Paul Vaillant Couturier 94804 Villejuif Cedex France
+AUTHOR 16: Unknown
+  Affiliations: Innovative Diagnostics, Modelling and Digital Hepatology Research Article Innovative Diagnostics, Modelling and Digital Hepatology, Innovative Diagnostics, Modelling and Digital Hepatology Research Article Innovative Diagnostics, Modelling and Digital Hepatology
+================================================================================
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

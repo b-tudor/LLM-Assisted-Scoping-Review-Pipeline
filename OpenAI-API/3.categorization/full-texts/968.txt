@@ -1,0 +1,23 @@
+TITLE: Abstract 845: Developing MRI-based digital-twins via mathematical modeling and deep learning to predict the response of triple-negative breast cancer to neoadjuvant therapy
+AUTHOR 1: CaseyEStowers
+AUTHOR 2: ChengyueWu
+AUTHOR 3: SidharthKumar
+AUTHOR 4: ErnestoA B FLima
+AUTHOR 5: XhanZu
+AUTHOR 6: ClintonYam
+AUTHOR 7: JongBumSon
+AUTHOR 8: JingfeiMa
+AUTHOR 9: JonathanITamir
+AUTHOR 10: GaianeMRauch
+AUTHOR 11: ThomasEYankeelov
+================================================================================
+
+7/29/25, 1:28 PM
+ARTICLE NAVIGATION
+ Author & Article Information
+Cancer Res (2023) 83 (7_Supplement): 845.
+https://doi.org/10.1158/1538-7445.AM2023-845
+ Split-Screen
+Abstract
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

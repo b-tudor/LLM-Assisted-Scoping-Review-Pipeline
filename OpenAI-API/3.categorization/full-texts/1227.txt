@@ -1,0 +1,59 @@
+TITLE: Virtual patients for mechanical ventilation in the intensive care unit
+AUTHOR 1: CongZhou
+  Affiliations: School of Civil Aviation, School of Civil Aviation; Northwestern Polytechnical University, China | Department of Mechanical Engineering, Department of Mechanical Engineering; University of Canterbury, New Zealand
+AUTHOR 2: JGeoffreyChase (ORCID: 0000-0001-9989-4849)
+  Affiliations: Department of Mechanical Engineering, Department of Mechanical Engineering; University of Canterbury, New Zealand
+AUTHOR 3: JenniferKnopp
+  Affiliations: Department of Mechanical Engineering, Department of Mechanical Engineering; University of Canterbury, New Zealand
+AUTHOR 4: QianhuiSun
+  Affiliations: Department of Mechanical Engineering, Department of Mechanical Engineering; University of Canterbury, New Zealand
+AUTHOR 5: MerrynTawhai
+  Affiliations: Auckland Bio-Engineering Institute (ABI); University of Auckland, New Zealand
+AUTHOR 6: KnutMöller (ORCID: 0000-0003-4709-3817)
+  Affiliations: Institute for Technical Medicine, Institute for Technical Medicine; Furtwangen University, Villingen-Schwenningen Germany
+AUTHOR 7: SergeJHeines
+  Affiliations: Department of Intensive Care, Department of Intensive Care; School of Medicine; Maastricht University, Maastricht the Netherlands
+AUTHOR 8: DennisCBergmans
+  Affiliations: Department of Intensive Care, Department of Intensive Care; School of Medicine; Maastricht University, Maastricht the Netherlands
+AUTHOR 9: GeoffreyMShaw
+  Affiliations: Department of Intensive Care, Department of Intensive Care; Christchurch Hospital, Christchurch New Zealand
+AUTHOR 10: ThomasDesaive
+  Affiliations: GIGA-In Silico Medicine, GIGA-In Silico Medicine; Institute of Physics; University of Liege, Liege Belgium
+================================================================================
+
+Computer Methods and Programs in Biomedicine 199 (2021) 105912 
+Contents lists available at ScienceDirect 
+Computer  Methods  and  Programs  in  Biomedicine 
+journal homepage: www.elsevier.com/locate/cmpb 
+Virtual  patients  for  mechanical  ventilation  in  the  intensive  care  unit 
+Cong Zhou a , b , J. Geoffrey Chase b , ∗, Jennifer Knopp b , Qianhui Sun b , Merryn Tawhai c , 
+Knut Möller d , Serge J Heines e , Dennis C. Bergmans e , Geoffrey M. Shaw f , Thomas Desaive g 
+a 
+School of Civil Aviation, Northwestern Polytechnical University, China 
+b 
+Department of Mechanical Engineering, University of Canterbury, New Zealand 
+c 
+Auckland Bio-Engineering Institute (ABI), University of Auckland, New Zealand 
+d 
+Institute for Technical Medicine, Furtwangen University, Villingen-Schwenningen, Germany 
+e 
+Department of Intensive Care, School of Medicine, Maastricht University, Maastricht, the Netherlands 
+f 
+Department of Intensive Care, Christchurch Hospital, Christchurch, New Zealand 
+g 
+GIGA-In Silico Medicine, Institute of Physics, University of Liege, Liege, Belgium 
+a r t i c l e 
+i n f o 
+a b s t r a c t 
+Article history: 
+Received 1 October 2020 
+Accepted 12 December 2020 
+Keywords: 
+Hysteresis model 
+Hysteresis loop analysis 
+Digital twins 
+Virtual patient 
+Mechanical ventilation 
+Lung mechanics 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

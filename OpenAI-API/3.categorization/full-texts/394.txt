@@ -1,0 +1,70 @@
+TITLE: Digital Twin-Enabled Personalized Nutrition Improves Metabolic Dysfunction-Associated Fatty Liver Disease in Type 2 Diabetes: Results of a 1-Year Randomized Controlled Study
+AUTHOR 1: DMShashankJoshi
+  Affiliations: Department of Diabetology and Endocrinology, Department of Diabetology and Endocrinology; Lilavati Hospital and Research center, Mumbai India
+AUTHOR 2: MDParameshShamanna [CORRESPONDING] <drparamesh2@gmail.com>
+  Affiliations: Department of Diabetes, Department of Diabetes; Bangalore Diabetes Centre, Bangalore Karnataka India
+AUTHOR 3: DMMalaDharmalingam
+  Affiliations: Bangalore Endocrinology & Diabetes Research Centre, Bangalore Endocrinology & Diabetes Research Centre; Ramaiah Medical College
+AUTHOR 4: MDArunVadavi
+  Affiliations: Department of Diabetes, Department of Diabetes; Sudha Prevention Centre, Bangalore Karnataka India
+AUTHOR 5: MDAshokKeshavamurthy
+  Affiliations: Department of Diabetes, Department of Diabetes; Chandana Clinic, Bangalore Karnataka India
+AUTHOR 6: MDLisaShah
+  Affiliations: Chief Medical Officer, Chief Medical Officer, Twin Health Mountain View California
+AUTHOR 7: MDJeffreyIMechanick
+  Affiliations: Professor of Medicine, Professor of Medicine; Medical Director; Division of Endocrinology, Diabetes and Bone Disease; Icahn School of Medicine at Mount Sinai; The Marie-Josee and Henry R. Kravis Center for Cardiovascular Health at Mount Sinai Heart. Director, Metabolic Support New York New York
+AUTHOR 8: Unknown
+  Affiliations: Bangalore Karnataka India
+AUTHOR 9: Unknown
+  Affiliations: Bangalore Diabetes Centre, Bangalore Diabetes Centre, 560043 Bangalore Karnataka India
+================================================================================
+
+Endocrine Practice 29 (2023) 960e970
+Endocrine
+PracticeTM
+www.endocrinepractice.org
+Original Article
+Digital Twin-Enabled Personalized Nutrition Improves Metabolic
+Dysfunction-Associated Fatty Liver Disease in Type 2 Diabetes: Results
+of a 1-Year Randomized Controlled Study
+Shashank Joshi, DM 1, **
+Arun Vadavi, MD 4, Ashok Keshavamurthy, MD 5, Lisa Shah, MD 6,
+Jeffrey I. Mechanick, MD 7
+, Paramesh Shamanna, MD 2, *, **
+1 Department of Diabetology and Endocrinology, Lilavati Hospital and Research center, Mumbai, India
+2 Department of Diabetes, Bangalore Diabetes Centre, Bangalore, Karnataka, India
+3 Ramaiah Medical College, Bangalore Endocrinology & Diabetes Research Centre, Bangalore, Karnataka, India
+4 Department of Diabetes, Sudha Prevention Centre, Bangalore, Karnataka, India
+5 Department of Diabetes, Chandana Clinic, Bangalore, Karnataka, India
+6 Chief Medical Ofﬁcer, Twin Health, Mountain View, California
+7 Professor of Medicine, Medical Director, The Marie-Josee and Henry R. Kravis Center for Cardiovascular Health at Mount Sinai Heart. Director, Metabolic
+Support, Division of Endocrinology, Diabetes and Bone Disease, Icahn School of Medicine at Mount Sinai, New York, New York
+a r t i c l e i n f o
+a b s t r a c t
+Article history:
+Received 12 July 2023
+Received in revised form
+15 August 2023
+Accepted 30 August 2023
+Available online 29 September 2023
+Key words:
+artiﬁcial intelligence
+digital twin
+diabetes remission
+MAFLD
+type 2 diabetes
+Abbreviations: AI, artiﬁcial intelligence; ALT, alanine aminotransferase; APRI, AST to Platelet Ratio Index; AST, aspartate aminotransferase; BMI, body mass index; CGM,
+continuous glucose monitors; CV, coefﬁcient of variation; DT, digital twin; ESR, erythrocyte sedimentation rate; FIB-4, ﬁbrosis-4 score; FLI, fatty liver index; FSI, Framingham
+Steatosis Index; GGT, gamma-glutamyl transferase; HbA1c, hemoglobin A1c; HOMA2-IR, homeostatic model assessment 2 of insulin resistance; hs-CRP, high-sensitivity C-
+reactive protein; IoT, Internet of Things; ITT, intention-to-treat; MAFLD, metabolic dysfunction-associated fatty liver disease; MAGE, mean amplitude of glycemic excursion;
+ML, machine learning; MRI-PDFF, magnetic resonance imaging-derived proton density fat fraction; NAFLD-LFS, nonalcoholic fatty liver disease liver fat score; NAFLD-NFS,
+nonalcoholic fatty liver disease ﬁbrosis score; PPG, postprandial glucose; PPGRs, postprandial glycemic responses; RCT, randomized controlled trial; SC, standard care; T2D,
+type 2 diabetes; WBC, white blood cell; WC, waist circumference.
+* Address correspondence to Dr Paramesh Shamanna, Bangalore Diabetes Centre, Bangalore, Karnataka 560043, India.
+E-mail address: drparamesh2@gmail.com (P. Shamanna).
+Dual First Authors.
+**
+https://doi.org/10.1016/j.eprac.2023.08.016
+1530-891X/© 2023 AACE. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

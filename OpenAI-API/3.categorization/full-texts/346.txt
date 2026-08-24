@@ -1,0 +1,37 @@
+TITLE: How to assess and treat right ventricular electromechanical dyssynchrony in post-repair tetralogy of Fallot: insights from imaging, invasive studies, and computational modelling
+AUTHOR 1: MiroslavLožek [CORRESPONDING] (ORCID: 0000-0003-1577-663X) <miroslav.lozek@fnmotol.cz>
+  Affiliations: 2nd Faculty of Medicine, 2nd Faculty of Medicine; Children's Heart Center; Charles University in Prague and Motol University Hospital, V Úvalu 84 150 06 Prague Czech Republic | Department of Biomedical Informatics, Department of Biomedical Informatics; 1st Faculty of Medicine; Charles University, 1660/32, 121 08 Prague, Kateřinská, Prague Czech Republic
+AUTHOR 2: JanKovanda (ORCID: 0000-0003-4780-6522)
+  Affiliations: 2nd Faculty of Medicine, 2nd Faculty of Medicine; Children's Heart Center; Charles University in Prague and Motol University Hospital, V Úvalu 84 150 06 Prague Czech Republic
+AUTHOR 3: PeterKubuš (ORCID: 0000-0002-3489-372X)
+  Affiliations: 2nd Faculty of Medicine, 2nd Faculty of Medicine; Children's Heart Center; Charles University in Prague and Motol University Hospital, V Úvalu 84 150 06 Prague Czech Republic
+AUTHOR 4: MichalVrbík (ORCID: 0009-0004-6816-405X)
+  Affiliations: 2nd Faculty of Medicine, 2nd Faculty of Medicine; Children's Heart Center; Charles University in Prague and Motol University Hospital, V Úvalu 84 150 06 Prague Czech Republic
+AUTHOR 5: LenkaLhotská (ORCID: 0000-0003-0742-5645)
+  Affiliations: Czech Institute of Informatics, Robotics, and Cybernetics, Czech Institute of Informatics, Robotics, and Cybernetics; Czech Technical University, Jugoslávských partyzánů 1580/3 160 00 Prague, Prague Czech Republic
+AUTHOR 6: JoostLumens (ORCID: 0000-0001-8129-7384)
+  Affiliations: Maastricht University Medical Center; CARIM School for Cardiovascular Diseases, Universiteitssingel 50 6200 MD Maastricht The Netherlands
+AUTHOR 7: TammoDelhaas (ORCID: 0000-0001-6897-9700)
+  Affiliations: Maastricht University Medical Center; CARIM School for Cardiovascular Diseases, Universiteitssingel 50 6200 MD Maastricht The Netherlands
+AUTHOR 8: JanJanoušek (ORCID: 0000-0002-4932-1150)
+  Affiliations: 2nd Faculty of Medicine, 2nd Faculty of Medicine; Children's Heart Center; Charles University in Prague and Motol University Hospital, V Úvalu 84 150 06 Prague Czech Republic
+================================================================================
+
+Background 
+and Aims
+
+Europace (2024) 26, 1–9 
+https://doi.org/10.1093/europace/euae024
+How to assess and treat right ventricular 
+electromechanical dyssynchrony in post-repair 
+tetralogy of Fallot: insights from imaging, 
+invasive studies, and computational modelling
+Miroslav Ložek   1,2*, Jan Kovanda   1, Peter Kubuš   1, Michal Vrbík   1, 
+Lenka Lhotská   3, Joost Lumens   4, Tammo Delhaas   4, and Jan Janoušek   1
+1Children’s Heart Center, 2nd Faculty of Medicine, Charles University in Prague and Motol University Hospital, V Úvalu 84, 150 06 Prague, Czech Republic; 2Department of Biomedical 
+Informatics, 1st Faculty of Medicine, Charles University in Prague, Kateřinská 1660/32, 121 08 Prague, Czech Republic; 3Czech Institute of Informatics, Robotics, and Cybernetics, Czech 
+Technical University in Prague, Jugoslávských partyzánů 1580/3, 160 00 Prague, Czech Republic; and 4Maastricht University Medical Center, CARIM School for Cardiovascular Diseases, 
+Universiteitssingel 50, 6200 MD Maastricht, The Netherlands
+Received 25 May 2023; accepted after revision 22 December 2023; online publish-ahead-of-print 24 January 2024
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

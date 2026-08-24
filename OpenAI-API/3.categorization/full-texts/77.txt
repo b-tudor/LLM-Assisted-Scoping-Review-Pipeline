@@ -1,0 +1,29 @@
+TITLE: Forecasting progression of mild cognitive impairment (MCI) and Alzheimer’s disease (AD) with digital twins
+AUTHOR 1: DanieleBertolini [CORRESPONDING] <daniele@unlearn.ai>
+  Affiliations: Unlearn.AI, San Francisco CA USA | Unlearn.AI, San Francisco CA USA
+AUTHOR 2: AntonDLoukianov
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 3: AaronSmith
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 4: DavidLi‐bland
+AUTHOR 5: YannickPouliot
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 6: JonathanRWalsh
+  Affiliations: Unlearn.AI, San Francisco CA USA
+AUTHOR 7: CharlesKFisher
+  Affiliations: Unlearn.AI, San Francisco CA USA
+================================================================================
+
+DOI: 10.1002/alz.054414
+D R U G D E V E L O P M E N T
+POSTER PRESENTATION
+Daniele Bertolini
+Yannick Pouliot
+Unlearn.AI, San Francisco, CA, USA
+Correspondence
+Daniele Bertolini, Unlearn.AI, San Francisco,
+CA, USA.
+Email: daniele@unlearn.ai
+Alzheimer’s Dement. 2021;17(Suppl. 9):e054414.
+https://doi.org/10.1002/alz.054414
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

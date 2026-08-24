@@ -1,0 +1,42 @@
+TITLE: A Novel Cloud-Based Framework for the Elderly Healthcare Services Using Digital Twin
+AUTHOR 1: YingLiu (ORCID: 0000-0002-1300-724X)
+AUTHOR 2: LinZhang
+AUTHOR 3: Senior Member, IEEEYuanYang
+AUTHOR 4: LongfeiZhou (ORCID: 0000-0001-5322-8429)
+AUTHOR 5: LeiRen (ORCID: 0000-0001-6346-6930)
+AUTHOR 6: Member, IEEEFeiWang
+AUTHOR 7: RongLiu
+AUTHOR 8: ZhiboPang (ORCID: 0000-0002-7474-4294)
+AUTHOR 9: MJamalDeen
+AUTHOR 10: Unknown
+  Affiliations: 1 School of Automation Science and Electrical Engineering, Beihang University,, Beijing 100191, China Beijing 100083, China Beijing 100853, China 72178 Västerås, Sweden Hamilton, ON L8S 4L8, Canada
+AUTHOR 11: Unknown
+  Affiliations: 2 Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University,
+AUTHOR 12: Unknown
+  Affiliations: 3 General Hospital of the People's Liberation Army,
+AUTHOR 13: Unknown
+  Affiliations: 4 ABB Corporate Research,
+AUTHOR 14: Unknown
+  Affiliations: 5 Department of Electrical and Computer Engineering, McMaster University,
+================================================================================
+
+SPECIAL SECTION ON HEALTHCARE INFORMATION TECHNOLOGY
+FOR THE EXTREME AND REMOTE ENVIRONMENTS
+Received March 19, 2019, accepted April 3, 2019, date of publication April 11, 2019, date of current version April 23, 2019.
+Digital Object Identifier 10.1109/ACCESS.2019.2909828
+A Novel Cloud-Based Framework for the Elderly
+Healthcare Services Using Digital Twin
+YING LIU 1,2, LIN ZHANG1,2, (Senior Member, IEEE), YUAN YANG1,2,
+LONGFEI ZHOU 1,2, LEI REN 1,2, (Member, IEEE), FEI WANG3,
+RONG LIU3, ZHIBO PANG 4, (Senior Member, IEEE),
+AND M. JAMAL DEEN 2,5, (Fellow, IEEE)
+1School of Automation Science and Electrical Engineering, Beihang University, Beijing 100191, China
+2Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Beihang University, Beijing 100083, China
+3General Hospital of the People’s Liberation Army, Beijing 100853, China
+4ABB Corporate Research, 72178 Västerås, Sweden
+5Department of Electrical and Computer Engineering, McMaster University, Hamilton, ON L8S 4L8, Canada
+Corresponding authors: Lin Zhang (e-mail: johnlin9999@163.com) and M. Jamal Deen (jamal@mcmaster.ca)
+This work was supported in part by the National Natural Science Foundation of China under Grant 61873014, and in part by the Canada
+Research Chair Program.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

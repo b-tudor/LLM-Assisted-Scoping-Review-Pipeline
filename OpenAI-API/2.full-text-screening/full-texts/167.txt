@@ -1,0 +1,30 @@
+TITLE: 000886 Preliminary clinical validation of a predictive digital twin software for management of cardiogenic shock patients
+AUTHOR 1: CContarino
+  Affiliations: Research and Development, Research and Development; Computational Life Inc, Wilmington DE) United States of America
+AUTHOR 2: FChifari
+  Affiliations: Research and Development, Research and Development; Computational Life Inc, Wilmington DE) United States of America
+AUTHOR 3: PSevergnini
+  Affiliations: Anestesia Rianimazione Cardiologica, Anestesia Rianimazione Cardiologica; ASST Sette Laghi, Ospedale di Circolo e Fondazione Macchi Varese Italy
+AUTHOR 4: GFeliciotti
+  Affiliations: Anestesia Rianimazione Cardiologica, Anestesia Rianimazione Cardiologica; ASST Sette Laghi, Ospedale di Circolo e Fondazione Macchi Varese Italy
+AUTHOR 5: ECastelnuovo
+  Affiliations: Scuola di Specializzazione in Anestesia Rianimazione Terapia Intensiva e del Dolore, Scuola di Specializzazione in Anestesia Rianimazione Terapia Intensiva e del Dolore; Universita' degli Studi dell'Insubria, Varese Italy
+AUTHOR 6: CZanovello
+  Affiliations: Scuola di Specializzazione in Anestesia Rianimazione Terapia Intensiva e del Dolore, Scuola di Specializzazione in Anestesia Rianimazione Terapia Intensiva e del Dolore; Universita' degli Studi dell'Insubria, Varese Italy
+================================================================================
+
+Intensive Care Medicine Experimental  2023, 11(Suppl 1):72
+000886  
+Preliminary clinical validation of a predictive digital twin software 
+for management of cardiogenic shock patients
+C.  Contarino1, F.  Chifari1, P.  Severgnini2, G.  Feliciotti2, E.  Castelnuovo3, C. 
+ Zanovello3
+1Research and Development, Computational Life Inc, Wilmington (DE), 
+United States of America; 2Anestesia Rianimazione Cardiologica, ASST 
+Sette Laghi, Ospedale di Circolo e Fondazione Macchi, Varese, Italy; 
+3Scuola di Specializzazione in Anestesia Rianimazione Terapia Intensiva e 
+del Dolore, Universita’ degli Studi dell’Insubria, Varese, Italy
+Correspondence: F. Chifari
+Intensive Care Medicine Experimental 2023, 11(Suppl 1):000886
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

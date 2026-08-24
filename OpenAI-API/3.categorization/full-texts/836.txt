@@ -1,0 +1,37 @@
+TITLE: A multi-scale digital twin for adiposity-driven insulin resistance in humans: diet and drug effects
+AUTHOR 1: TildaHerrgårdh
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Linköping University, Linköping Sweden
+AUTHOR 2: ChristianSimonsson
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Linköping University, Linköping Sweden | Center for Medical Image Science and Visualization (CMIV), Center for Medical Image Science and Visualization (CMIV); Linköping University, Linköping Sweden
+AUTHOR 3: MattiasEkstedt
+  Affiliations: Center for Medical Image Science and Visualization (CMIV), Center for Medical Image Science and Visualization (CMIV); Linköping University, Linköping Sweden | Department of Health, Medicine, and Caring Sciences, Department of Health, Medicine, and Caring Sciences; Linköping University, Linköping Sweden
+AUTHOR 4: PeterLundberg
+  Affiliations: Center for Medical Image Science and Visualization (CMIV), Center for Medical Image Science and Visualization (CMIV); Linköping University, Linköping Sweden | Department of Health, Medicine, and Caring Sciences, Department of Health, Medicine, and Caring Sciences; Linköping University, Linköping Sweden | Department of Radiation Physics, Department of Radiation Physics; Linköping University, Linköping Sweden
+AUTHOR 5: KarinGStenkula
+  Affiliations: Department of Experimental Medical Science, Department of Experimental Medical Science; Lund University, Lund Sweden
+AUTHOR 6: ElinNyman
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Linköping University, Linköping Sweden
+AUTHOR 7: PeterGennemark
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Linköping University, Linköping Sweden | Drug Metabolism and Pharmacokinetics, Research and Early Development, Drug Metabolism and Pharmacokinetics, Research and Early Development; Renal and Metabolism (CVRM), Car-diovascular, AstraZeneca, BioPharmaceuticals R&D Gothenburg Sweden
+AUTHOR 8: GunnarCedersund [CORRESPONDING] <gunnar.cedersund@liu.se>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Linköping University, Linköping Sweden | Center for Medical Image Science and Visualization (CMIV), Center for Medical Image Science and Visualization (CMIV); Linköping University, Linköping Sweden | School of Medical Sciences, School of Medical Sciences; Faculty of Medicine and Health; Örebro University, Örebro Sweden
+================================================================================
+
+Herrgårdh et al. 
+Diabetology & Metabolic Syndrome          (2023) 15:250  
+https://doi.org/10.1186/s13098-023-01223-6
+RESEARCH
+Abstract 
+Keywords  Digital twin, Mathematical modelling, Insulin resistance
+*Correspondence:
+Gunnar Cedersund
+gunnar.cedersund@liu.se
+Full list of author information is available at the end of the article
+
+A multi-scale digital twin for adiposity-driven 
+insulin resistance in humans: diet and drug 
+effects
+Tilda Herrgårdh1, Christian Simonsson1,2, Mattias Ekstedt2,3, Peter Lundberg2,3,4, Karin G. Stenkula5, Elin Nyman1, 
+Peter Gennemark1,6 and Gunnar Cedersund1,2,7* 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

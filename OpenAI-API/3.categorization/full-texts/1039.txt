@@ -1,0 +1,35 @@
+TITLE: A digital twin framework for robust control of robotic-biological systems
+AUTHOR 1: AlastairR JQuinn [CORRESPONDING] <alastair.quinn@griffith.edu.au>
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering; Menzies Health Institute Queensland; Griffith University, Australia | Advanced Design and Prototyping Technologies Institute, Advanced Design and Prototyping Technologies Institute; Griffith University, Australia | School of Health Sciences and Social Work, School of Health Sciences and Social Work; Griffith University, Australia
+AUTHOR 2: DavidJSaxby
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering; Menzies Health Institute Queensland; Griffith University, Australia | Advanced Design and Prototyping Technologies Institute, Advanced Design and Prototyping Technologies Institute; Griffith University, Australia | School of Health Sciences and Social Work, School of Health Sciences and Social Work; Griffith University, Australia
+AUTHOR 3: FuwenYang
+  Affiliations: School of Engineering and Built Environment, School of Engineering and Built Environment; Griffith University, Australia
+AUTHOR 4: AnaC CDe Sousa
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering; Menzies Health Institute Queensland; Griffith University, Australia | Advanced Design and Prototyping Technologies Institute, Advanced Design and Prototyping Technologies Institute; Griffith University, Australia | School of Health Sciences and Social Work, School of Health Sciences and Social Work; Griffith University, Australia
+AUTHOR 5: ClaudioPizzolato
+  Affiliations: Griffith Centre of Biomedical and Rehabilitation Engineering; Menzies Health Institute Queensland; Griffith University, Australia | Advanced Design and Prototyping Technologies Institute, Advanced Design and Prototyping Technologies Institute; Griffith University, Australia | School of Health Sciences and Social Work, School of Health Sciences and Social Work; Griffith University, Australia
+AUTHOR 6: Unknown
+  Affiliations: Griffith University, Gold Coast campus Parklands Drive 4222 Southport QLD Australia
+================================================================================
+
+Contents lists available at ScienceDirect 
+Journal of Biomechanics 
+journal homepage: www.elsevier.com/locate/jbiomech 
+A digital twin framework for robust control of robotic-biological systems 
+Alastair R.J. Quinn a,b,c, *, David J. Saxby a, b, c, Fuwen Yang d, Ana C.C. de Sousa a, b, c, 
+Claudio Pizzolato a,b,c 
+a Griffith Centre of Biomedical and Rehabilitation Engineering, Menzies Health Institute Queensland, Griffith University, Australia 
+b Advanced Design and Prototyping Technologies Institute, Griffith University, Australia 
+c School of Health Sciences and Social Work, Griffith University, Australia 
+d School of Engineering and Built Environment, Griffith University, Australia   
+A R T I C L E  I N F O    
+A B S T R A C T    
+Keywords: 
+Biomechanics 
+Control 
+Musculoskeletal 
+Orthopaedic 
+Simulation 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

@@ -1,0 +1,18 @@
+TITLE: Toward Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference
+AUTHOR 1: LeiLi [CORRESPONDING] (ORCID: 0000-0003-1281-6472) <lei.li@eng.ox.ac.uk>
+AUTHOR 2: JuliaCamps [CORRESPONDING] <julia.camps@cs.ox.ac.uk>
+AUTHOR 3: ZhinuoJenny Wang
+AUTHOR 4: MarcelBeetz [CORRESPONDING] (ORCID: 0009-0004-5239-9313) <marcel.beetz@mansfield.ox.ac.uk>
+AUTHOR 5: Member, IEEEAbhirupBanerjee [CORRESPONDING] (ORCID: 0000-0001-8198-5128) <abhirup.banerjee@cardiov.ox.ac.uk>
+AUTHOR 6: BlancaRodriguez [CORRESPONDING] <blanca.rodriguez@cs.ox.ac.uk>
+AUTHOR 7: VicenteGrau [CORRESPONDING] (ORCID: 0000-0001-8139-3480) <vicente.grau@eng.ox.ac.uk>
+AUTHOR 8: Unknown
+  Affiliations: Department of Engineering Science, Institute of Biomedical Engineering, University of Oxford,, OX3 7DQ Oxford, U.K. OX1 3QD Oxford, U.K.
+AUTHOR 9: Unknown
+  Affiliations: Department of Computer Science, University of Oxford,
+================================================================================
+
+2466
+Lei Li
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

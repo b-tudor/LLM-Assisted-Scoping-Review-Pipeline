@@ -1,0 +1,27 @@
+TITLE: Automatic generation of patientspecific finite element meshes of the face and oral cavity for orofacial digital twins
+AUTHOR 1: MCalka
+  Affiliations: TIMC-IMAG, TIMC-IMAG; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France | GIPSA-lab, GIPSA-lab; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France
+AUTHOR 2: MCPicard
+  Affiliations: TIMC-IMAG, TIMC-IMAG; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France | GIPSA-lab, GIPSA-lab; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France | ANSYS, ANSYS, Villeurbanne France
+AUTHOR 3: PPerrier
+  Affiliations: GIPSA-lab, GIPSA-lab; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France
+AUTHOR 4: MRochette
+  Affiliations: ANSYS, ANSYS, Villeurbanne France
+AUTHOR 5: YPayan
+  Affiliations: TIMC-IMAG, TIMC-IMAG; CNRS; Grenoble INP; Univ. Grenoble Alpes, Grenoble France
+================================================================================
+
+S196
+ABSTRACTS 48th Congress of the Society of Biomechanics
+Automatic generation of patient-
+specific finite element meshes of
+the face and oral cavity for
+orofacial digital twins
+M. Calkaa,b, M. C. Picarda,b,c, P. Perrierb,
+M. Rochettec and Y. Payana
+aCNRS, Grenoble INP, TIMC-IMAG, Univ. Grenoble Alpes,
+Grenoble, France; bCNRS, Grenoble INP, GIPSA-lab, Univ.
+Grenoble Alpes, Grenoble, France; cANSYS, Villeurbanne,
+France
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

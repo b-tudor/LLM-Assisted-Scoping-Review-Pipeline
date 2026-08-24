@@ -1,0 +1,43 @@
+TITLE: Generative artificial intelligence empowers digital twins in drug discovery and clinical trials
+AUTHOR 1: MariaBordukova
+  Affiliations: Data & Analytics, Data & Analytics; Pharmaceutical Research and Early Development; Roche Innovation Center Munich (RICM), Penzberg Germany | Institute of Computational Biology, Institute of Computational Biology; Computational Health Center; Helmholtz Munich, Munich Germany | Department of Biology, Department of Biology; Ludwig-Maximilians University Munich, Munich Germany
+AUTHOR 2: NikitaMakarov
+  Affiliations: Data & Analytics, Data & Analytics; Pharmaceutical Research and Early Development; Roche Innovation Center Munich (RICM), Penzberg Germany | Institute of Computational Biology, Institute of Computational Biology; Computational Health Center; Helmholtz Munich, Munich Germany | Department of Biology, Department of Biology; Ludwig-Maximilians University Munich, Munich Germany
+AUTHOR 3: RaulRodriguez-Esteban
+  Affiliations: Data & Analytics, Data & Analytics; Pharmaceutical Research and Early Development; Roche Innovation Center Basel (RICB), Basel Switzerland
+AUTHOR 4: FabianSchmich [CORRESPONDING] <fabian.schmich@roche.de>
+  Affiliations: Data & Analytics, Data & Analytics; Pharmaceutical Research and Early Development; Roche Innovation Center Munich (RICM), Penzberg Germany
+AUTHOR 5: MichaelPMenden [CORRESPONDING] <michael.menden@unimelb.edu.au>
+  Affiliations: Institute of Computational Biology, Institute of Computational Biology; Computational Health Center; Helmholtz Munich, Munich Germany | Department of Biology, Department of Biology; Ludwig-Maximilians University Munich, Munich Germany | Department of Biochemistry and Pharmacology, Department of Biochemistry and Pharmacology; University of Melbourne, Melbourne Australia | German Center for Diabetes Research (DZD e.V.), German Center for Diabetes Research (DZD e.V.), Munich Germany
+AUTHOR 6: Unknown
+  Affiliations: Data & Analytics, Data & Analytics; Pharmaceutical Research and Early Development; Roche Innovation Center Munich (RICM), Penzberg, Michael P. Menden Germany
+AUTHOR 7: Unknown
+  Affiliations: Institute of Computational Biology, Institute of Computational Biology; Computational Health Center, Helmholtz Munich, Munich Germany
+================================================================================
+
+Expert Opinion on Drug Discovery
+ISSN: 1746-0441 (Print) 1746-045X (Online) Journal homepage: www.tandfonline.com/journals/iedc20
+Generative artiﬁcial intelligence empowers digital
+twins in drug discovery and clinical trials
+Maria Bordukova, Nikita Makarov, Raul Rodriguez-Esteban, Fabian Schmich
+& Michael P. Menden
+To cite this article: Maria Bordukova, Nikita Makarov, Raul Rodriguez-Esteban, Fabian
+Schmich & Michael P. Menden (2024) Generative artiﬁcial intelligence empowers digital twins
+in drug discovery and clinical trials, Expert Opinion on Drug Discovery, 19:1, 33-42, DOI:
+10.1080/17460441.2023.2273839
+To link to this article:  https://doi.org/10.1080/17460441.2023.2273839
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 27 Oct 2023.
+Submit your article to this journal 
+Article views: 23576
+View related articles 
+View Crossmark data
+Citing articles: 90 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=iedc20
+
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

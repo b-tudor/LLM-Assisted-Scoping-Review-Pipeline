@@ -1,0 +1,98 @@
+TITLE: Uncertainty Quantification of Regional Cardiac Tissue Properties in Arrhythmogenic Cardiomyopathy Using Adaptive Multiple Importance Sampling
+AUTHOR 1: NickVan Osta [CORRESPONDING] <n.vanosta@maastrichtuniversity.nl>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 2: FeddoPKirkels
+  Affiliations: Department of Cardiology, Division Heart and Lungs, Department of Cardiology; Division Heart and Lungs; University Medical Center Utrecht, Utrecht Netherlands
+AUTHOR 3: TimVan Loon
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 4: TijmenKoopsen
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 5: AuroreLyon
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 6: RoelMeiburg
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 7: WouterHuberts
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 8: MaartenJCramer
+  Affiliations: Department of Cardiology, Division Heart and Lungs, Department of Cardiology; Division Heart and Lungs; University Medical Center Utrecht, Utrecht Netherlands
+AUTHOR 9: TammoDelhaas
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 10: KristinaHHaugaa
+  Affiliations: Department of Cardiology, Department of Cardiology; Oslo University Hospital; University of Oslo, Oslo Norway
+AUTHOR 11: ArcoJTeske
+  Affiliations: Department of Cardiology, Division Heart and Lungs, Department of Cardiology; Division Heart and Lungs; University Medical Center Utrecht, Utrecht Netherlands
+AUTHOR 12: JoostLumens
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht; Maastricht University, Maastricht Netherlands
+AUTHOR 13: Unknown
+  Affiliations: Rochester Institute of Technology, United States
+AUTHOR 14: Unknown
+  Affiliations: The University of Sheffield, United Kingdom
+AUTHOR 15: Unknown
+  Affiliations: Food and Drug Administration, Food and Drug Administration; Pras Pathmanathan, United States, United States
+AUTHOR 16: Unknown
+  Affiliations: Daniele E. Schiavazzi, Daniele E. Schiavazzi; University of Notre Dame, United States
+AUTHOR 17: Unknown
+  Affiliations: University of Oxford, United Kingdom
+================================================================================
+
+fphys-12-738926
+September 24, 2021
+Time: 18:15
+# 1
+Edited by:
+Linwei Wang,
+Rochester Institute of Technology,
+United States
+Reviewed by:
+Sam Coveney,
+The University of Shefﬁeld,
+United Kingdom
+Pras Pathmanathan,
+United States Food and Drug
+Administration, United States
+Daniele E. Schiavazzi,
+University of Notre Dame,
+United States
+Xin Zhou,
+University of Oxford, United Kingdom
+*Correspondence:
+Nick van Osta
+n.vanosta@maastrichtuniversity.nl
+†These authors have contributed
+equally to this work
+Specialty section:
+This article was submitted to
+Computational Physiology
+and Medicine,
+a section of the journal
+Frontiers in Physiology
+Received: 09 July 2021
+Accepted: 31 August 2021
+Published: 30 September 2021
+Citation:
+van Osta N, Kirkels FP,
+van Loon T, Koopsen T, Lyon A,
+Meiburg R, Huberts W, Cramer MJ,
+Delhaas T, Haugaa KH, Teske AJ and
+Lumens J (2021) Uncertainty
+Quantiﬁcation of Regional Cardiac
+Tissue Properties in Arrhythmogenic
+Cardiomyopathy Using Adaptive
+Multiple Importance Sampling.
+Front. Physiol. 12:738926.
+doi: 10.3389/fphys.2021.738926
+Frontiers in Physiology | www.frontiersin.org
+
+Uncertainty Quantiﬁcation of
+Regional Cardiac Tissue Properties
+in Arrhythmogenic Cardiomyopathy
+Using Adaptive Multiple Importance
+Sampling
+Nick van Osta1*†, Feddo P. Kirkels2†, Tim van Loon1, Tijmen Koopsen1, Aurore Lyon1,
+Roel Meiburg1, Wouter Huberts1, Maarten J. Cramer2, Tammo Delhaas1,
+Kristina H. Haugaa3, Arco J. Teske2 and Joost Lumens1
+1 Department of Biomedical Engineering, Cardiovascular Research Institute Maastricht, Maastricht University, Maastricht,
+Netherlands, 2 Division Heart and Lungs, Department of Cardiology, University Medical Center Utrecht, Utrecht, Netherlands,
+3 Department of Cardiology, Oslo University Hospital, University of Oslo, Oslo, Norway
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

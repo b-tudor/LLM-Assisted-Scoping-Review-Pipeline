@@ -1,0 +1,21 @@
+TITLE: Generation and application of avatars in pharmacometric modelling
+AUTHOR 1: EstelleChasseloup
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+AUTHOR 2: AndrewCHooker
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+AUTHOR 3: MatsOKarlsson [CORRESPONDING] <mats.karlsson@farmaci.uu.se>
+  Affiliations: Department of Pharmacy, Department of Pharmacy; Uppsala University, Box 580 75123 Uppsala Sweden
+================================================================================
+
+Journal of Pharmacokinetics and Pharmacodynamics (2023) 50:411–423
+https://doi.org/10.1007/s10928-023-09873-9 (0123456789().,-volV)(0123456789().
+,- volV)
+ORIGINAL PAPER
+Generation and application of avatars in pharmacometric modelling
+Estelle Chasseloup1
+• Andrew C. Hooker1
+• Mats O. Karlsson1
+Received: 20 May 2023 / Accepted: 26 June 2023 / Published online: 24 July 2023
+(cid:2) The Author(s) 2023
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

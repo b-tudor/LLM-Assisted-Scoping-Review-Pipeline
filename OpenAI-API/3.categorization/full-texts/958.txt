@@ -1,0 +1,24 @@
+TITLE: Lung-DT: An AI-Powered Digital Twin Framework for Thoracic Health Monitoring and Diagnosis
+AUTHOR 1: RobertaAvanzato [CORRESPONDING] (ORCID: 0000-0002-2160-1863) <roberta.avanzato@unict.it>
+  Affiliations: Department of Electrical, Department of Electrical; Electronic and Computer Engineering; University of Catania, Viale Andrea Doria 95125 Catania Italy
+AUTHOR 2: FrancescoBeritelli [CORRESPONDING] (ORCID: 0000-0003-1606-7608) <francesco.beritelli@unict.it>
+  Affiliations: Department of Electrical, Department of Electrical; Electronic and Computer Engineering; University of Catania, Viale Andrea Doria 95125 Catania Italy
+AUTHOR 3: AlfioLombardo [CORRESPONDING] <alfio.lombardo@unict.it>
+  Affiliations: Department of Electrical, Department of Electrical; Electronic and Computer Engineering; University of Catania, Viale Andrea Doria 95125 Catania Italy
+AUTHOR 4: CarmeloRicci [CORRESPONDING] <carmelo.ricci@phd.unict.it>
+  Affiliations: Department of Electrical, Department of Electrical; Electronic and Computer Engineering; University of Catania, Viale Andrea Doria 95125 Catania Italy | National Inter-University Consortium for Telecommunications (CNIT); RU of Catania, 43124 Parma Italy
+================================================================================
+
+Article
+Lung-DT: An AI-Powered Digital Twin Framework for Thoracic
+Health Monitoring and Diagnosis
+, Francesco Beritelli 1,*
+, Alfio Lombardo 1 and Carmelo Ricci 1,2
+Roberta Avanzato 1
+1 Department of Electrical, Electronic and Computer Engineering, University of Catania, Viale Andrea Doria,
+95125 Catania, Italy; roberta.avanzato@unict.it (R.A.); alfio.lombardo@unict.it (A.L.);
+carmelo.ricci@phd.unict.it or carmelo.ricci@cnit.it (C.R.)
+2 National Inter-University Consortium for Telecommunications (CNIT), RU of Catania, 43124 Parma, Italy
+* Correspondence: francesco.beritelli@unict.it
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

@@ -1,0 +1,40 @@
+TITLE: Predicting transdermal fentanyl delivery using physics-based simulations for tailored therapy based on the age
+AUTHOR 1: FloraBahrami
+  Affiliations: Swiss Federal Laboratories for Materials Science and Technology, Swiss Federal Laboratories for Materials Science and Technology, Empa | Laboratory for Biomimetic Membranes and Textiles, Laboratory for Biomimetic Membranes and Textiles, St. Gallen Switzerland | ARTORG Center for Biomedical Engineering Research, ARTORG Center for Biomedical Engineering Research; University of Bern, Bern Switzerland
+AUTHOR 2: RenéMichelRossi
+AUTHOR 3: ThijsDefraeye [CORRESPONDING] <thijs.defraeye@empa.ch>
+  Affiliations: Swiss Federal Laboratories for Materials Science and Technology, Swiss Federal Laboratories for Materials Science and Technology, Empa | Laboratory for Biomimetic Membranes and Textiles, Laboratory for Biomimetic Membranes and Textiles, St. Gallen Switzerland
+AUTHOR 4: Unknown
+  Affiliations: Swiss Federal Laboratories for Materials Science and Technology, Laboratory for Biomimetic Membranes and Textiles, Swiss Federal Laboratories for Materials Science and Technology; Laboratory for Biomimetic Membranes and Textiles, Lerchenfeldstrasse 5 CH-9014 Empa, St. Gallen Switzerland
+================================================================================
+
+Drug Delivery
+ISSN: 1071-7544 (Print) 1521-0464 (Online) Journal homepage: www.tandfonline.com/journals/idrd20
+Predicting transdermal fentanyl delivery using
+physics-based simulations for tailored therapy
+based on the age
+Flora Bahrami, René Michel Rossi & Thijs Defraeye
+To cite this article: Flora Bahrami, René Michel Rossi & Thijs Defraeye (2022) Predicting
+transdermal fentanyl delivery using physics-based simulations for tailored therapy based on
+the age, Drug Delivery, 29:1, 950-969, DOI: 10.1080/10717544.2022.2050846
+To link to this article:  https://doi.org/10.1080/10717544.2022.2050846
+© 2022 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+View supplementary material 
+Published online: 23 Mar 2022.
+Submit your article to this journal 
+Article views: 3284
+View related articles 
+View Crossmark data
+Citing articles: 9 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=idrd20
+
+=== Page Break ===
+
+DRUG DELIVERY
+2022, VOL. 29, NO. 1, 950–969
+https://doi.org/10.1080/10717544.2022.2050846
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

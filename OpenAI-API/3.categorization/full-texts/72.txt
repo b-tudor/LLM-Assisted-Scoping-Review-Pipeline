@@ -1,0 +1,29 @@
+TITLE: Virtual clinical trials: A tool for predicting patients who may benefit from treatment beyond progression with pembrolizumab in non‐small cell lung cancer
+AUTHOR 1: TimothyQi (ORCID: 0000-0002-4359-8271)
+  Affiliations: Division of Pharmacotherapy and Experimental Therapeutics, Division of Pharmacotherapy and Experimental Therapeutics; Eshelman School of Pharmacy; The University of North Carolina at Chapel Hill, Chapel Hill North Carolina USA
+AUTHOR 2: YanguangCao [CORRESPONDING] <yanguang@unc.edu>
+AUTHOR 3: Unknown
+  Affiliations: Division of Pharmacotherapy and Experimental Therapeutics, Division of Pharmacotherapy and Experimental Therapeutics; Eshelman School of Pharmacy; The University of North Carolina at Chapel Hill, 301 Pharmacy Ln, Chapel Hill 27599 NC USA
+================================================================================
+
+|  Revised: 26 September 2022 
+|  Accepted: 11 October 2022
+Received: 25 May 2022 
+DOI: 10.1002/psp4.12896  
+A R T I C L E
+Virtual clinical trials: A tool for predicting patients who 
+may benefit from treatment beyond progression with 
+pembrolizumab in non- small cell lung cancer
+Timothy Qi1
+  |   Yanguang Cao1,2
+1Division of Pharmacotherapy and 
+Experimental Therapeutics, Eshelman 
+School of Pharmacy, The University of 
+North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina, USA
+2Lineberger Comprehensive Cancer 
+Center, The University of North 
+Carolina at Chapel Hill, Chapel Hill, 
+North Carolina, USA
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

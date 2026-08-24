@@ -1,0 +1,66 @@
+TITLE: Evaluation of an open-source pipeline to create patient-specific left atrial models: A reproducibility study
+AUTHOR 1: JoséAlonsoSolís-Lemus [CORRESPONDING] (ORCID: 0000-0002-2596-7811) <jsolislemus@kcl.ac.uk>
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 2: TiffanyBaptiste (ORCID: 0000-0003-3157-3568)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 3: RosieBarrows (ORCID: 0000-0001-7155-9483)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 4: CharlesSillett (ORCID: 0000-0003-2930-7818)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 5: AliGharaviri (ORCID: 0000-0003-1803-8237)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | Centre for Cardiovascular Science, Centre for Cardiovascular Science; University of Edinburgh; Old College; South Bridge, EH8 9YL Edinburgh Scotland, UK
+AUTHOR 6: GiuliaRaffaele (ORCID: 0000-0003-0925-4632)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | School of Medical Education, School of Medical Education; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 7: OrodRazeghi (ORCID: 0000-0003-4989-5565)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | Department of Haematology, NHS Blood and Transplant Centre, Department of Haematology, NHS Blood and Transplant Centre; University of Cambridge, Cambridge UK
+AUTHOR 8: MarinaStrocchi (ORCID: 0000-0003-1312-251X)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 9: IainSim
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 10: IrumKotadia
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 11: NeilBodagh
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK
+AUTHOR 12: DanielO’hare
+AUTHOR 13: MarkO’neill
+AUTHOR 14: StevenEWilliams (ORCID: 0000-0002-7266-2084)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | Centre for Cardiovascular Science, Centre for Cardiovascular Science; University of Edinburgh; Old College; South Bridge, EH8 9YL Edinburgh Scotland, UK
+AUTHOR 15: CarolineRoney (ORCID: 0000-0001-6809-0928)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | Queen Mary University of London, Mile End Rd E1 4NS Bethnal Green, London UK
+AUTHOR 16: StevenNiederer (ORCID: 0000-0002-4612-6982)
+  Affiliations: School of Biomedical Engineering & Imaging Sciences, School of Biomedical Engineering & Imaging Sciences; King's College London; St Thomas Hospital, SE1 7EH London UK | Alan Turing Institute, 96 Euston Rd NW1 2DB British Library, London UK
+================================================================================
+
+Contents lists available at ScienceDirect
+Computers in Biology and Medicine
+journal homepage: www.elsevier.com/locate/compbiomed
+Evaluation of an open-source pipeline to create patient-specific left atrial
+models: A reproducibility study
+José Alonso Solís-Lemus a,∗, Tiffany Baptiste a, Rosie Barrows a, Charles Sillett a, Ali Gharaviri a,c,
+Giulia Raffaele e,a, Orod Razeghi d,a, Marina Strocchi a, Iain Sim a, Irum Kotadia a, Neil Bodagh a,
+Daniel O’Hare a, Mark O’Neill a, Steven E. Williams a,c, Caroline Roney a,b,1, Steven Niederer a,f,1
+a School of Biomedical Engineering & Imaging Sciences, King’s College London, St Thomas Hospital, London, SE1 7EH, UK
+b Queen Mary University of London, Mile End Rd, Bethnal Green, London, E1 4NS, UK
+c Centre for Cardiovascular Science, University of Edinburgh, Old College, South Bridge, Edinburgh, EH8 9YL, Scotland, UK
+d Department of Haematology, NHS Blood and Transplant Centre, University of Cambridge, Cambridge, UK
+e School of Medical Education, King’s College London, St Thomas Hospital, London, SE1 7EH, UK
+f Alan Turing Institute, British Library, 96 Euston Rd, London, NW1 2DB, UK
+A B S T R A C T
+A R T I C L E I N F O
+Keywords:
+Reproducibility
+Atrial imaging
+Patient-specific modelling
+Cardiac electrophysiology
+Image analysis
+Digital twins
+∗ Corresponding author.
+E-mail address:
+URL: http://alonsojasl.github.io (J.A. Solís-Lemus).
+jsolislemus@kcl.ac.uk (J.A. Solís-Lemus).
+1 Both collaborators serving as joint last-authors.
+https://doi.org/10.1016/j.compbiomed.2023.107009
+Received 16 January 2023; Received in revised form 11 April 2023; Accepted 3 May 2023
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

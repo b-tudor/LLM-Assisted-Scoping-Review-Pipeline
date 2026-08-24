@@ -1,0 +1,35 @@
+TITLE: EPS-242 Semiautomatic Segmentation for Tumour Dosimetry in PSMA Radiopharmaceutical Therapy using a Novel Digital Twins Framework
+AUTHOR 1: RFedrigo
+AUTHOR 2: LPolson
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+AUTHOR 3: CLi
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+AUTHOR 4: SHarsini
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA
+AUTHOR 5: IBloise
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA
+AUTHOR 6: JBrosch- Lenz
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+AUTHOR 7: BSaboury
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | National Institutes of Health (NIH), Bethesda MD | UNITED STATES OF AMERICA, 4 BC Cancer Vancouver BC CANADA
+AUTHOR 8: FBénard
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+AUTHOR 9: ARahmim
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+AUTHOR 10: CUribe
+  Affiliations: BC Cancer Research Institute, Vancouver BC CANADA | University of British Columbia, Vancouver BC CANADA
+================================================================================
+
+Eur J Nucl Med Mol Imaging (2023) 50 (Suppl 1): S1-S898 
+EPS-242
+Semiautomatic Segmentation for Tumour Dosimetry 
+in PSMA Radiopharmaceutical Therapy using a Novel 
+Digital Twins Framework
+R. Fedrigo1,2, L. Polson1,2, C. Li1,2, S. Harsini1, I. Bloise1, J. Brosch-
+Lenz1, B. Saboury3, F. Bénard1,2,4, A. Rahmim1,2,4, C. Uribe1,2,4;  
+1BC Cancer Research Institute, Vancouver, BC, CANADA, 
+2University of British Columbia, Vancouver, BC, CANADA, 
+3National Institutes of Health (NIH), Bethesda, MD, UNITED 
+STATES OF AMERICA, 4BC Cancer, Vancouver, BC, CANADA.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

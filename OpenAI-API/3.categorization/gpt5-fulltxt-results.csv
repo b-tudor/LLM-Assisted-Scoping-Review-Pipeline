@@ -1,0 +1,101 @@
+id,decision,confidence,reason
+250,N,high,Conference abstract only not full article text
+541,N,high,Conference abstract only lacking peer reviewed full text despite mentioning human digital twin controls
+928,N,high,Abstract only in meeting supplement not full peer reviewed article
+359,N,high,Conference abstract only not full text available
+1292,N,high,Conference abstract only not full text
+1192,N,high,Appears to be a conference abstract not a peer reviewed full text study
+502,N,high,Review article not reporting creation or evaluation of a real human digital twin
+446,N,high,Conference abstract only and does not provide peer-reviewed full text or explicit human digital twin creation claim
+771,N,high,Abstract only and not a full peer reviewed article
+407,Y,high,Original peer reviewed English study creating and validating a human mandibular digital twin using patient CT data
+167,N,high,Abstract only no full text available
+966,N,high,Abstract only no full text available
+1245,N,high,Conference abstract poster only not full text
+431,N,high,Abstract only lacks full text and does not create or evaluate a non theoretical human digital twin
+104,N,high,Abstract only without full text available
+1146,N,high,Abstract only without full text though it evaluates a human digital twin in diabetes cohorts
+486,N,high,Only abstract available not a full text peer reviewed article
+889,N,high,Abstract only no full text available
+642,N,high,Abstract only and lacks peer-reviewed full text available
+29,N,high,Abstract only not full text peer-reviewed study despite mentioning human digital twin
+1129,N,high,Abstract only not full text
+1215,Y,high,Peer reviewed original research implementing and testing a patient digital twin in humans using simulated case studies
+243,N,high,Poster abstract only and nonhuman study does not present a full peer reviewed human digital twin
+612,Y,high,Peer reviewed study creating and validating virtual patient digital twins for human ventilation using clinical data
+300,Y,high,Full text peer reviewed Nutrients article evaluating a human digital twin PMA using human data
+492,N,high,Abstract only not full text available
+1195,N,high,Abstract only not full text so fails inclusion
+1103,N,high,Abstract only with conceptual approach no full text or evaluation of a non theoretical human digital twin
+791,Y,high,Presents and validates a patient specific lung digital twin using clinical data
+53,N,high,Abstract only full text not available
+507,Y,high,Peer reviewed original study builds and evaluates personalized virtual heart digital twins in human patients
+367,Y,high,IEEE conference paper describes creating a patient digital twin prototype and blockchain system in English full text
+1117,Y,high,Peer reviewed original study creating patient specific human digital twins using clinical data in English
+1090,N,high,Abstract only and evaluates a machine learning risk model not a human digital twin
+593,Y,high,Peer-reviewed study creating patient-specific atrial digital twins integrating clinical data for ablation planning
+1159,Y,high,Peer reviewed study builds patient specific human cardiac digital twins using ECG and CMR data
+323,N,high,Preprint states not certified by peer review so fails peer-reviewed inclusion criterion
+426,Y,high,Peer-reviewed human study developed and validated patient-specific digital twin model and explicitly claims digital twin use
+1227,Y,high,Peer-reviewed original study creating patient-specific digital twin virtual patients using clinical ICU data on humans
+858,Y,high,Peer reviewed study uses personalized human digital twin models for in silico evaluation of exercise decision support
+958,Y,high,Peer reviewed original study implementing a human lung digital twin framework with proof of concept and evaluation
+973,Y,high,Peer-reviewed study uses and evaluates a human head digital twin with experiments and simulations in English
+922,Y,high,Open access peer-reviewed English research creating and evaluating patient-specific human digital twins for CRT prediction
+743,Y,high,Full text peer-reviewed study creating patient-specific human digital twins using imaging data and evaluating simulations
+515,N,high,Abstract only no full text available
+692,N,high,Systematic review and conceptual proposal not creation or evaluation of a practical human digital twin
+274,Y,high,Peer-reviewed English study implements a personalized human digital twin for T1D and evaluates it with real data
+1002,Y,medium,Peer reviewed research describing creation of patient digital twin prototypes and patient specific models indicating non theoretical human DTs
+632,Y,high,Peer reviewed original study using patient specific human digital twin simulations to predict TAVI conduction abnormalities
+476,Y,high,Peer reviewed English article implementing and evaluating human digital twin models for exercise decision support in T1D
+1,N,high,Provides only a proposed blueprint not a created or evaluated human digital twin
+402,Y,high,Uses and describes a patient digital twin and peer reviewed English full text original research on clinical patients
+394,Y,high,Full English peer-reviewed original study evaluating a human digital twin intervention in real patients
+64,N,high,Abstract only not full text
+413,N,high,Preprint not peer reviewed despite creating human genotype-specific digital twins
+42,N,high,Abstract only conference e-poster lacks full peer-reviewed full text despite referencing a human digital twin
+836,Y,high,Peer reviewed research creates and validates a human digital twin model with full text in English
+137,N,high,Implements respiration monitoring for DTeH but does not create or evaluate a human digital twin
+651,N,high,Labeled commentary and does not itself create or evaluate a non theoretical human digital twin
+767,Y,high,Peer reviewed patient specific human cardiac digital twin models created and evaluated with clinical data in English
+878,N,high,Review article; does not present original creation or evaluation of a human digital twin
+19,Y,high,Full text peer reviewed English study creating patient specific human digital twins from clinical CT images
+435,N,high,Abstract only no full text available
+1039,Y,high,Implements a human knee digital twin in simulation peer-reviewed full text English
+1066,N,high,Abstract only full text not available
+1327,N,high,Article is a bioRxiv preprint and explicitly states not peer reviewed
+286,N,high,Abstract only no full text available
+333,Y,high,Original peer-reviewed English study creates and validates patient-specific digital twins using real Crohn's disease clinical data
+970,N,high,Narrative review on cardiac digital twins without creating or evaluating a non theoretical human digital twin
+1149,N,medium,Does not claim creation or evaluation of a human digital twin despite patient specific modeling
+425,N,high,Not peer reviewed preprint therefore fails peer review criterion
+1271,N,high,Abstract only e-supplement not full peer reviewed article
+346,Y,high,Peer reviewed original study creating and evaluating human Digital Twins with patient specific data
+397,N,high,Abstract-only conference supplement not full-text peer-reviewed article despite mentioning patient-specific human digital heart twins
+1202,Y,high,Peer-reviewed study creates patient-specific human digital twins from CT data with implemented pipeline and results
+971,N,high,Narrative review article not original study of a non-theoretical human digital twin
+244,Y,high,Full text peer-reviewed original research creating patient-specific coronary artery digital twins from OCT with implemented finite element simulations
+442,N,medium,Conceptual framework without implementing or evaluating a non theoretical human digital twin
+570,Y,high,Peer reviewed English methods paper creating patient specific human digital twins from OCT with full text
+522,N,high,Abstract only not full text
+816,N,high,Preprint not peer reviewed though it creates patient-specific human atrial digital twins
+100,Y,high,Peer reviewed English article evaluating a human digital twin model using clinical patient data
+88,Y,medium,Peer-reviewed original study with full text implementing a human digital twin evaluated with EMG and biomechanics
+912,Y,high,Peer reviewed original paper generating and evaluating human digital twins using human clinical pharmacometric models in English
+977,Y,high,Peer-reviewed research claims creation of a human digital twin with simulations and evaluation in English full text
+826,Y,high,Peer-reviewed original research creates and evaluates a two-dimensional human follicular digital twin using simulation with full English text
+756,Y,high,Claims and demonstrates implemented human digital twin with sensor data in peer reviewed English journal article
+106,N,high,Conference abstract only not full text
+917,Y,high,Implements and evaluates a human cardiac digital twin using subject specific MRI and ECG data
+712,N,high,Review article discusses digital twins without creating or evaluating a non theoretical human digital twin
+587,N,high,Abstract only no full text available
+148,N,medium,Proposes digital twin based platform without creating or evaluating a human digital twin
+72,Y,high,Claims creation of patient digital twins and implements virtual trials in a peer reviewed original article
+909,Y,high,Describes and validates a personalized human digital twin model for alcohol consumption using human data
+616,N,high,Abstract only not full text available
+517,N,high,Abstract e-poster only not full text despite human digital twin claim
+851,Y,high,Peer-reviewed original research creates and uses human digital twins to evaluate ankle motion axis
+120,N,high,Abstract only conference e-poster lacks full text availability
+969,N,high,Not peer-reviewed medRxiv preprint failing inclusion criteria despite discussing a data-driven human digital twin
+1166,Y,high,Peer-reviewed full text implementing and evaluating patient-specific human cardiac digital twins using imaging and mapping data

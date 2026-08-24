@@ -1,0 +1,33 @@
+TITLE: Arrhythmia in hypertrophic cardiomyopathy: Risk prediction using contrast enhanced MRI, T1 mapping, and personalized virtual heart technology
+AUTHOR 1: RyanPO'hara
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Johns Hopkins University, 21218 Baltimore MD United States of America
+AUTHOR 2: AdityoPrakosa
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Johns Hopkins University, 21218 Baltimore MD United States of America
+AUTHOR 3: EdemBinka
+  Affiliations: Division of Pediatric Cardiology, Division of Pediatric Cardiology; Department of Pediatrics; Johns Hopkins School of Medicine, 21205 Baltimore MD United States of America
+AUTHOR 4: AudreyLacy
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Johns Hopkins University, 21218 Baltimore MD United States of America
+AUTHOR 5: NataliaATrayanova [CORRESPONDING] <ntrayanova@jhu.edu>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Johns Hopkins University, 21218 Baltimore MD United States of America
+AUTHOR 6: Unknown
+  Affiliations: 3400 N Charles Street, Hackerman Hall 216 21218 Baltimore MD United States of America
+================================================================================
+
+Contents lists available at ScienceDirect 
+Journal of Electrocardiology 
+journal homepage: www.jecgonline.com 
+Arrhythmia in hypertrophic cardiomyopathy: Risk prediction using contrast 
+enhanced MRI, T1 mapping, and personalized virtual heart technology 
+Ryan P. O’Hara a,1, Adityo Prakosa a, Edem Binka b, Audrey Lacy a, Natalia A. Trayanova a,* 
+a Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD 21218, United States of America 
+b Division of Pediatric Cardiology, Department of Pediatrics, Johns Hopkins School of Medicine, Baltimore, MD 21205, United States of America   
+A R T I C L E  I N F O    
+A B S T R A C T    
+Keywords: 
+Digital twin 
+Hypertrophic cardiomyopathy 
+Diffuse fibrosis 
+Arrhythmogenesis 
+Introduction 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

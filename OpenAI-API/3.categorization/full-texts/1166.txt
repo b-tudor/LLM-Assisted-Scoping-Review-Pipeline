@@ -1,0 +1,107 @@
+TITLE: Constructing bilayer and volumetric atrial models at scale
+AUTHOR 1: CarolineHRoney [CORRESPONDING] (ORCID: 0000-0001-6809-0928) <c.roney@qmul.ac.uk>
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK | School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK
+AUTHOR 2: JoseAlonsoSolis Lemus (ORCID: 0000-0002-2596-7811)
+  Affiliations: School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK | National Heart and Lung Institute; Imperial College London, London UK
+AUTHOR 3: CarlosLopez Barrera
+AUTHOR 4: AlexanderZolotarev
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK
+AUTHOR 5: OnurUlgen
+  Affiliations: School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK
+AUTHOR 6: EricKerfoot
+  Affiliations: School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK
+AUTHOR 7: LauraBevis
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK
+AUTHOR 8: SemharMisghina (ORCID: 0009-0009-4741-4132)
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK
+AUTHOR 9: CaterinaVidal Horrach
+AUTHOR 10: OvaisAJaffery
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK
+AUTHOR 11: MahmoudEhnesh
+  Affiliations: School of Engineering and Materials Science, School of Engineering and Materials Science; Queen Mary University of London, London UK
+AUTHOR 12: CristobalRodero (ORCID: 0000-0001-6809-0928)
+  Affiliations: School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK | National Heart and Lung Institute; Imperial College London, London UK
+AUTHOR 13: DhaniDharmaprani
+  Affiliations: College of Medicine and Public Health, College of Medicine and Public Health; Flinders University, Adelaide Australia
+AUTHOR 14: GonzaloRRíos-Muñoz (ORCID: 0000-0003-2446-3045)
+  Affiliations: Bioengineering Department, Bioengineering Department; Universidad Carlos III de Madrid, 28911 Madrid Spain | Department of Cardiology, Department of Cardiology; Gregorio Marañón Health Research Institute (IiSGM); Hospital General Universitario Gregorio Marañón, 28007 Madrid Spain | Center for Biomedical Research in Cardiovascular Disease Network (CIBERCV), Center for Biomedical Research in Cardiovascular Disease Network (CIBERCV), 28029 Madrid Spain
+AUTHOR 15: AnandGanesan
+  Affiliations: College of Medicine and Public Health, College of Medicine and Public Health; Flinders University, Adelaide Australia
+AUTHOR 16: WilsonWGood
+  Affiliations: R&D Algorithms; Acutus Medical, Carlsbad CA USA
+AUTHOR 17: AurelNeic
+  Affiliations: NumeriCor GmbH, Graz Austria
+AUTHOR 18: GernotPlank (ORCID: 0000-0002-7380-6908)
+  Affiliations: Gottfried Schatz Research Center-Biophysics, Gottfried Schatz Research Center-Biophysics; Medical University of Graz, Graz Austria | BioTechMed-Graz, Graz Austria
+AUTHOR 19: LuukH G AHopman
+  Affiliations: Department of Cardiology, Department of Cardiology; Amsterdam UMC, Amsterdam The Netherlands
+AUTHOR 20: MarcoJ WGötte
+  Affiliations: Department of Cardiology, Department of Cardiology; Amsterdam UMC, Amsterdam The Netherlands
+AUTHOR 21: ShohrehHonarbakhsh
+  Affiliations: Electrophysiology Department, Electrophysiology Department; Barts Heart Centre; Barts Health NHS Trust, London UK
+AUTHOR 22: SanjivMNarayan
+  Affiliations: Department of Medicine and Cardiovascular Institute, Department of Medicine and Cardiovascular Institute; Stanford University, Palo Alto CA USA
+AUTHOR 23: EdwardVigmond (ORCID: 0000-0003-1388-3589)
+  Affiliations: IHU Liryc; Electrophysiology and Heart Modeling Institute; Fondation Bordeaux Université, Bordeaux France | IMB; UMR 5251, IMB; UMR 5251; University Bordeaux, 33400 Talence France
+AUTHOR 24: StevenNiederer (ORCID: 0000-0002-4612-6982)
+  Affiliations: School of Biomedical Engineering and Imaging Sciences, School of Biomedical Engineering and Imaging Sciences; King's College London, London UK | National Heart and Lung Institute; Imperial College London, London UK | Turing Research and Innovation Cluster in Digital Twins (TRIC: DT), Turing Research and Innovation Cluster in Digital Twins (TRIC: DT); The Alan Turing Institute, London UK | CHR, CHR; JASL; GRR-M, 0000-0001-6809-0928, 0000-0002-2596-7811, 0009-0009-4741-4132, 0000-0001-6809-0928, 0000-0003-2446-3045, 0000-0002-7380-6908, 0000-0003-1388-3589, 0000-0002-4612-6982 SM, CR, GP, EV, SN
+================================================================================
+
+royalsocietypublishing.org/journal/rsfs
+Research
+Cite this article: Roney CH et al. 2023
+Constructing bilayer and volumetric
+atrial models at scale. Interface Focus 13:
+20230038.
+https://doi.org/10.1098/rsfs.2023.0038
+Received: 10 August 2023
+Accepted: 15 November 2023
+One contribution of 10 to a theme issue
+‘Electrifying insights into cardiac arrhythmias:
+from molecular mechanisms to therapeutic
+translations’.
+Subject Areas:
+bioengineering, biomedical engineering
+Keywords:
+cardiac arrhythmia, computational model,
+in silico trial, patient-specific cardiac model,
+digital twin
+Author for correspondence:
+Caroline H. Roney
+e-mail: c.roney@qmul.ac.uk
+
+Constructing bilayer and volumetric
+atrial models at scale
+Caroline H. Roney1,2, Jose Alonso Solis Lemus2,3, Carlos Lopez Barrera1,4,
+Alexander Zolotarev1, Onur Ulgen2, Eric Kerfoot2, Laura Bevis1,
+Semhar Misghina1, Caterina Vidal Horrach1, Ovais A. Jaffery1,
+Mahmoud Ehnesh1, Cristobal Rodero2,3, Dhani Dharmaprani5,
+Gonzalo R. Ríos-Muñoz6,7,8, Anand Ganesan5, Wilson W. Good9, Aurel Neic10,
+Gernot Plank11,12, Luuk H. G. A. Hopman13, Marco J. W. Götte13,
+Shohreh Honarbakhsh14, Sanjiv M. Narayan15, Edward Vigmond16,17 and
+Steven Niederer2,3,18
+1School of Engineering and Materials Science, Queen Mary University of London, London, UK
+2School of Biomedical Engineering and Imaging Sciences, King’s College London, London, UK
+3National Heart and Lung Institute, Imperial College London, London, UK
+4Center for Research in Advanced Materials S.C (CIMAV), Chihuahua, Mexico
+5College of Medicine and Public Health, Flinders University, Adelaide, Australia
+6Bioengineering Department, Universidad Carlos III de Madrid, Madrid 28911, Spain
+7Department of Cardiology, Gregorio Marañón Health Research Institute (IiSGM), Hospital General Universitario
+Gregorio Marañón, Madrid 28007, Spain
+8Center for Biomedical Research in Cardiovascular Disease Network (CIBERCV), Madrid 28029, Spain
+9R&D Algorithms, Acutus Medical, Carlsbad, CA, USA
+10NumeriCor GmbH, Graz, Austria
+11Gottfried Schatz Research Center-Biophysics, Medical University of Graz, Graz, Austria
+12BioTechMed-Graz, Graz, Austria
+13Department of Cardiology, Amsterdam UMC, Amsterdam, The Netherlands
+14Electrophysiology Department, Barts Heart Centre, Barts Health NHS Trust, London, UK
+15Department of Medicine and Cardiovascular Institute, Stanford University, Palo Alto, CA, USA
+16IHU Liryc, Electrophysiology and Heart Modeling Institute, Fondation Bordeaux Université, Bordeaux,
+France
+17IMB, UMR 5251, University Bordeaux, Talence 33400, France
+18Turing Research and Innovation Cluster in Digital Twins (TRIC: DT), The Alan Turing Institute, London, UK
+CHR, 0000-0001-6809-0928; JASL, 0000-0002-2596-7811; SM, 0009-0009-4741-4132;
+CR, 0000-0001-6809-0928; GRR-M, 0000-0003-2446-3045; GP, 0000-0002-7380-6908;
+EV, 0000-0003-1388-3589; SN, 0000-0002-4612-6982
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

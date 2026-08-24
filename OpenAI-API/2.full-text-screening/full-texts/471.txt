@@ -1,0 +1,49 @@
+TITLE: Revolutionizing Combat Casualty Care: The Power of Digital Twins in Optimizing Casualty Care Through Passive Data Collection
+AUTHOR 1: MD, FCCM, FACPJeremyCPamplin (ORCID: 0000-0003-3857-8417)
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA | Department of Medicine, Department of Medicine; Department of Emergency and Operational Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 2: BS ‡; CDRMasonHRemondelli
+  Affiliations: School of Medicine, School of Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 3: MD §; SFCDarshanThota
+  Affiliations: The Joint Trauma System; Joint Base San Antonio, 78234 TX USA | || United States Air Force En route Care Research Center; 59th MDW/ST | JBSA-Fort Sam Houston, 78234 TX USA
+AUTHOR 4: AAS, RCIS, RCSJeremyTrapier
+AUTHOR 5: MD ‡,||WilliamTDavis
+  Affiliations: School of Medicine, School of Medicine; The Uniformed Services University of the Health Sciences, 20814 Bethesda MD USA
+AUTHOR 6: MSNathanFisher
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA
+AUTHOR 7: DO, MS, MPH, FAAP ¶;PaulKwon
+AUTHOR 8: MatthewTQuinn
+  Affiliations: The Telemedicine and Advanced Technology Research Center, The Telemedicine and Advanced Technology Research Center, 21702 Freder-ick MD USA | Program Executive Office for Simulation, Training and Instrumentation, Program Executive Office for Simulation, Training and Instrumentation, 32826 Orlando FL USA
+AUTHOR 9: Unknown
+  Affiliations: FCCM; FACP, USA
+================================================================================
+
+MILITARY MEDICINE, 190, 1/2:27, 2025
+*The Telemedicine and Advanced Technology Research Center, Freder-
+ick, MD, 21702 USA
+†Department  of  Medicine,  Department  of  Emergency  and  Operational 
+Medicine,  The  Uniformed  Services  University  of  the  Health  Sciences, 
+Bethesda, MD 20814, USA
+‡School of Medicine, The Uniformed Services University of the Health 
+Sciences, Bethesda, MD 20814, USA
+§The Joint Trauma System, Joint Base San Antonio, TX 78234, USA
+||United States Air Force En route Care Research Center/59th MDW/ST, 
+JBSA-Fort Sam Houston, TX 78234, USA
+¶Program Executive Office for Simulation, Training and Instrumentation, 
+Orlando, FL 32826, USA
+A  previous  nonpeer  reviewed  version  of  this  manuscript  is  available 
+online as part of the “TATRC Times,” a semiannual, institutional newsletter 
+available at https://www.tatrc.org/www/news-and-media/newsletter/archive/
+TATRC-Times-FY2023-Q4.pdf
+The views, opinions, and/or findings contained in this research/presenta-
+tion/ publication are those of the author(s)/company and do not necessarily 
+reflect  the  views  of  the  DoD  and  should  not  be  construed  as  an  offi-
+cial DoD/Army position,  policy,  or decision unless so designated by other 
+documentation. No official endorsement should be made.
+Corresponding author: Jeremy C. Pamplin MD, FCCM, FACP, USA
+(Jeremy.C.Pamplin.mil@health.mil).
+doi:https://doi.org/10.1093/milmed/usae249
+MILITARY MEDICINE, Vol. 190, January/February  2025
+
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

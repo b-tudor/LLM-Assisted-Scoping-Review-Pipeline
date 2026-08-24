@@ -1,0 +1,55 @@
+TITLE: CardioVision: A fully automated deep learning package for medical image segmentation and reconstruction generating digital twins for patients with aortic stenosis
+AUTHOR 1: AmirRouhollahi (ORCID: 0000-0002-7299-7394)
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 2: JamesNoelWilli
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 3: SandraHaltmeier
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 4: AlirezaMehrtash
+  Affiliations: Department of Radiology, Department of Radiology; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 5: RossStraughan
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA | Department of Mechanical and Process Engineering, Department of Mechanical and Process Engineering; ETH Zurich, Zurich Switzerland
+AUTHOR 6: HodaJavadikasgari
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 7: JonathanBrown
+  Affiliations: Clinical and Translation Science Institute, Clinical and Translation Science Institute; Tufts University, Boston MA USA | Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Massachusetts Institute of Technology, Cambridge MA USA
+AUTHOR 8: AkinobuItoh
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 9: KimIDe La Cruz
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 10: ElenaAikawa
+  Affiliations: Center for Interdisciplinary Cardiovascular Sciences, Center for Interdisciplinary Cardiovascular Sciences; Division of Cardiovascular Medicine; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA | Center for Excellence in Vascular Biology, Center for Excellence in Vascular Biology; Department of Medicine; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 11: ElazerREdelman
+  Affiliations: Institute for Medical Engineering and Science, Institute for Medical Engineering and Science; Massachusetts Institute of Technology, Cambridge MA USA | Cardiovascular Division, Cardiovascular Division; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+AUTHOR 12: FarhadRNezami
+  Affiliations: Division of Cardiac Surgery, Division of Cardiac Surgery; Brigham and Women's Hospital; Harvard Medical School, Boston MA USA
+================================================================================
+
+A R T I C L E  I N F O    
+Keywords: 
+Aortic stenosis 
+Automated AI platform 
+Calcium distribution 
+Digital twin 
+1. Introduction 
+* Corresponding author. 
+
+Contents lists available at ScienceDirect 
+Computerized Medical Imaging and Graphics 
+journal homepage: www.elsevier.com/locate/compmedimag 
+CardioVision: A fully automated deep learning package for medical image 
+segmentation and reconstruction generating digital twins for patients with 
+aortic stenosis 
+Amir Rouhollahi a, James Noel Willi a, Sandra Haltmeier a, Alireza Mehrtash b, 
+Ross Straughan a, c, Hoda Javadikasgari a, Jonathan Brown d,g, Akinobu Itoh a, Kim I. de la Cruz a, 
+Elena Aikawa e,f, Elazer R. Edelman g, h, Farhad R. Nezami a, * 
+a Division of Cardiac Surgery, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA 
+b Department of Radiology, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA 
+c Department of Mechanical and Process Engineering, ETH Zurich, Zurich, Switzerland 
+d Clinical and Translation Science Institute, Tufts University, Boston, MA, USA 
+e Center for Interdisciplinary Cardiovascular Sciences, Division of Cardiovascular Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA 
+f Center for Excellence in Vascular Biology, Department of Medicine, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA 
+g Institute for Medical Engineering and Science, Massachusetts Institute of Technology, Cambridge, MA, USA 
+h Cardiovascular Division, Brigham and Women’s Hospital, Harvard Medical School, Boston, MA, USA   
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

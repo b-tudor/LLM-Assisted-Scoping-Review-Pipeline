@@ -1,0 +1,27 @@
+TITLE: Automated design of nighttime braces for adolescent idiopathic scoliosis with global shape optimization using a patient-specific finite element model
+AUTHOR 1: AymericGuy (ORCID: 0000-0002-2514-5631)
+AUTHOR 2: MaxenceCoulombe
+AUTHOR 3: HubertLabelle
+AUTHOR 4: SorayaBarchi
+AUTHOR 5: Carl-ÉricAubin [CORRESPONDING] <carl-eric.aubin@polymtl.ca>
+AUTHOR 6: Unknown
+  Affiliations: 1 Polytechnique Montreal,, 2500 Chemin de Polytechnique, Montreal, QC H3T 1J4, Canada. Montreal, QC, Canada. Montreal, QC, Canada.
+AUTHOR 7: Unknown
+  Affiliations: 2 Sainte-Justine University Hospital Center,
+AUTHOR 8: Unknown
+  Affiliations: 3 Université de Montréal,
+================================================================================
+
+OPEN
+Scientific Reports |         (2024) 14:3300  
+
+Automated design of nighttime 
+braces for adolescent 
+idiopathic scoliosis with global 
+shape optimization using 
+a patient‑specific finite element 
+model
+Aymeric Guy  1,2, Maxence Coulombe 2,3, Hubert Labelle 2,3, Soraya Barchi 2 & 
+Carl‑Éric Aubin 1,2,3*
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

@@ -1,0 +1,43 @@
+TITLE: A model order reduction approach to create patient-specific mechanical models of human liver in computational medicine applications
+AUTHOR 1: NathanLauzeral [CORRESPONDING] (ORCID: 0000-0002-0161-7921) <nathan.lauzeral@ec-nantes.fr>
+  Affiliations: ICI; High Performance Computing Institute; Ecole Centrale de Nantes, France
+AUTHOR 2: DomenicoBorzacchiello
+  Affiliations: ICI; High Performance Computing Institute; Ecole Centrale de Nantes, France
+AUTHOR 3: MichaelKugler
+  Affiliations: iCube, iCube; Université de Strasbourg; CNRS, France | IRCAD, France
+AUTHOR 4: DanielGeorge
+  Affiliations: iCube, iCube; Université de Strasbourg; CNRS, France
+AUTHOR 5: YvesRémond
+  Affiliations: iCube, iCube; Université de Strasbourg; CNRS, France
+AUTHOR 6: AlexandreHostettler
+  Affiliations: IRCAD, France
+AUTHOR 7: FranciscoChinesta
+  Affiliations: PIMM; ENSAM ParisTech; CNRS, France
+================================================================================
+
+Computer Methods and Programs in Biomedicine 170 (2019) 95–106 
+Contents lists available at ScienceDirect 
+Computer  Methods  and  Programs  in  Biomedicine 
+journal homepage: www.elsevier.com/locate/cmpb 
+A  model  order  reduction  approach  to  create  patient-speciﬁc 
+mechanical  models  of  human  liver  in  computational  medicine 
+applications 
+Nathan Lauzeral a , ∗, Domenico Borzacchiello a , Michael Kugler b , c , Daniel George b , 
+Yves Rémond b , Alexandre Hostettler c , Francisco Chinesta d 
+a 
+b 
+c 
+d 
+ICI, High Performance Computing Institute, Ecole Centrale de Nantes, France 
+iCube, Université de Strasbourg, CNRS, France 
+IRCAD, France 
+PIMM, ENSAM ParisTech, CNRS, France 
+a r t i c l e 
+i n f o 
+a b s t r a c t 
+Article history: 
+Received 9 October 2018 
+Revised 6 December 2018 
+Accepted 11 January 2019 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

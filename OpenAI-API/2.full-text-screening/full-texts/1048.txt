@@ -1,0 +1,16 @@
+TITLE: Clinical: Diagnosis and Outcome Abstract citation ID: jjad212.0635 P505 Accelerating Crohn's Disease clinical trials using generative artificial intelligence
+AUTHOR 1: MTurner
+  Affiliations: Unlearn.ai, Clinical Applications, San Francisco United States
+AUTHOR 2: SMillar
+  Affiliations: Unlearn.ai, Clinical Applications, San Francisco United States
+AUTHOR 3: CKusiak
+  Affiliations: Unlearn.ai, Clinical Applications, San Francisco United States
+AUTHOR 4: FDFuller
+  Affiliations: Unlearn.ai, Machine Learning, San Francisco United States
+AUTHOR 5: JWalsh
+  Affiliations: Unlearn.ai, Machine Learning, San Francisco United States
+AUTHOR 6: RZhuang
+  Affiliations: Unlearn.ai, Machine Learning, San Francisco United States
+================================================================================
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

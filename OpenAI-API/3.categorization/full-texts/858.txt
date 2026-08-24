@@ -1,0 +1,35 @@
+TITLE: Design and <i>In Silico</i> Evaluation of an Exercise Decision Support System Using Digital Twin Models
+AUTHOR 1: PhDGavinYoung
+  Affiliations: School of Medicine, School of Medicine; Oregon Health & Science University, Portland OR USA | Department of Biomedical Engineering, Artificial Intelligence for Medical Systems Lab, Department of Biomedical Engineering; Artificial Intelligence for Medical Systems Lab; Oregon Health & Science University, Portland OR USA
+AUTHOR 2: PhDRobertDodier
+  Affiliations: Department of Biomedical Engineering, Artificial Intelligence for Medical Systems Lab, Department of Biomedical Engineering; Artificial Intelligence for Medical Systems Lab; Oregon Health & Science University, Portland OR USA
+AUTHOR 3: MDJosephElYoussef
+  Affiliations: Division of Endocrinology, Division of Endocrinology; Harold Schnitzer Diabetes Health Center | Oregon Health & Science University, Portland OR USA
+AUTHOR 4: MDJessicaRCastle (ORCID: 0000-0003-1179-5374)
+  Affiliations: Division of Endocrinology, Division of Endocrinology; Harold Schnitzer Diabetes Health Center | Oregon Health & Science University, Portland OR USA
+AUTHOR 5: MDLeahWilson (ORCID: 0000-0003-3634-481X)
+  Affiliations: Division of Endocrinology, Division of Endocrinology; Harold Schnitzer Diabetes Health Center | Oregon Health & Science University, Portland OR USA
+AUTHOR 6: PhDMichaelCRiddell (ORCID: 0000-0001-6556-7559)
+  Affiliations: School of Kinesiology & Health Science and The Muscle Health Research Centre, School of Kinesiology & Health Science and The Muscle Health Research Centre; York University, Toronto ON Canada
+AUTHOR 7: PhDPeterGJacobs [CORRESPONDING] (ORCID: 0000-0001-9897-4783) <jacobsp@ohsu.edu>
+  Affiliations: Department of Biomedical Engineering, Artificial Intelligence for Medical Systems Lab, Department of Biomedical Engineering; Artificial Intelligence for Medical Systems Lab; Oregon Health & Science University, Portland OR USA
+AUTHOR 8: Unknown
+  Affiliations: Department of Biomedical Engineering, Artificial Intelligence for Medical Systems Lab, Department of Biomedical Engineering; Artificial Intelligence for Medical Systems Lab; Oregon Health & Science University, 3303 Southwest Bond Avenue 97239 Portland OR USA
+================================================================================
+
+1223217 DSTXXX10.1177/19322968231223217Journal of Diabetes Science and TechnologyYoung et al
+research-article2024
+Symposium/Special Issue
+Introduction
+
+Design and In Silico Evaluation of an 
+Exercise Decision Support System Using 
+Digital Twin Models
+Gavin Young, PhD1,2, Robert Dodier, PhD2, Joseph El Youssef, MD3, 
+, Leah Wilson, MD3
+Jessica R. Castle, MD3
+Michael C. Riddell, PhD4
+,  
+, and Peter G. Jacobs, PhD2
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

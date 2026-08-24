@@ -1,0 +1,35 @@
+TITLE: Development and Verification of a Digital Twin Patient Model to Predict Specific Treatment Response During the First 24 Hours of Sepsis
+AUTHOR 1: MBBSAmosLal
+  Affiliations: Department of Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Medicine; Division of Pulmonary and Critical Care Medicine; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 2: MDGuangxiLi
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Anesthesiology and Perioperative Medicine; Division of Critical Care; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 3: EdinCubro
+AUTHOR 4: MDSarahChalmers
+  Affiliations: Department of Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Medicine; Division of Pulmonary and Critical Care Medicine; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 5: MDHeyiLi
+  Affiliations: Department of Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Medicine; Division of Pulmonary and Critical Care Medicine; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 6: MDVitalyHerasevich
+AUTHOR 7: MDYueDong
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Anesthesiology and Perioperative Medicine; Division of Critical Care; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 8: MB, BAO, BCh, FFARCSIBrianWPickering
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Anesthesiology and Perioperative Medicine; Division of Critical Care; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+AUTHOR 9: MDOguzKilickaya
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Anesthesiology and Perioperative Medicine; Division of Critical Care; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN | Department of Anesthesiology and Critical Care, Department of Anesthesiology and Critical Care; Altinbas University, Bahcelievler Medical Park Hospital Istanbul Turkey
+AUTHOR 10: MD, MSc, FCCP, FCCMOgnjenGajic
+  Affiliations: Department of Medicine, Multidisciplinary Epidemiology and Translational Research in Intensive Care Group, Department of Medicine; Division of Pulmonary and Critical Care Medicine; Multidisciplinary Epidemiology and Translational Research in Intensive Care Group; Mayo Clinic, Rochester MN
+================================================================================
+
+2020
+LWW
+
+Original Clinical Report
+Development and Verification of a Digital 
+Twin Patient Model to Predict Specific 
+Treatment Response During the First  
+24 Hours of Sepsis
+Amos Lal, MBBS1; Guangxi Li, MD2; Edin Cubro, MSc, MBA3; Sarah Chalmers, MD1; Heyi Li, MD1;  
+Vitaly Herasevich, MD, PhD, FCCM2; Yue Dong, MD2; Brian W. Pickering, MB, BAO, BCh, FFARCSI2; 
+Oguz Kilickaya, MD4; Ognjen Gajic, MD, MSc, FCCP, FCCM1
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

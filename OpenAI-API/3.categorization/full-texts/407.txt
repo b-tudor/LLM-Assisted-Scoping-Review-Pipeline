@@ -1,0 +1,41 @@
+TITLE: Development and validation of a digital twin of the human lower jaw under impact loading by using non-linear finite element analyses
+AUTHOR 1: OsmanDemir [CORRESPONDING] (ORCID: 0000-0002-3372-3331) <smn.demir@gmail.com>
+  Affiliations: Gulhane Medical Design and Manufacturing Application and Research Center-SBU-METUM, Gulhane Medical Design and Manufacturing Application and Research Center-SBU-METUM; University of Health Sciences, 06010 Ankara Turkey | Department of Mechanical Engineering, Department of Mechanical Engineering; Gazi University, 06570 Ankara Turkey
+AUTHOR 2: IbrahimUslan [CORRESPONDING] <iuslan17@gmail.com>
+  Affiliations: Council of Higher Education, 06800 Ankara Turkey
+AUTHOR 3: MuratBuyuk [CORRESPONDING] <mbuyuk@metu.edu.tr>
+  Affiliations: Department of Engineering Sciences, Department of Engineering Sciences; Middle East Technical University, 06800 Ankara Turkey
+AUTHOR 4: MetinUymazSalamci [CORRESPONDING] (ORCID: 0000-0002-6150-8014) <msalamci@gazi.edu.tr>
+  Affiliations: Department of Mechanical Engineering, Department of Mechanical Engineering; Gazi University, 06570 Ankara Turkey | Additive Manufacturing Technologies Research and Application Center-EKTAM, Additive Manufacturing Technologies Research and Application Center-EKTAM; Gazi University, 06980 Ankara Turkey
+AUTHOR 5: Unknown
+  Affiliations: Research Center-SBU-METUM; University of Health Sciences, 06010 Ankara Turkey
+================================================================================
+
+A R T I C L E  I N F O    
+Keywords: 
+Digital twin 
+Finite element analysis (FEA) 
+Patient specific treatment 
+Mandibular fracture pattern 
+Lower jaw biomechanical analysis 
+Turkey. 
+
+Contents lists available at ScienceDirect 
+Journal of the Mechanical Behavior of Biomedical Materials 
+journal homepage: www.elsevier.com/locate/jmbbm 
+Development and validation of a digital twin of the human lower jaw under 
+impact loading by using non-linear finite element analyses 
+Osman Demir a, d,*, Ibrahim Uslan b, Murat Buyuk c, Metin Uymaz Salamci d, e 
+a Gulhane Medical Design and Manufacturing Application and Research Center-SBU-METUM, University of Health Sciences, 06010, Ankara, Turkey 
+b Council of Higher Education, 06800, Ankara, Turkey 
+c Department of Engineering Sciences, Middle East Technical University, 06800, Ankara, Turkey 
+d Department of Mechanical Engineering, Gazi University, 06570, Ankara, Turkey 
+e Additive Manufacturing Technologies Research and Application Center-EKTAM, Gazi University, 06980, Ankara, Turkey   
+A B S T R A C T    
+* Corresponding author. Gulhane Medical Design and Manufacturing Application and Research Center-SBU-METUM, University of Health Sciences, 06010, Ankara, 
+E-mail addresses: smn.demir@gmail.com (O. Demir), iuslan17@gmail.com (I. Uslan), mbuyuk@metu.edu.tr (M. Buyuk), msalamci@gazi.edu.tr (M.U. Salamci). 
+https://doi.org/10.1016/j.jmbbm.2023.106207 
+Received 9 July 2023; Received in revised form 18 October 2023; Accepted 20 October 2023   
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

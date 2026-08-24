@@ -1,0 +1,22 @@
+TITLE: Head Impact Modeling to Support a Rotational Combat Helmet Drop Test
+AUTHOR 1: MSRyanTerpsma
+  Affiliations: Terminal Ballistics Technology Department, Terminal Ballistics Technology Department; Sandia National Laboratories, 5421, 87185 Albuquerque NM USA
+AUTHOR 2: RikaWrightCarlsen
+AUTHOR 3: MEngRonSzalkowski
+  Affiliations: Team Wendy LLC, 44110 Cleveland OH USA
+AUTHOR 4: SushantMalave
+AUTHOR 5: AliceLuxFawzi
+  Affiliations: School of Engineering, School of Engineering; Brown University, 02912 Providence RI USA
+AUTHOR 6: PhD∥ChristianFranck
+  Affiliations: Department of Mechanical Engineering, Department of Mechanical Engineering; University of Wisconsin-Madison, 53706 Madison WI USA
+AUTHOR 7: PhDChadHovey
+  Affiliations: Terminal Ballistics Technology Department, Terminal Ballistics Technology Department; Sandia National Laboratories, 5421, 87185 Albuquerque NM USA
+================================================================================
+
+MILITARY MEDICINE, 188, 3/4:e745, 2023
+Head Impact Modeling to Support a Rotational Combat Helmet
+Drop Test
+Ryan Terpsma, MS*; Rika Wright Carlsen, PhD†; Ron Szalkowski, MEng‡;
+Sushant Malave, MS‡; Alice Lux Fawzi, BSE§; Christian Franck, PhD∥; Chad Hovey, PhD*
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

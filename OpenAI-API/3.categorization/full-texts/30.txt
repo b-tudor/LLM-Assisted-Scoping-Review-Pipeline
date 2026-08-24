@@ -1,0 +1,74 @@
+TITLE: Development of Digital Twins to Optimize Trauma Surgery and Postoperative Management. A Case Study Focusing on Tibial Plateau Fracture
+AUTHOR 1: KévinAubert [CORRESPONDING] <kevin.aubert@univ-poitiers.fr>
+  Affiliations: Institut Pprime UPR 3346, Institut Pprime UPR 3346; CNRS; Université de Poitiers -ISAE-ENSMA, Poitiers France | Ansys France, Villeurbanne France
+AUTHOR 2: ArnaudGermaneau
+  Affiliations: Institut Pprime UPR 3346, Institut Pprime UPR 3346; CNRS; Université de Poitiers -ISAE-ENSMA, Poitiers France
+AUTHOR 3: MichelRochette
+  Affiliations: Ansys France, Villeurbanne France
+AUTHOR 4: WenfengYe
+  Affiliations: Ansys France, Villeurbanne France
+AUTHOR 5: MathieuSeveryns
+  Affiliations: Department of Orthopedic and Trauma Surgery, Department of Orthopedic and Trauma Surgery; University Hospital Center of Fort-de-France, Fort-de-France France
+AUTHOR 6: MaximeBillot
+  Affiliations: PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery), PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery); Poitiers University Hospital, Poitiers France
+AUTHOR 7: PhilippeRigoard
+  Affiliations: Institut Pprime UPR 3346, Institut Pprime UPR 3346; CNRS; Université de Poitiers -ISAE-ENSMA, Poitiers France | PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery), PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery); Poitiers University Hospital, Poitiers France | Department of Spine Surgery and Neuromodulation, Department of Spine Surgery and Neuromodulation; Poitiers University Hospital, Poitiers France
+AUTHOR 8: TanguyVendeuvre
+  Affiliations: Institut Pprime UPR 3346, Institut Pprime UPR 3346; CNRS; Université de Poitiers -ISAE-ENSMA, Poitiers France | PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery), PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery); Poitiers University Hospital, Poitiers France | Department of Spine Surgery and Neuromodulation, Department of Spine Surgery and Neuromodulation; Poitiers University Hospital, Poitiers France | Department of Orthopedic Surgery and Traumatology, Department of Orthopedic Surgery and Traumatology; Poitiers University Hospital, Poitiers France
+AUTHOR 9: Unknown
+  Affiliations: University College London, United Kingdom
+AUTHOR 10: Unknown
+  Affiliations: Polytechnic Institute of Leiria, Portugal
+AUTHOR 11: Unknown
+  Affiliations: Philip Frank Stahel
+AUTHOR 12: Unknown
+  Affiliations: Rocky Vista University, United States
+================================================================================
+
+Edited by:
+Chaozong Liu,
+University College London,
+United Kingdom
+Reviewed by:
+Rui B. Ruben,
+Polytechnic Institute of Leiria, Portugal
+Philip Frank Stahel,
+Rocky Vista University, United States
+*Correspondence:
+Kévin Aubert
+kevin.aubert@univ-poitiers.fr
+Specialty section:
+This article was submitted to
+Biomechanics,
+a section of the journal
+Frontiers in Bioengineering and
+Biotechnology
+Received: 08 June 2021
+Accepted: 06 September 2021
+Published: 07 October 2021
+Citation:
+Aubert K, Germaneau A, Rochette M,
+Ye W, Severyns M, Billot M, Rigoard P
+and Vendeuvre T (2021) Development
+of Digital Twins to Optimize Trauma
+Surgery and Postoperative
+Management. A Case Study Focusing
+on Tibial Plateau Fracture.
+Front. Bioeng. Biotechnol. 9:722275.
+doi: 10.3389/fbioe.2021.722275
+Frontiers in Bioengineering and Biotechnology | www.frontiersin.org
+
+Development of Digital Twins to
+Optimize Trauma Surgery and
+Postoperative Management. A Case
+Study Focusing on Tibial Plateau
+Fracture
+Kévin Aubert 1,2*, Arnaud Germaneau 1, Michel Rochette 2, Wenfeng Ye 2, Mathieu Severyns 3,
+Maxime Billot 4, Philippe Rigoard 1,4,5 and Tanguy Vendeuvre 1,4,5,6
+1Institut Pprime UPR 3346, CNRS – Université de Poitiers – ISAE-ENSMA, Poitiers, France, 2Ansys France, Villeurbanne, France,
+3Department of Orthopedic and Trauma Surgery at the University Hospital Center of Fort-de-France, Fort-de-France, France,
+4PRISMATICS Lab (Predictive Research in Spine/Neuromodulation Management and Thoracic Innovation/Cardiac Surgery),
+Poitiers University Hospital, Poitiers, France, 5Department of Spine Surgery and Neuromodulation, Poitiers University Hospital,
+Poitiers, France, 6Department of Orthopedic Surgery and Traumatology, Poitiers University Hospital, Poitiers, France
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

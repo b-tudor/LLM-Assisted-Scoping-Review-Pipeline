@@ -1,0 +1,36 @@
+TITLE: A new flow-based design for double-lumen needles
+AUTHOR 1: RaduCimpeanu [CORRESPONDING] (ORCID: 0000-0002-7934-7909) <radu.cimpeanu@warwick.ac.uk>
+  Affiliations: Mathematics Institute, Mathematics Institute; University of Warwick, CV4 7AL Coventry United Kingdom | Mathematical Institute, Mathematical Institute; University of Oxford, OX2 6GG Oxford United Kingdom
+AUTHOR 2: AlfonsoACastrejón-Pita
+  Affiliations: Department of Engineering Science, Department of Engineering Science; University of Oxford, OX1 3PJ Oxford United Kingdom
+AUTHOR 3: LeeNaiLim
+  Affiliations: Gynaecology Department, Gynaecology Department; Oxford University Hospital NHS Foundation Trust, OX3 9DU Oxford United Kingdom
+AUTHOR 4: ManuVatish
+  Affiliations: Nuffield Department of Women's Health and Reproductive Research, Nuffield Department of Women's Health and Reproductive Research; University of Oxford, OX3 9DU Oxford United Kingdom
+AUTHOR 5: EktorasXGeorgiou
+  Affiliations: Gynaecology Department, Gynaecology Department; Oxford University Hospital NHS Foundation Trust, OX3 9DU Oxford United Kingdom
+AUTHOR 6: Unknown
+  Affiliations: Mathematics Institute, Mathematics Institute; University of Warwick, CV4 7AL Coventry United Kingdom
+================================================================================
+
+Contents lists available at ScienceDirect
+Journal of Biomechanics
+journal homepage: www.elsevier.com/locate/jbiomech
+A new flow-based design for double-lumen needles
+Radu Cimpeanu a,b,∗, Alfonso A. Castrejón-Pita c, Lee Nai Lim d, Manu Vatish e,
+Ektoras X. Georgiou d
+a Mathematics Institute, University of Warwick, Coventry, CV4 7AL, United Kingdom
+b Mathematical Institute, University of Oxford, Oxford, OX2 6GG, United Kingdom
+c Department of Engineering Science, University of Oxford, Oxford, OX1 3PJ, United Kingdom
+d Gynaecology Department, Oxford University Hospital NHS Foundation Trust, Oxford, OX3 9DU, United Kingdom
+e Nuffield Department of Women’s Health and Reproductive Research, University of Oxford, Oxford, OX3 9DU, United Kingdom
+A B S T R A C T
+A R T I C L E I N F O
+Keywords:
+In-vitro fertilisation
+Needle
+Interfacial flow
+Vortex dynamics
+Direct numerical simulation
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

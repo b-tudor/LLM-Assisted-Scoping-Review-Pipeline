@@ -1,0 +1,13 @@
+TITLE: Unknown
+AUTHOR 1: JYLo
+  Affiliations: Department of Electrical and Computer Engineering, Department of Electrical and Computer Engineering; Carl E. Ravin Advanced Imaging Laboratories; Duke University, 27705 Durham NC USA | Department of Physics and Carl E. Ravin Advanced Imaging Laboratories, Department of Physics and Carl E. Ravin Advanced Imaging Laboratories; Duke University, 27705 Durham NC USA | Department of Computer Science, Department of Computer Science; Duke University, 27708 Durham NC USA | Department of Radiology, Department of Radiology; Fourth Clinical Hospital; Hebei Medical University, 050011 Heibei China | Biomedical Engineering, Biomedical Engineering; Medical Physics Graduate Program, and Carl E. Ravin Advanced Imaging Laboratories; Duke University, 27705 Durham NC USA | Departments of Biomedical Engineering, Departments of Biomedical Engineering; Medical Physics Graduate Program and Radiology and the Carl E. Ravin Advanced Imaging Laboratories; Duke University, 27705 Durham NC USA | Departments of Radiology, Electrical and Computer Engineering, Departments of Radiology, Electrical and Computer Engineering; Biomedical Engineering, and Physics; Duke University, 27705 Durham NC USA
+================================================================================
+
+1 
+iPhantom: a framework for automated creation 
+of individualized computational phantoms and 
+its application to CT organ dosimetry 
+Wanyi Fu, Shobhit Sharma, Ehsan Abadi, Alexandros-Stavros Iliopoulos, Qi Wang,  
+Joseph Y. Lo, Xiaobai Sun, William P. Segars, Ehsan Samei 
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

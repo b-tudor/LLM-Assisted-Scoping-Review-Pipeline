@@ -1,0 +1,124 @@
+TITLE: Exploring approaches for predictive cancer patient digital twins: Opportunities for collaboration and innovation
+AUTHOR 1: EricAStahlberg [CORRESPONDING] <eric.stahlberg@nih.gov>
+  Affiliations: CORRESPONDENCE Eric A. Stahlberg, CORRESPONDENCE Eric A. Stahlberg | Cancer Data Science Initiatives, Cancer Data Science Initiatives; Frederick National Laboratory for Cancer Research, Frederick MD United States
+AUTHOR 2: MohamedAbdel-Rahman
+  Affiliations: Department of Ophthalmology and Visual Sciences, Department of Ophthalmology and Visual Sciences; Wexner Medical Center; The Ohio State University; James Comprehensive Cancer Center, Columbus OH United States
+AUTHOR 3: BorisAguilar
+  Affiliations: Institute for Systems Biology, Institute for Systems Biology, Seattle WA United States
+AUTHOR 4: AlirezaAsadpoure
+  Affiliations: Department of Civil and Environmental Engineering, Department of Civil and Environmental Engineering; University of Massachusetts Amherst, Amherst MA United States
+AUTHOR 5: RobertABeckman
+  Affiliations: Innovation Center for Biomedical Informatics, Innovation Center for Biomedical Informatics; Georgetown University, Washington DC | United States
+AUTHOR 6: LynnLBorkon
+  Affiliations: Cancer Data Science Initiatives, Cancer Data Science Initiatives; Frederick National Laboratory for Cancer Research, Frederick MD United States
+AUTHOR 7: JeffreyNBryan
+  Affiliations: Department of Veterinary Medicine and Surgery, Department of Veterinary Medicine and Surgery; University of Missouri, Columbia MO United States
+AUTHOR 8: ColleenMCebulla
+AUTHOR 9: Chatterjee, Deng, Dolatshahi, GevaertYoungHwanChang
+AUTHOR 10: AnsuChatterjee
+  Affiliations: School of Statistics, School of Statistics; University of Minnesota, Minneapolis MN United States
+AUTHOR 11: JunDeng
+  Affiliations: Department of Therapeutic Radiology, Department of Therapeutic Radiology; School of Medicine; Yale University; Yale University, New Haven CT United States
+AUTHOR 12: SepidehDolatshahi
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Center for Biomedical Informatics Research (BMIR); Department of Medicine and Department of Biomedical Data Science; University of Virginia, United States, 11 Stanford Charlottesville VA | Stanford University, United States Stanford CA
+AUTHOR 13: OlivierGevaert
+AUTHOR 14: EmilyJGreenspan
+AUTHOR 15: WenruiHao
+  Affiliations: Department of Mathematics, Department of Mathematics; The Pennsylvania State University, University Park PA United States
+AUTHOR 16: TinaHernandez-Boussard
+AUTHOR 17: KuijjerPamelaRJackson
+AUTHOR 18: MariekeKuijjer
+AUTHOR 19: MacklinAdrianLee
+AUTHOR 20: PaulMacklin
+  Affiliations: Department of Intelligent Systems Engineering, Department of Intelligent Systems Engineering; Indiana University, Bloomington IN United States
+AUTHOR 21: SubhaMadhavan
+  Affiliations: Innovation Center for Biomedical Informatics, Innovation Center for Biomedical Informatics; Georgetown University, Washington DC | United States
+AUTHOR 22: MatthewDMccoy
+  Affiliations: Innovation Center for Biomedical Informatics, Innovation Center for Biomedical Informatics; Georgetown University, Washington DC | United States
+AUTHOR 23: NavidMohammad Mirzaei
+AUTHOR 24: TalayehRazzaghi
+  Affiliations: School of Industrial and Systems Engineering, School of Industrial and Systems Engineering; The University of Oklahoma, Norman OK | United States
+AUTHOR 25: HeberLRocha
+  Affiliations: Department of Intelligent Systems Engineering, Department of Intelligent Systems Engineering; Indiana University, Bloomington IN United States
+AUTHOR 26: LeiliShahriyari
+  Affiliations: Department of Mathematics and Statistics, Department of Mathematics and Statistics; University of Massachusetts Amherst, Amherst MA United States
+AUTHOR 27: IlyaShmulevich
+  Affiliations: Institute for Systems Biology, Institute for Systems Biology, Seattle WA United States
+AUTHOR 28: DanielGStover
+  Affiliations: Division of Medical Oncology, Division of Medical Oncology; Department of Medicine; The Ohio State University Comprehensive Cancer Center, Columbus OH United States
+AUTHOR 29: YiSun
+  Affiliations: Department of Mathematics, Department of Mathematics; University of South Carolina, Columbia SC United States
+AUTHOR 30: TanveerSyeda-Mahmood
+  Affiliations: Almaden Research Center; IBM Research, San Jose CA United States
+AUTHOR 31: JinhuaWang
+  Affiliations: Institute for Health Informatics and the Masonic Cancer Center, Institute for Health Informatics and the Masonic Cancer Center; University of Minnesota, Minneapolis MN United States
+AUTHOR 32: QiWang
+  Affiliations: Department of Mathematics, Department of Mathematics; University of South Carolina, Columbia SC United States
+AUTHOR 33: IoannisZervantonakis
+  Affiliations: Department of Bioengineering, Department of Bioengineering; UPMC Hillman Cancer Center; University of Pittsburgh, Pittsburgh PA United States
+AUTHOR 34: Unknown
+  Affiliations: Monash University, Australia
+AUTHOR 35: Unknown
+  Affiliations: Mount Sinai Genomics, Inc, United States
+AUTHOR 36: Unknown
+  Affiliations: Camelia Quek
+AUTHOR 37: Unknown
+  Affiliations: Melanoma Institute Australia, Australia
+================================================================================
+
+EDITED BY
+Chenglong Yu,
+Monash University, Australia
+REVIEWED BY
+Yu Leng Phua,
+Mount Sinai Genomics, Inc., United States
+Camelia Quek,
+Melanoma Institute Australia, Australia
+*CORRESPONDENCE
+Eric A. Stahlberg
+eric.stahlberg@nih.gov
+SPECIALTY SECTION
+This article was submitted to Personalized
+Medicine, a section of the journal Frontiers in
+Digital Health
+RECEIVED 30 July 2022
+ACCEPTED 30 August 2022
+PUBLISHED 06 October 2022
+CITATION
+Stahlberg EA, Abdel-Rahman M, Aguilar B,
+Asadpoure A, Beckman RA, Borkon LL,
+Bryan JN, Cebulla CM, Chang YH, Chatterjee A,
+Deng J, Dolatshahi S, Gevaert O, Greenspan EJ,
+Hao W, Hernandez-Boussard T, Jackson PR,
+Kuijjer M, Lee A, Macklin P, Madhavan S,
+McCoy MD, Mohammad Mirzaei N, Razzaghi T,
+Rocha HL, Shahriyari L, Shmulevich I, Stover DG,
+Sun Y, Syeda-Mahmood T, Wang J, Wang Q and
+Zervantonakis I (2022) Exploring approaches for
+predictive cancer patient digital twins:
+Opportunities for collaboration and innovation.
+Front. Digit. Health 4:1007784.
+doi: 10.3389/fdgth.2022.1007784
+COPYRIGHT
+© 2022 Stahlberg, Abdel-Rahman, Aguilar,
+Asadpoure, Beckman, Borkon, Bryan, Cebulla,
+Chang, Chatterjee, Deng, Dolatshahi, Gevaert,
+Greenspan, Hao, Hernandez-Boussard,
+Jackson, Kuijjer, Lee, Macklin, Madhavan,
+McCoy, Mohammed Mirzaei, Razzaghi, Rocha,
+Shahriyari, Shmulevich, Stover, Sun, Syeda-
+Mahmood, Wang, Wang and Zervantonakis.
+This is an open-access article distributed under
+the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Frontiers in Digital Health
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

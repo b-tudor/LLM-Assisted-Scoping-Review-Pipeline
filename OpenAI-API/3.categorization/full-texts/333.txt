@@ -1,0 +1,56 @@
+TITLE: A Computational Platform Integrating a Mechanistic Model of Crohn's Disease for Predicting Temporal Progression of Mucosal Damage and Healing
+AUTHOR 1: SaiPhanindra (ORCID: 0000-0002-3816-7418)
+AUTHOR 2: VenkatapurapuRyuichi [CORRESPONDING] <sai.phanindra.venkatapurapu@pwc.com>
+AUTHOR 3: IwakiriEri
+AUTHOR 4: UdagawaNikhil
+AUTHOR 5: PatidarZhen
+AUTHOR 6: QiRyoko
+AUTHOR 7: TakayamaKei
+AUTHOR 8: YukiSato
+AUTHOR 9: BeharMarcelo
+AUTHOR 10: OffnerPatrick
+AUTHOR 11: DwivediGaurav
+AUTHOR 12: MiyasakaHaruna
+AUTHOR 13: KenRyohsuke
+AUTHOR 14: Suzuki
+AUTHOR 15: LissaAnna
+AUTHOR 16: Hamada
+AUTHOR 17: M. D'AlessandroJovellePaul
+AUTHOR 18: Fernandez
+AUTHOR 19: SPVenkatapurapu
+AUTHOR 20: NPatidar
+AUTHOR 21: ÁZQi
+AUTHOR 22: ÁMBehar
+AUTHOR 23: ÁPOffner
+AUTHOR 24: ÁGDwivedi
+AUTHOR 25: 'Alessandro
+AUTHOR 26: RIwakiri
+AUTHOR 27: ÁEUdagawa
+AUTHOR 28: ÁHMiyasaka
+AUTHOR 29: ÁR KSuzuki
+AUTHOR 30: ÁA LHamada
+AUTHOR 31: ÁJFernandez
+AUTHOR 32: RTakayama
+AUTHOR 33: ÁKKumar
+AUTHOR 34: ÁYSato
+AUTHOR 35: AdvTher
+AUTHOR 36: Unknown
+  Affiliations: PricewaterhouseCoopers LLP, PricewaterhouseCoopers LLP, 301 Grant Street, Suite 4500 15219 Pittsburgh PA USA
+AUTHOR 37: Unknown
+  Affiliations: Japan Medical Office, Japan Medical Office; Takeda Pharmaceutical Company Limited, Tokyo Japan
+AUTHOR 38: Unknown
+  Affiliations: Otemachi One Tower, Otemachi One Tower; PwC Consulting LLC, 1-2-1 Otemachi, Chiyoda-ku 100-0004 Tokyo Japan
+================================================================================
+
+Adv Ther
+https://doi.org/10.1007/s12325-022-02144-y
+ORIGINAL RESEARCH
+Sai Phanindra Venkatapurapu
+Nikhil Patidar . Zhen Qi . Ryoko Takayama . Kei Kumar .
+Yuki Sato . Marcelo Behar . Patrick Offner . Gaurav Dwivedi .
+Haruna Miyasaka . Ryohsuke Ken Suzuki . Anna Lissa Hamada .
+Paul M. D’Alessandro . Jovelle Fernandez
+Received: December 14, 2021 / Accepted: March 24, 2022
+(cid:2) The Author(s) 2022, corrected publication (2022)
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

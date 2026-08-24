@@ -1,0 +1,27 @@
+TITLE: Use of a Digital Twin Virtual Patient Simulator in Critical Care Education: A Pilot Study
+AUTHOR 1: PJGary
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 2: LRovati
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 3: YDong
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Department of Anesthesiology and Perioperative Medicine; Mayo Clinic, Rochester MN | United States
+AUTHOR 4: ALal
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 5: ECubro
+  Affiliations: Division of Information Technology, Division of Information Technology; Mayo Clinic, Rochester MN United States
+AUTHOR 6: MWörster
+  Affiliations: Department of Medicine, Department of Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 7: OKilickaya
+  Affiliations: Department of Anesthesiology and Perioperative Medicine, Department of Anesthesiology and Perioperative Medicine; Mayo Clinic, Rochester MN | United States
+AUTHOR 8: DKelm
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 9: OGajic
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+AUTHOR 10: ASNiven
+  Affiliations: Division of Pulmonary and Critical Care Medicine, Division of Pulmonary and Critical Care Medicine; Mayo Clinic, Rochester MN United States
+================================================================================
+
+Am J Respir Crit Care Med 2023;207:A1681
+Internet address: www.atsjournals.org
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

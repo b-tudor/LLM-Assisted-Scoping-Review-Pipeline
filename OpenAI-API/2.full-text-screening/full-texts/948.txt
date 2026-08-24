@@ -1,0 +1,64 @@
+TITLE: A multiscale predictive digital twin for neurocardiac modulation
+AUTHOR 1: Pei‐chiYang
+AUTHOR 2: AdamRose
+AUTHOR 3: KevinRDemarco
+AUTHOR 4: JohnR DDawson
+  Affiliations: of Physiology, of Physiology
+AUTHOR 5: YanxiaoHan
+AUTHOR 6: Mao‐tsuenJeng
+AUTHOR 7: RobertDHarvey (ORCID: 0000-0002-8499-8765)
+  Affiliations: of Physiology, of Physiology
+AUTHOR 8: LFernandoSantana (ORCID: 0000-0002-4297-8029)
+  Affiliations: of Physiology, of Physiology
+AUTHOR 9: CrystalMRipplinger (ORCID: 0000-0002-9908-4106)
+  Affiliations: of Physiology, of Physiology
+AUTHOR 10: IgorVorobyov [CORRESPONDING] (ORCID: 0000-0002-4767-5297) <ivorobyov@ucdavis.edu>
+  Affiliations: of Physiology, of Physiology
+AUTHOR 11: TimothyJLewis [CORRESPONDING] <tjlewis@ucdavis.edu>
+  Affiliations: of Physiology, of Physiology
+AUTHOR 12: ColleenEClancy [CORRESPONDING] (ORCID: 0000-0001-6849-4885) <ceclancy@ucdavis.edu>
+  Affiliations: of Physiology, of Physiology
+================================================================================
+
+y
+g
+o
+l
+o
+i
+s
+y
+h
+P
+f
+o
+l
+a
+n
+r
+u
+o
+J
+e
+h
+T
+
+J Physiol 601.17 (2023) pp 3789–3812
+A multiscale predictive digital twin for neurocardiac
+modulation
+Pei-Chi Yang1, Adam Rose2, Kevin R. DeMarco1, John R. D. Dawson1, Yanxiao Han1, Mao-Tsuen Jeng1,
+Robert D. Harvey3
+Timothy J. Lewis2 and Colleen E. Clancy1,5
+, Crystal M. Ripplinger4
+, L. Fernando Santana1
+1Department of Physiology and Membrane Biology, University of California Davis, Davis, CA, USA
+2Department of Mathematics, University of California Davis, Davis, CA, USA
+3Department of Pharmacology, University of Nevada, Reno, NV, USA
+4Department of Pharmacology, University of California Davis, Davis, CA, USA
+5Center for Precision Medicine and Data Science, University of California Davis, Sacramento, CA, USA
+Handling Editors: Natalia Trayanova & Brian Delisle
+The peer review history is available in the Supporting Information section of this article
+(https://doi.org/10.1113/JP284391#support-information-section).
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

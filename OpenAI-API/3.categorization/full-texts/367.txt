@@ -1,0 +1,13 @@
+TITLE: Implementing a Blockchain Based System for Healthcare Applications Using Digital Twin
+AUTHOR 1: BouchraZinabBenattia
+AUTHOR 2: NourElHouda Maicha
+AUTHOR 3: ChakerAbdelazizKerrache [CORRESPONDING] <ch.kerrache@lagh-univ.dz>
+  Affiliations: Dpt. of Computer Science, Dpt. of Computer Science; Université Amar Telidji de Laghouat Laghouat, Algeria
+AUTHOR 4: GeetanjaliRathee [CORRESPONDING] <geetanjali.rathee123@gmail.com>
+  Affiliations: Dpt. of Computer Science and Engineering, Dpt. of Computer Science and Engineering; Netaji Subhas University of Technology, New Delhi-110078 India
+AUTHOR 5: CarlosTCalafate [CORRESPONDING] <calafate@disca.upv.es>
+  Affiliations: Dpt. of Computer Engineering Universitat Politècnica de València València, Dpt. of Computer Engineering Universitat Politècnica de València València, Spain
+================================================================================
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

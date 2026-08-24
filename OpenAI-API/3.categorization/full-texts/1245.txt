@@ -1,0 +1,39 @@
+TITLE: UEG Week 2021 Poster Presentations
+AUTHOR 1: RIwakiri
+  Affiliations: Medical Office, Medical Office; Takeda Pharmaceutical Company Limited, Tokyo Japan, Japan
+AUTHOR 2: EUdagawa
+  Affiliations: Medical Office, Medical Office; Takeda Pharmaceutical Company Limited, Tokyo Japan, Japan
+AUTHOR 3: TKobayashi
+  Affiliations: Center for Advanced IBD Research and Treatment, Center for Advanced IBD Research and Treatment; Kitasato University Kitasato Institute Hospital, Tokyo Japan
+AUTHOR 4: NPatidar
+  Affiliations: PricewaterhouseCoopers Advisory Services LLC, New York United States
+AUTHOR 5: SPVenkatapurapu
+  Affiliations: PricewaterhouseCoopers Advisory Services LLC, New York United States
+AUTHOR 6: MBehar
+  Affiliations: PricewaterhouseCoopers Advisory Services LLC, New York United States
+AUTHOR 7: RTakayama
+  Affiliations: PwC Consulting LLC, Tokyo Japan
+AUTHOR 8: PD'alessandro
+  Affiliations: PricewaterhouseCoopers Advisory Services LLC, New York United States
+AUTHOR 9: JFernandez
+  Affiliations: Medical Office, Medical Office; Takeda Pharmaceutical Company Limited, Tokyo Japan, Japan
+================================================================================
+
+D
+B
+I
+P0388 
+EVALUATION OF A COMPUTATIONAL PLATFORM FOR PREDICTING 
+TEMPORAL PROGRESSION OF MUCOSAL DAMAGE AND HEALING IN 
+PATIENTS WITH CROHN’S DISEASE 
+R. Iwakiri1, E. Udagawa1, T. Kobayashi2, N. Patidar3, 
+S.P. Venkatapurapu3, M. Behar3, R. Takayama4, P. D’Alessandro3, 
+J. Fernandez1
+1Takeda Pharmaceutical Company Limited, Japan Medical Office, 
+Tokyo, Japan, 2Kitasato University Kitasato Institute Hospital, 
+Center for Advanced IBD Research and Treatment, Tokyo, Japan, 
+3PricewaterhouseCoopers Advisory Services LLC, New York, United 
+States, 4PwC Consulting LLC, Tokyo, Japan 
+Contact E-Mail Address: ryuichi.iwakiri@takeda.com
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

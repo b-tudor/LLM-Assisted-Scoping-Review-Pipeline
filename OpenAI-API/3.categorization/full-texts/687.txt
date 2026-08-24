@@ -1,0 +1,36 @@
+TITLE: Metaverse and Medical Diagnosis: A Blockchain-Based Digital Twinning Approach Based on MobileNetV2 Algorithm for Cervical Vertebral Maturation
+AUTHOR 1: OmidMoztarzadeh (ORCID: 0000-0002-4768-2382)
+  Affiliations: of in
+AUTHOR 2: Mohammad(behdad)Jamshidi (ORCID: 0000-0002-5312-6497)
+AUTHOR 3: SalehSargolzaei (ORCID: 0009-0006-1471-3337)
+  Affiliations: of in
+AUTHOR 4: FatemehKeikhaee
+  Affiliations: of in
+AUTHOR 5: AlirezaJamshidi
+  Affiliations: of in
+AUTHOR 6: ShabnamShadroo
+  Affiliations: of in
+AUTHOR 7: LukasHauer (ORCID: 0000-0001-6639-2690)
+  Affiliations: of in
+================================================================================
+
+Article
+Metaverse and Medical Diagnosis: A Blockchain-Based Digital
+Twinning Approach Based on MobileNetV2 Algorithm for
+Cervical Vertebral Maturation
+Omid Moztarzadeh 1,2
+Alireza Jamshidi 6, Shabnam Shadroo 4 and Lukas Hauer 1
+, Mohammad (Behdad) Jamshidi 3,*
+, Saleh Sargolzaei 4
+1 Department of Stomatology, University Hospital Pilsen, Faculty of Medicine in Pilsen, Charles University,
+323 00 Pilsen, Czech Republic
+2 Department of Anatomy, Faculty of Medicine in Pilsen, Charles University, 323 00 Pilsen, Czech Republic
+3
+Faculty of Electrical Engineering, University of West Bohemia, Univerzitní 22, 306 14 Pilsen, Czech Republic
+4 Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad 9187147578, Iran
+5 Department of Orthodontics, Faculty of Dentistry, Zahedan University of Medical Sciences,
+Zahedan 9816743463, Iran
+6 Dentistry School, Babol University of Medical Sciences, Babol 4717647745, Iran
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

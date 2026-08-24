@@ -1,0 +1,16 @@
+TITLE: ReplayBG: A Digital Twin-Based Methodology to Identify a Personalized Model From Type 1 Diabetes Data and Simulate Glucose Concentrations to Assess Alternative Therapies
+AUTHOR 1: GiacomoCappon (ORCID: 0000-0003-4358-9268)
+AUTHOR 2: MartinaVettoretti (ORCID: 0000-0002-5020-1818)
+AUTHOR 3: GiovanniSparacino (ORCID: 0000-0002-3248-1393)
+AUTHOR 4: SimoneDelFavero (ORCID: 0000-0002-8214-2752)
+AUTHOR 5: AndreaFacchinetti [CORRESPONDING] (ORCID: 0000-0001-8041-2280) <facchine@dei.unipd.it>
+AUTHOR 6: Unknown
+  Affiliations: Department of Information Engineering, University of Padova,, Italy. 35131 Padova, Italy
+AUTHOR 7: Unknown
+  Affiliations: Department of Information Engineering, University of Padova,
+================================================================================
+
+IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING, VOL. 70, NO. 11, NOVEMBER 2023
+ReplayBG: A Digital Twin-Based Methodology to
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

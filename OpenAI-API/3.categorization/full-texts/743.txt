@@ -1,0 +1,43 @@
+TITLE: Simulation of Image-Guided Microwave Ablation Therapy Using a Digital Twin Computational Model
+AUTHOR 1: FrankangelServin [CORRESPONDING] (ORCID: 0009-0008-8511-0052) <frankangel.servin@vanderbilt.edu>
+AUTHOR 2: JarrodACollins [CORRESPONDING] (ORCID: 0000-0003-4388-1779) <jarrod.collins@inarimedical.com>
+AUTHOR 3: JonSHeiselman [CORRESPONDING] (ORCID: 0000-0002-4414-8846) <jon.s.heiselman@vanderbilt.edu>
+AUTHOR 4: KatherineCFrederick-Dyer (ORCID: 0000-0002-3281-1452)
+AUTHOR 5: VirginiaBPlanz [CORRESPONDING] (ORCID: 0000-0002-8365-2324) <virginia.planz@vumc.org>
+AUTHOR 6: SunilKGeevarghese [CORRESPONDING] (ORCID: 0000-0001-6356-0310) <s.geevarghese@vumc.or>
+AUTHOR 7: DanielBBrown [CORRESPONDING] <daniel.b.brown@vanderbilt.edu>
+AUTHOR 8: WilliamRJarnagin [CORRESPONDING] (ORCID: 0000-0002-1635-5768) <jarnagiw@mskcc.org>
+AUTHOR 9: MichaelIMiga [CORRESPONDING] (ORCID: 0000-0002-0694-9765) <michael.i.miga@vanderbilt.edu>
+AUTHOR 10: Unknown
+  Affiliations: Department of Biomedical Engineering, Vanderbilt University,, Nashville, TN 37235 USA, Nashville, TN 37235 USA Nashville, TN 37235 USA Nashville, TN 37235 USA, Nashville, TN 37235 USA, New York, NY 10065 USA Nashville, TN 37235 USA Nashville, TN 37235 USA New York, NY 10065 USA Nashville, TN 37235 USA, Nashville, TN 37235 USA, Nashville, TN 37235 USA, Nashville, TN 37235 USA, Nashville, TN 37235 USA
+AUTHOR 11: Unknown
+  Affiliations: Vanderbilt Institute for Surgery and Engineering, Vanderbilt University,
+AUTHOR 12: Unknown
+  Affiliations: Department of Biomedical Engineering, Vanderbilt University,
+AUTHOR 13: Unknown
+  Affiliations: Department of Biomedical Engineering, Vanderbilt University,
+AUTHOR 14: Unknown
+  Affiliations: Vanderbilt Institute for Surgery and Engineering, Vanderbilt University,
+AUTHOR 15: Unknown
+  Affiliations: Department of Surgery, Hepatopancreatobiliary Service, Memorial Sloan Kettering Cancer Center,
+AUTHOR 16: Unknown
+  Affiliations: Department of Radiology, Vanderbilt University Medical Center,
+AUTHOR 17: Unknown
+  Affiliations: Department of Surgery, Vanderbilt University Medical Center,
+AUTHOR 18: Unknown
+  Affiliations: Department of Surgery, Hepatopancreatobiliary Service, Memorial Sloan Kettering Cancer Center,
+AUTHOR 19: Unknown
+  Affiliations: Department of Biomedical Engineering, Vanderbilt University,
+AUTHOR 20: Unknown
+  Affiliations: Vanderbilt Institute for Surgery and Engineering, Vanderbilt University,
+AUTHOR 21: Unknown
+  Affiliations: Department of Radiology, Vanderbilt University Medical Center,
+AUTHOR 22: Unknown
+  Affiliations: partment of Neurological Surgery, Vanderbilt University Medical Center,
+AUTHOR 23: Unknown
+  Affiliations: Department of Otolaryngology, Vanderbilt University Medical Center,
+================================================================================
+
+VOLUME 5, 2024
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

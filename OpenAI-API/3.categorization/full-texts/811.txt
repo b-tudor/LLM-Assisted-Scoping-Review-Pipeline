@@ -1,0 +1,85 @@
+TITLE: Parameter subset reduction for imaging-based digital twin generation of patients with left ventricular mechanical discoordination
+AUTHOR 1: TijmenKoopsen [CORRESPONDING] <t.koopsen@maastrichtuniversity.nl>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands
+AUTHOR 2: NickVan Osta
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands
+AUTHOR 3: TimVan Loon
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands
+AUTHOR 4: RoelMeiburg
+  Affiliations: Group SIMBIOTX, Institut de Recherche en Informatique et en Automatique (INRIA), Group SIMBIOTX; Institut de Recherche en Informatique et en Automatique (INRIA), Paris France
+AUTHOR 5: WouterHuberts
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands | Department of Biomedical Engineering, Department of Biomedical Engineering; Eindhoven University of Technology, Eindhoven The Netherlands
+AUTHOR 6: AhmedSBeela
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands | Department of Cardiology, Department of Cardiology; Suez Canal University, Ismailia Egypt
+AUTHOR 7: FeddoPKirkels
+  Affiliations: Division of Heart and Lungs, Division of Heart and Lungs | Department of Cardiology, Department of Cardiology | University Medical Center Utrecht (UMCU), University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 8: BasRVan Klarenbosch
+  Affiliations: Division of Heart and Lungs, Division of Heart and Lungs | Department of Cardiology, Department of Cardiology | University Medical Center Utrecht (UMCU), University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 9: ArcoJTeske
+  Affiliations: Division of Heart and Lungs, Division of Heart and Lungs | Department of Cardiology, Department of Cardiology | University Medical Center Utrecht (UMCU), University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 10: MaartenJCramer
+  Affiliations: Division of Heart and Lungs, Division of Heart and Lungs | Department of Cardiology, Department of Cardiology | University Medical Center Utrecht (UMCU), University Medical Center Utrecht (UMCU), Utrecht The Netherlands
+AUTHOR 11: GeertruidaPBijvoet
+  Affiliations: Department of Cardiology, Department of Cardiology | Cardiovascular Research Institute Maastricht (CARIM), Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands | Department of Cardiology, Department of Cardiology | Maastricht University Medical Center (MUMC), Maastricht University Medical Center (MUMC), Maastricht The Netherlands
+AUTHOR 12: AntoniusVan Stipdonk
+  Affiliations: Department of Cardiology, Department of Cardiology | Maastricht University Medical Center (MUMC), Maastricht University Medical Center (MUMC), Maastricht The Netherlands
+AUTHOR 13: KevinVernooy
+  Affiliations: Department of Cardiology, Department of Cardiology | Cardiovascular Research Institute Maastricht (CARIM), Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands | Department of Cardiology, Department of Cardiology | Maastricht University Medical Center (MUMC), Maastricht University Medical Center (MUMC), Maastricht The Netherlands | Department of Cardiology, Department of Cardiology; Radboud University Medical Center, Nijmegen The Netherlands
+AUTHOR 14: TammoDelhaas
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands
+AUTHOR 15: JoostLumens [CORRESPONDING] <joost.lumens@maastrichtuniversity.nl>
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; Cardiovascular Research Institute Maastricht (CARIM); Maastricht University, Maastricht The Netherlands
+================================================================================
+
+Koopsen et al. BioMedical Engineering OnLine           (2024) 23:46  
+https://doi.org/10.1186/s12938‑024‑01232‑0
+RESEARCH
+Parameter subset reduction 
+for imaging‑based digital twin generation 
+of patients with left ventricular mechanical 
+discoordination
+Tijmen Koopsen1*, Nick van Osta1, Tim van Loon1, Roel Meiburg2, Wouter Huberts1,3, Ahmed S. Beela1,4, 
+Feddo P. Kirkels5, Bas R. van Klarenbosch5, Arco J. Teske5, Maarten J. Cramer5, Geertruida P. Bijvoet6,7, 
+Antonius van Stipdonk7, Kevin Vernooy6,7,8, Tammo Delhaas1 and Joost Lumens1* 
+*Correspondence:   
+t.koopsen@maastrichtuniversity.nl; 
+joost.lumens@maastrichtuniversity.
+nl
+Abstract 
+1 Department of Biomedical 
+Engineering, Cardiovascular 
+Research Institute Maastricht 
+(CARIM), Maastricht University, 
+Maastricht, The Netherlands
+2 Group SIMBIOTX, Institut de 
+Recherche en Informatique et 
+en Automatique (INRIA), Paris, 
+France
+3 Department of Biomedical 
+Engineering, Eindhoven 
+University of Technology, 
+Eindhoven, The Netherlands
+4 Department of Cardiology, Suez 
+Canal University, Ismailia, Egypt
+5 Division of Heart and Lungs, 
+Department of Cardiology, 
+University Medical Center 
+Utrecht (UMCU), Utrecht, The 
+Netherlands
+6 Department of Cardiology, 
+Cardiovascular Research Institute 
+Maastricht (CARIM), Maastricht 
+University, Maastricht, The 
+Netherlands
+7 Department of Cardiology, 
+Maastricht University Medical 
+Center (MUMC), Maastricht, The 
+Netherlands
+8 Department of Cardiology, 
+Radboud University Medical 
+Center, Nijmegen, The 
+Netherlands
+
+
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

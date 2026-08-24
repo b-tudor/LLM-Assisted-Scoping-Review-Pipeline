@@ -1,0 +1,233 @@
+{
+  "filename": "001.pdf",
+  "title": "A scoping review of human digital twins in healthcare applications and usage patterns",
+  "abstract": "",
+  "authors": [
+    {
+      "full_name": "BrantHTudor",
+      "given": "Brant",
+      "family": "Tudor",
+      "orcid": "",
+      "email": "brant.tudor@jhmi.edu",
+      "corresponding": true,
+      "affiliations": [
+        {
+          "organization": "Center for Pediatric Data Science and Analytic Methodology; Johns Hopkins All Children's Hospital",
+          "department": "Center for Pediatric Data Science and Analytic Methodology",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        },
+        {
+          "organization": "Department of Anesthesiology and Critical Care Medicine; Johns Hopkins University School of Medicine",
+          "department": "Department of Anesthesiology and Critical Care Medicine",
+          "laboratories": "",
+          "address": "Baltimore MD USA"
+        }
+      ]
+    },
+    {
+      "full_name": "RyanShargo",
+      "given": "Ryan",
+      "family": "Shargo",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "University of South Florida; Morsani College of Medicine",
+          "department": "",
+          "laboratories": "",
+          "address": "Tampa FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "GeoffreyMGray",
+      "given": "Geoffrey",
+      "family": "Gray",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Center for Pediatric Data Science and Analytic Methodology; Johns Hopkins All Children's Hospital",
+          "department": "Center for Pediatric Data Science and Analytic Methodology",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        },
+        {
+          "organization": "Department of Anesthesia and Pain Medicine; Johns Hopkins All Children's Hospital",
+          "department": "Department of Anesthesia and Pain Medicine",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "JamieLFierstein",
+      "given": "Jamie",
+      "family": "Fierstein",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Department of Anesthesiology and Critical Care Medicine; Johns Hopkins University School of Medicine",
+          "department": "Department of Anesthesiology and Critical Care Medicine",
+          "laboratories": "",
+          "address": "Baltimore MD USA"
+        },
+        {
+          "organization": "Epidemiology and Biostatistics Shared Resource; Institute for Clinical and Translational Research; Johns Hopkins All Children's Hospital",
+          "department": "Epidemiology and Biostatistics Shared Resource",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "FrederickHKuo",
+      "given": "Frederick",
+      "family": "Kuo",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Department of Anesthesiology and Critical Care Medicine; Johns Hopkins University School of Medicine",
+          "department": "Department of Anesthesiology and Critical Care Medicine",
+          "laboratories": "",
+          "address": "Baltimore MD USA"
+        },
+        {
+          "organization": "Department of Anesthesia and Pain Medicine; Johns Hopkins All Children's Hospital",
+          "department": "Department of Anesthesia and Pain Medicine",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "RobertBurton",
+      "given": "Robert",
+      "family": "Burton",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Clark University",
+          "department": "",
+          "laboratories": "",
+          "address": "Worcester MA USA"
+        }
+      ]
+    },
+    {
+      "full_name": "JoyceTJohnson",
+      "given": "Joyce",
+      "family": "Johnson",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Heart Institute; Johns Hopkins All Children's Hospital",
+          "department": "Heart Institute",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "BrandiBScully",
+      "given": "Brandi",
+      "family": "Scully",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Heart Institute; Johns Hopkins All Children's Hospital",
+          "department": "Heart Institute",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        },
+        {
+          "organization": "Division of Pediatric Cardiac Surgery; Department of Cardiac Surgery; Johns Hopkins University School of Medicine",
+          "department": "Division of Pediatric Cardiac Surgery",
+          "laboratories": "",
+          "address": "Baltimore MD USA"
+        }
+      ]
+    },
+    {
+      "full_name": "AlfredAsante-Korang",
+      "given": "Alfred",
+      "family": "Asante-Korang",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Heart Institute; Johns Hopkins All Children's Hospital",
+          "department": "Heart Institute",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "MohamedARehman",
+      "given": "Mohamed",
+      "family": "Rehman",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Center for Pediatric Data Science and Analytic Methodology; Johns Hopkins All Children's Hospital",
+          "department": "Center for Pediatric Data Science and Analytic Methodology",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        },
+        {
+          "organization": "Department of Anesthesiology and Critical Care Medicine; Johns Hopkins University School of Medicine",
+          "department": "Department of Anesthesiology and Critical Care Medicine",
+          "laboratories": "",
+          "address": "Baltimore MD USA"
+        },
+        {
+          "organization": "Department of Anesthesia and Pain Medicine; Johns Hopkins All Children's Hospital",
+          "department": "Department of Anesthesia and Pain Medicine",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    },
+    {
+      "full_name": "LuisMAhumada",
+      "given": "Luis",
+      "family": "Ahumada",
+      "orcid": "",
+      "email": "",
+      "corresponding": false,
+      "affiliations": [
+        {
+          "organization": "Center for Pediatric Data Science and Analytic Methodology; Johns Hopkins All Children's Hospital",
+          "department": "Center for Pediatric Data Science and Analytic Methodology",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        },
+        {
+          "organization": "Department of Anesthesia and Pain Medicine; Johns Hopkins All Children's Hospital",
+          "department": "Department of Anesthesia and Pain Medicine",
+          "laboratories": "",
+          "address": "St. Petersburg FL USA"
+        }
+      ]
+    }
+  ],
+  "used_ocr": false,
+  "column_method": "pdfminer-column-heuristic"
+}

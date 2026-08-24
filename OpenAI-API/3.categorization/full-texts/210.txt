@@ -1,0 +1,80 @@
+TITLE: A digital twin model for evidence-based clinical decision support in multiple myeloma treatment
+AUTHOR 1: NoraGrieb [CORRESPONDING] <nora.grieb@medizin.uni-leipzig.de>
+  Affiliations: CORRESPONDENCE Nora Grieb, CORRESPONDENCE Nora Grieb | Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 2: LukasSchmierer
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 3: HyeonUngKim
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 4: SarahStrobel
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 5: ChristianSchulz
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 6: TimMeschke
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 7: AnneSophieKubasch
+  Affiliations: Department of Hematology, Department of Hematology; Cellular Therapy and Infectiology; University Hospital of Leipzig, Hemostaseology, Leipzig Germany
+AUTHOR 8: AnnamariaBrioli
+  Affiliations: Clinic of Internal Medicine C, Hematology and Oncology, Stem Cell Transplantation and Palliative Care, Clinic of Internal Medicine C, Hematology and Oncology; Stem Cell Transplantation and Palliative Care; Greifswald University Medicine, Greifswald Germany
+AUTHOR 9: UwePlatzbecker
+  Affiliations: Department of Hematology, Department of Hematology; Cellular Therapy and Infectiology; University Hospital of Leipzig, Hemostaseology, Leipzig Germany
+AUTHOR 10: ThomasNeumuth
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 11: MaximilianMerz
+  Affiliations: Department of Hematology, Department of Hematology; Cellular Therapy and Infectiology; University Hospital of Leipzig, Hemostaseology, Leipzig Germany
+AUTHOR 12: AlexanderOeser
+  Affiliations: Innovation Center Computer Assisted Surgery (ICCAS), Innovation Center Computer Assisted Surgery (ICCAS); University of Leipzig, Leipzig Germany
+AUTHOR 13: Unknown
+  Affiliations: University Hospital Carl Gustav Carus, Germany
+AUTHOR 14: Unknown
+  Affiliations: Anderson Cancer Center, Anderson Cancer Center; University of Texas MD, United States
+AUTHOR 15: Unknown
+  Affiliations: Beenish Chaudhry
+AUTHOR 16: Unknown
+  Affiliations: University of Louisiana at Lafayette, United States
+================================================================================
+
+EDITED BY
+Tjalf Ziemssen,
+University Hospital Carl Gustav Carus,
+Germany
+REVIEWED BY
+Sheng-Chieh Lu,
+University of Texas MD Anderson Cancer
+Center, United States
+Beenish Chaudhry,
+University of Louisiana at Lafayette,
+United States
+*CORRESPONDENCE
+Nora Grieb
+nora.grieb@medizin.uni-leipzig.de
+RECEIVED 19 October 2023
+ACCEPTED 05 December 2023
+PUBLISHED 20 December 2023
+CITATION
+Grieb N, Schmierer L, Kim HU, Strobel S,
+Schulz C, Meschke T, Kubasch AS, Brioli A,
+Platzbecker U, Neumuth T, Merz M and
+Oeser A (2023) A digital twin model for
+evidence-based clinical decision support in
+multiple myeloma treatment.
+Front. Digit. Health 5:1324453.
+doi: 10.3389/fdgth.2023.1324453
+COPYRIGHT
+© 2023 Grieb, Schmierer, Kim, Strobel, Schulz,
+Meschke, Kubasch, Brioli, Platzbecker,
+Neumuth, Merz and Oeser. This is an open-
+access article distributed under the terms of
+the Creative Commons Attribution License
+(CC BY). The use, distribution or reproduction
+in other forums is permitted, provided the
+original author(s) and the copyright owner(s)
+are credited and that the original publication in
+this journal is cited, in accordance with
+accepted academic practice. No use,
+distribution or reproduction is permitted
+which does not comply with these terms.
+Frontiers in Digital Health
+
+KEYWORDS
+01
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

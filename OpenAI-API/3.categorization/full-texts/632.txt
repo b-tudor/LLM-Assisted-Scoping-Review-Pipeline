@@ -1,0 +1,65 @@
+TITLE: Towards patient-specific prediction of conduction abnormalities induced by transcatheter aortic valve implantation: a combined mechanistic modelling and machine learning approach
+AUTHOR 1: ValeriaGalli [CORRESPONDING] (ORCID: 0000-0001-8522-3251) <valeria_galli@outlook.com>
+  Affiliations: FEops NV, FEops NV, Technologiepark 122 9052 Ghent Belgium
+AUTHOR 2: FilipLoncaric (ORCID: 0000-0002-7865-1108)
+  Affiliations: Institute of Biomedical Research August Pi Sunyer (IDIBAPS), Institute of Biomedical Research August Pi Sunyer (IDIBAPS), Carrer del Rossello ´ 149, 08036 Barcelona Spain
+AUTHOR 3: GiorgiaRocatello
+  Affiliations: FEops NV, FEops NV, Technologiepark 122 9052 Ghent Belgium
+AUTHOR 4: PatricioAstudillo
+  Affiliations: FEops NV, FEops NV, Technologiepark 122 9052 Ghent Belgium
+AUTHOR 5: LauraSanchis
+  Affiliations: Cardiovascular Institute, Hospital Clı ´nic and Universitat de Barcelona, C. de Villarroel, 170 08036 Barcelona Spain
+AUTHOR 6: AnderRegueiro
+  Affiliations: Cardiovascular Institute, Hospital Clı ´nic and Universitat de Barcelona, C. de Villarroel, 170 08036 Barcelona Spain
+AUTHOR 7: OleDe Backer
+  Affiliations: Department of Cardiology, Department of Cardiology; Rigshospitalet University Hospital, Blegdamsvej 9 2100 København Denmark
+AUTHOR 8: MartinSwaans
+  Affiliations: Department of Cardiology, Department of Cardiology; St. Antonius Ziekenhuis, Koekoekslaan 1 3435 CM Nieuwegein The Netherlands
+AUTHOR 9: JohanBosmans
+  Affiliations: Department of Cardiology, Department of Cardiology; University Hospital Antwerp, Drie Eikenstraat 655 2650 Edegem, Antwerp Belgium
+AUTHOR 10: JoanaMariaRibeiro
+  Affiliations: Department of Cardiology, Department of Cardiology; Erasmus MC, Doctor Molewaterplein 40 3015 GD Rotterdam The Netherlands
+AUTHOR 11: PabloLamata (ORCID: 0000-0002-3097-4928)
+  Affiliations: Department of Biomedical Engineering, Department of Biomedical Engineering; King's College London, WC2R 2LS Strand, London UK
+AUTHOR 12: MartaSitges (ORCID: 0000-0003-1300-4732)
+  Affiliations: Institute of Biomedical Research August Pi Sunyer (IDIBAPS), Institute of Biomedical Research August Pi Sunyer (IDIBAPS), Carrer del Rossello ´ 149, 08036 Barcelona Spain | Cardiovascular Institute, Hospital Clı ´nic and Universitat de Barcelona, C. de Villarroel, 170 08036 Barcelona Spain | Centro de Investigacio ´n Biome ´dica en Red de Enfermedades Cardiovasculares (CIBERCV), Centro de Investigacio ´n Biome ´dica en Red de Enfermedades Cardiovasculares (CIBERCV); Instituto de Salud Carlos III, Av. Monforte de Lemos, 3-5, Pabello ´n 11 Planta
+AUTHOR 13: PeterDe Jaegere
+  Affiliations: Department of Cardiology, Department of Cardiology; Erasmus MC, Doctor Molewaterplein 40 3015 GD Rotterdam The Netherlands
+AUTHOR 14: PeterMortier [CORRESPONDING] <peter.mortier@feops.com>
+  Affiliations: FEops NV, FEops NV, Technologiepark 122 9052 Ghent Belgium
+AUTHOR 15: Unknown
+  Affiliations: 28029 Madrid Spain
+================================================================================
+
+Aims
+
+ORIGINAL ARTICLE
+European Heart Journal - Digital Health (2021) 2, 606–615
+doi:10.1093/ehjdh/ztab063
+Towards patient-specific prediction of
+conduction abnormalities induced by
+transcatheter aortic valve implantation:
+a combined mechanistic modelling and
+machine learning approach
+1*†, Filip Loncaric
+2†, Giorgia Rocatello1, Patricio Astudillo1,
+Valeria Galli
+Laura Sanchis3, Ander Regueiro3, Ole De Backer4, Martin Swaans5, Johan Bosmans6,
+Joana Maria Ribeiro7, Pablo Lamata
+Peter Mortier1*
+8, Marta Sitges
+2,3,9, Peter de Jaegere7, and
+1FEops NV, Technologiepark 122, 9052 Ghent, Belgium; 2Institute of Biomedical Research August Pi Sunyer (IDIBAPS), Carrer del Rossello´ , 149, 08036, Barcelona, Spain;
+3Cardiovascular Institute, Hospital Clı´nic and Universitat de Barcelona, C. de Villarroel, 170, 08036 Barcelona, Spain; 4Department of Cardiology, Rigshospitalet University
+Hospital, Blegdamsvej 9, 2100 København, Denmark; 5Department of Cardiology, St. Antonius Ziekenhuis, Koekoekslaan 1, 3435 CM Nieuwegein, The Netherlands;
+6Department of Cardiology, University Hospital Antwerp, Drie Eikenstraat 655, 2650 Edegem, Antwerp, Belgium; 7Department of Cardiology, Erasmus MC, Doctor
+Molewaterplein 40, 3015 GD Rotterdam, The Netherlands; 8Department of Biomedical Engineering, King’s College London, Strand, London WC2R 2LS, UK; and 9Centro de
+Investigacio´n Biome´dica en Red de Enfermedades Cardiovasculares (CIBERCV), Instituto de Salud Carlos III, Av. Monforte de Lemos, 3-5, Pabello´ n 11, Planta 0 28029 Madrid,
+Spain
+Received 10 March 2021; revisied 12 May 2021 online publish-ahead-of-print 20 August 2021
+Post-procedure conduction abnormalities (CA) remain a common complication of transcatheter aortic valve im-
+plantation (TAVI), highlighting the need for personalized prediction models. We used machine learning (ML), inte-
+grating statistical and mechanistic modelling to provide a patient-speciﬁc estimation of the probability of developing
+CA after TAVI.
+
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]

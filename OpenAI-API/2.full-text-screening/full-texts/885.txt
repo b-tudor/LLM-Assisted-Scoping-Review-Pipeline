@@ -1,0 +1,35 @@
+TITLE: Clinical validation of a novel digital twin framework for ventricular functional substrate simulation in post-infarction patients
+AUTHOR 1: MParollo
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 2: ;NBiasi
+  Affiliations: Information Engineering Department, Information Engineering Department; University of Pisa, Pisa Italy
+AUTHOR 3: ;PSeghetti
+  Affiliations: Sant'Anna School of Advanced Studies, Sant'Anna School of Advanced Studies; Health Science Interdisciplinary Center, Pisa Italy
+AUTHOR 4: ;RDe Lucia
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 5: ;A DiCori
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 6: ;LSegreti
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 7: ;GGrifoni
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 8: ;FFiorentini
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 9: ;MTorre
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 10: ;VBarletta
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 11: ;ACanu
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 12: ;SSbragi
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 13: ;SViani
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+AUTHOR 14: ;ATognetti
+  Affiliations: Information Engineering Department, Information Engineering Department; University of Pisa, Pisa Italy
+AUTHOR 15: ;GZucchelli
+  Affiliations: Azienda Ospedaliero Universitaria Pisana; Second Division of Cardiology, Pisa Italy
+================================================================================
+
+Europace 2024 Volume 26 Supplement 1
+[ARTICLE TEXT REDACTED DUE TO COPYRIGHT]
