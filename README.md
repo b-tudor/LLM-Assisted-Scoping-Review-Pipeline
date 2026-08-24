@@ -10,3 +10,46 @@ The model we used was OpenAI's `gpt-oss-20b`
 
 ## pre-processing/
 This directory has utilities for preprocessing the input files: converting the body-text of the PDF files into text (.TXT) documents.
+
+
+
+## Development and Exploratory Evaluation of a Large Language Model-Supported Scoping Review Workflow
+Authors: Frederick H. Kuo MD*,<sup>1,2</sup>, Jamie L. Fierstein PhD2,3, Madeline de la Concha4, Yasmin Saeed BS5, Ryan Shargo56, Dina Ashour MBBS MPH3, Ernest Amankwah PhD.3, Ellis Crabtree PhD2,76, Mohamed A. Rehman MD1,2, Peter Najjar MD87, Khyzer Aziz MD98, Brant H. Tudor PhD.2,67 & Luis M. Ahumada PhD.2,67 
+
+ 
+
+Affiliations: 
+
+1Department of Anesthesia and Pain Medicine, Johns Hopkins All Children’s Hospital, St Petersburg, FL, USA. 
+
+2Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD, USA 
+
+3Epidemiology and Biostatistics Shared Resource, Institute for Clinical and Translational Research, Johns Hopkins All Children’s Hospital, St Petersburg, Florida, USA. 
+
+4Department of Biomedical Engineering, California Polytechnic State University, San Luis Obispo, CA, USA 
+
+5Lake Erie College of Osteopathic Medicine, Bradenton, FL, USA 
+
+6University of South Florida, Morsani College of Medicine, Tampa, FL, USA 
+
+67Center for Pediatric Data Science and Analytics Methodology, Johns Hopkins All Children's Hospital, St Petersburg, Florida, USA. 
+
+78Colorectal Research Unit, Department of Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA 
+
+89Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, MD, USA 
+
+ 
+
+*Corresponding author:  
+
+Frederick H. Kuo 
+
+601 5th St South, Suite C725 
+
+St Petersburg, FL 33701 
+
+ORCID identifier: 0009-0002-5983-1370 
+
+410-929-2123 
+
+frederick.kuo@jhmi.edu  
